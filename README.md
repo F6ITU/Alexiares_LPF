@@ -1,2 +1,2 @@
 # Alexiares_LPF
-Low-pass filter section of OpenHPSDR frontend
+This repository contains the Low Pass Filter project of the OpenHPSDR Alexiares frontend
