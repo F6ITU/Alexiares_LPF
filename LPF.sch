@@ -1760,8 +1760,6 @@ Wire Wire Line
 Wire Wire Line
 	5200 1950 5200 2000
 Wire Wire Line
-	5150 1650 6500 1650
-Wire Wire Line
 	4450 1650 4550 1650
 Connection ~ 4500 1650
 Connection ~ 5200 1650
@@ -1836,8 +1834,6 @@ Wire Wire Line
 Wire Wire Line
 	7150 3250 7200 3250
 Wire Wire Line
-	5150 2950 6500 2950
-Wire Wire Line
 	6450 3250 6450 3300
 Wire Wire Line
 	7200 2250 7200 2650
@@ -1886,8 +1882,6 @@ Wire Wire Line
 Wire Wire Line
 	7150 4550 7200 4550
 Wire Wire Line
-	5150 4250 6500 4250
-Wire Wire Line
 	6450 4550 6450 4600
 Wire Wire Line
 	7200 3550 7200 3950
@@ -1929,8 +1923,6 @@ Wire Wire Line
 Connection ~ 7200 5250
 Wire Wire Line
 	7150 5850 7250 5850
-Wire Wire Line
-	5150 5550 6500 5550
 Wire Wire Line
 	6450 5850 6450 5900
 Wire Wire Line
@@ -1977,8 +1969,6 @@ Wire Wire Line
 Wire Wire Line
 	7150 9800 7150 9850
 Wire Wire Line
-	5150 9500 6500 9500
-Wire Wire Line
 	6450 9800 6450 9850
 Wire Wire Line
 	7200 8800 7200 9200
@@ -2024,8 +2014,6 @@ Wire Wire Line
 	6450 6450 6500 6450
 Wire Wire Line
 	7200 7200 7150 7200
-Wire Wire Line
-	5150 6850 6500 6850
 Wire Wire Line
 	6450 7150 6450 7200
 Wire Wire Line
@@ -2074,8 +2062,6 @@ Wire Wire Line
 	6450 7800 6500 7800
 Wire Wire Line
 	7150 8500 7200 8500
-Wire Wire Line
-	5150 8200 6500 8200
 Wire Wire Line
 	6450 8500 6450 8550
 Wire Wire Line
@@ -2693,7 +2679,7 @@ L EE2-5NU RL15
 U 1 1 593DA829
 P 3700 5000
 F 0 "RL15" V 4450 4950 50  0000 L CNN
-F 1 "EE2-5NU" V 3700 4850 50  0000 L CNN
+F 1 "EC2-12NU" V 3700 4850 50  0000 L CNN
 F 2 "2_Form_C_Relay:THT_2_formC" H 3700 5000 50  0001 C CNN
 F 3 "" H 3700 5000 50  0001 C CNN
 	1    3700 5000
@@ -2803,9 +2789,9 @@ Text GLabel 6300 9500 3    60   Input ~ 0
 6m_Bypass
 Text GLabel 4100 5200 3    60   Input ~ 0
 TX_RX_RLY
-Text Notes 1150 4950 0    79   ~ 16
+Text Notes 1150 4950 0    39   ~ 0
 To RX Conn Brd\n
-Text Notes 1000 4400 0    79   ~ 16
+Text Notes 1350 4450 0    39   ~ 0
 To 15 W PA output\n
 Text Notes 7650 3800 1    79   ~ 16
 From PS/VSWR Brd <== TX Conn Brd
@@ -2987,4 +2973,113 @@ F 3 "" H 7200 2950 50  0000 C CNN
 $EndComp
 Wire Wire Line
 	2800 2600 2800 2650
+Text Notes 1250 4800 0    79   ~ 16
+RX_MASTER_IN
+Text Notes 1450 4300 0    79   ~ 16
+HF_TX
+$Comp
+L Jumper JP1
+U 1 1 5946D769
+P 5550 2950
+F 0 "JP1" H 5550 3100 50  0000 C CNN
+F 1 "Jumper" H 5550 2870 50  0000 C CNN
+F 2 "Jumper:Coax_wire_1.20m_Drill" H 5550 2950 50  0001 C CNN
+F 3 "" H 5550 2950 50  0001 C CNN
+	1    5550 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper JP7
+U 1 1 5946F7F4
+P 5750 1650
+F 0 "JP7" H 5750 1800 50  0000 C CNN
+F 1 "Jumper" H 5750 1570 50  0000 C CNN
+F 2 "Jumper:Coax_wire_1.20m_Drill" H 5750 1650 50  0001 C CNN
+F 3 "" H 5750 1650 50  0001 C CNN
+	1    5750 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5150 1650 5450 1650
+Wire Wire Line
+	6050 1650 6500 1650
+$Comp
+L Jumper JP2
+U 1 1 59472F9F
+P 5550 4250
+F 0 "JP2" H 5550 4400 50  0000 C CNN
+F 1 "Jumper" H 5550 4170 50  0000 C CNN
+F 2 "Jumper:Coax_wire_1.20m_Drill" H 5550 4250 50  0001 C CNN
+F 3 "" H 5550 4250 50  0001 C CNN
+	1    5550 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper JP3
+U 1 1 59473567
+P 5550 5550
+F 0 "JP3" H 5550 5700 50  0000 C CNN
+F 1 "Jumper" H 5550 5470 50  0000 C CNN
+F 2 "Jumper:Coax_wire_1.20m_Drill" H 5550 5550 50  0001 C CNN
+F 3 "" H 5550 5550 50  0001 C CNN
+	1    5550 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper JP4
+U 1 1 5947360C
+P 5550 6850
+F 0 "JP4" H 5550 7000 50  0000 C CNN
+F 1 "Jumper" H 5550 6770 50  0000 C CNN
+F 2 "Jumper:Coax_wire_1.20m_Drill" H 5550 6850 50  0001 C CNN
+F 3 "" H 5550 6850 50  0001 C CNN
+	1    5550 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper JP5
+U 1 1 59473A3C
+P 5550 8200
+F 0 "JP5" H 5550 8350 50  0000 C CNN
+F 1 "Jumper" H 5550 8120 50  0000 C CNN
+F 2 "Jumper:Coax_wire_1.20m_Drill" H 5550 8200 50  0001 C CNN
+F 3 "" H 5550 8200 50  0001 C CNN
+	1    5550 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper JP6
+U 1 1 59473AE3
+P 5550 9500
+F 0 "JP6" H 5550 9650 50  0000 C CNN
+F 1 "Jumper" H 5550 9420 50  0000 C CNN
+F 2 "Jumper:Coax_wire_1.20m_Drill" H 5550 9500 50  0001 C CNN
+F 3 "" H 5550 9500 50  0001 C CNN
+	1    5550 9500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5150 6850 5250 6850
+Wire Wire Line
+	5850 6850 6500 6850
+Wire Wire Line
+	5150 9500 5250 9500
+Wire Wire Line
+	5850 9500 6500 9500
+Wire Wire Line
+	5850 8200 6500 8200
+Wire Wire Line
+	5150 8200 5250 8200
+Wire Wire Line
+	5150 5550 5250 5550
+Wire Wire Line
+	5850 5550 6500 5550
+Wire Wire Line
+	5150 4250 5250 4250
+Wire Wire Line
+	5850 4250 6500 4250
+Wire Wire Line
+	5150 2950 5250 2950
+Wire Wire Line
+	5850 2950 6500 2950
 $EndSCHEMATC
