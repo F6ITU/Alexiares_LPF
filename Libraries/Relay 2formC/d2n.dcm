@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D2n
+D D2n Relay V23105
+K Relay, 2 form C, 2 CO
+F D2n.pdf
+$ENDCMP
+#
+#End Doc Library

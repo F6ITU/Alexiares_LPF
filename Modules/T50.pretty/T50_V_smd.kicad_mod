@@ -1,4 +1,4 @@
-(module T50_V_smd (layer F.Cu) (tedit 592D2CC4)
+(module T50_V_SMD (layer F.Cu) (tedit 592D2CC4)
   (tags "toroid inductance inductor self")
   (solder_mask_margin 0.7)
   (clearance 0.5)
