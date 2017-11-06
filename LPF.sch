@@ -2189,7 +2189,7 @@ Text Notes 850  1900 0    60   ~ 0
 12V
 Text Notes 850  2000 0    60   ~ 0
 gnd\n
-Text GLabel 2900 1650 2    60   Input ~ 0
+Text GLabel 2900 1450 2    60   Input ~ 0
 6m_Bypass
 Text GLabel 2400 1550 2    60   Input ~ 0
 12/10m
@@ -2399,7 +2399,7 @@ Text Notes 850  4300 0    60   ~ 0
 HF_TX
 Text Notes 750  4900 0    60   ~ 0
 RX_Master_In
-Text GLabel 2900 1450 2    60   Input ~ 0
+Text GLabel 2900 1650 2    60   Input ~ 0
 TX_RX_RLY
 Text GLabel 2650 5200 3    60   Input ~ 0
 TX_RX_RLY

@@ -2189,7 +2189,7 @@ Text Notes 850  1900 0    60   ~ 0
 12V
 Text Notes 850  2000 0    60   ~ 0
 gnd\n
-Text GLabel 2900 1650 2    60   Input ~ 0
+Text GLabel 2900 1450 2    60   Input ~ 0
 6m_Bypass
 Text GLabel 2400 1550 2    60   Input ~ 0
 12/10m
@@ -2399,7 +2399,7 @@ Text Notes 850  4300 0    60   ~ 0
 HF_TX
 Text Notes 750  4900 0    60   ~ 0
 RX_Master_In
-Text GLabel 2900 1450 2    60   Input ~ 0
+Text GLabel 2900 1650 2    60   Input ~ 0
 TX_RX_RLY
 Text GLabel 2650 5200 3    60   Input ~ 0
 TX_RX_RLY
@@ -2797,28 +2797,6 @@ F 3 "" H 6450 9750 50  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C71
-U 1 1 59FDAFA7
-P 7150 9750
-F 0 "C71" H 7300 9750 50  0000 L CNN
-F 1 "10n" H 7175 9650 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 7188 9600 50  0001 C CNN
-F 3 "" H 7150 9750 50  0001 C CNN
-	1    7150 9750
-	1    0    0    -1  
-$EndComp
-$Comp
-L GND #PWR091
-U 1 1 59FDAFAD
-P 7200 9900
-F 0 "#PWR091" H 7200 9650 50  0001 C CNN
-F 1 "GND" H 7200 9750 50  0000 C CNN
-F 2 "" H 7200 9900 50  0000 C CNN
-F 3 "" H 7200 9900 50  0000 C CNN
-	1    7200 9900
-	0    -1   -1   0   
-$EndComp
-$Comp
 L GND #PWR092
 U 1 1 59FDAFB3
 P 6450 9950
@@ -2883,8 +2861,6 @@ Wire Wire Line
 	7200 9300 7100 9300
 Wire Wire Line
 	6450 9200 6500 9200
-Wire Wire Line
-	7150 9900 7200 9900
 Wire Wire Line
 	6450 9900 6450 9950
 Wire Wire Line
