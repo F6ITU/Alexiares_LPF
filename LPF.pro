@@ -1,4 +1,4 @@
-update=28/10/2017 16:37:58
+update=07/11/2017 12:00:46
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=79
 [eeschema]
 version=1
 LibDir=
@@ -47,3 +37,13 @@ LibName5=linear
 LibName6=regul
 LibName7=Libraries/Regulateurs/7805d-pack
 LibName8=C:/Users/Marco/Documents/Kicad/libraries/Relay 2formC/d2n
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=79
