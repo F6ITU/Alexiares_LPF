@@ -1,4 +1,2 @@
 (fp_lib_table
-  (lib (name Wire_Connections_Bridges)(type KiCad)(uri C:/Users/Marco/Documents/Kicad/modules/Wire_Connections_Bridges.pretty)(options "")(descr ""))
-  (lib (name Wire_Pads)(type KiCad)(uri C:/Users/Marco/Documents/Kicad/modules/Wire_Pads.pretty)(options "")(descr ""))
 )

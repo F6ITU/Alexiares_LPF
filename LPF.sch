@@ -1872,7 +1872,7 @@ TX_RX_RLY
 Text GLabel 2850 5200 3    60   Input ~ 0
 TX_RX_RLY
 Text Notes 850  6100 0    39   ~ 0
-To RX Conn Brd\n
+To RX HPF board\n
 Text Notes 600  4100 0    39   ~ 0
 To 15 W PA output\n
 Text Notes 7650 2800 1    79   ~ 16
