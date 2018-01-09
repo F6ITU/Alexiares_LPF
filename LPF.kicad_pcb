@@ -3,9 +3,9 @@
   (general
     (links 831)
     (no_connects 0)
-    (area 54.157143 41.749388 156.842858 154.075001)
+    (area 54.157143 41.749388 203.142859 174.75)
     (thickness 1.6)
-    (drawings 18)
+    (drawings 19)
     (tracks 2285)
     (zones 0)
     (modules 629)
@@ -29,7 +29,7 @@
     (40 Dwgs.User user)
     (41 Cmts.User user hide)
     (42 Eco1.User user)
-    (43 Eco2.User user hide)
+    (43 Eco2.User user)
     (44 Edge.Cuts user)
     (45 Margin user hide)
     (46 B.CrtYd user hide)
@@ -8007,8 +8007,8 @@
       (net 1 GND))
     (pad 2 thru_hole circle (at -2.54 -2.54) (size 2.49936 2.49936) (drill 1.30048) (layers *.Cu *.Mask F.SilkS)
       (net 1 GND))
-    (model ../../../../../../Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty/packages3d/SMA_PINS/SMA_PINS.wrl
-      (at (xyz 0 0 0))
+    (model ../../../../../../Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl
+      (at (xyz 0 -0.17 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -8043,8 +8043,8 @@
       (net 1 GND))
     (pad 2 thru_hole circle (at -2.54 -2.54) (size 2.49936 2.49936) (drill 1.30048) (layers *.Cu *.Mask F.SilkS)
       (net 1 GND))
-    (model ../../../../../../Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty/packages3d/SMA_PINS/SMA_PINS.wrl
-      (at (xyz 0 0 0))
+    (model ../../../../../../Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl
+      (at (xyz 0 -0.17 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -8149,6 +8149,11 @@
       (net 1 GND))
     (model ../../../../../../Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty/packages3d/SMA_PINS/SMA_PINS.wrl
       (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model ../../../../../../Users/Marco/Documents/Kicad/modules/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl
+      (at (xyz 0 -0.17 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -11984,6 +11989,9 @@
       (net 1 GND) (zone_connect 2))
   )
 
+  (gr_text "Alexiares LPF" (at 193 173) (layer Eco2.User)
+    (effects (font (size 2 2) (thickness 0.3)))
+  )
   (gr_text "From P.A.\nOutput" (at 105 133.5) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify right))
   )
