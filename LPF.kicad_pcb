@@ -6,7 +6,7 @@
     (area 54.157143 41.749388 203.142859 174.75)
     (thickness 1.6)
     (drawings 19)
-    (tracks 2338)
+    (tracks 2336)
     (zones 0)
     (modules 629)
     (nets 53)
@@ -15,8 +15,8 @@
   (page A4)
   (layers
     (0 F.Cu signal)
-    (1 In1.Cu power)
-    (2 In2.Cu power)
+    (1 In1.Cu power hide)
+    (2 In2.Cu power hide)
     (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user hide)
@@ -12039,8 +12039,6 @@
   (gr_line (start 155 45) (end 55 45) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 155 145) (end 155 45) (angle 90) (layer Edge.Cuts) (width 0.15))
 
-  (segment (start 135 67) (end 135 66) (width 0.25) (layer F.Cu) (net 1))
-  (segment (start 135 67) (end 135 66.5) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 134 67) (end 135 67) (width 0.25) (layer B.Cu) (net 1))
   (via (at 135 67) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 1))
   (via (at 134 67) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 1))
