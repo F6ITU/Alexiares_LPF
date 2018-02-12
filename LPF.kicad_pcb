@@ -3,10 +3,10 @@
   (general
     (links 831)
     (no_connects 0)
-    (area 54.924999 44.924999 155.075001 145.075001)
+    (area 54.157143 41.749388 203.142859 174.75)
     (thickness 1.6)
     (drawings 19)
-    (tracks 2338)
+    (tracks 2336)
     (zones 0)
     (modules 629)
     (nets 53)
@@ -15,8 +15,8 @@
   (page A4)
   (layers
     (0 F.Cu signal)
-    (1 In1.Cu power)
-    (2 In2.Cu power)
+    (1 In1.Cu power hide)
+    (2 In2.Cu power hide)
     (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user hide)
@@ -12039,8 +12039,6 @@
   (gr_line (start 155 45) (end 55 45) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 155 145) (end 155 45) (angle 90) (layer Edge.Cuts) (width 0.15))
 
-  (segment (start 135 67) (end 135 66) (width 0.25) (layer F.Cu) (net 1))
-  (segment (start 135 67) (end 135 66.5) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 134 67) (end 135 67) (width 0.25) (layer B.Cu) (net 1))
   (via (at 135 67) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 1))
   (via (at 134 67) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 1))
@@ -18397,13 +18395,22 @@
       )
     )
   )
-  (zone (net 0) (net_name "") (layer F.Mask) (tstamp 5A6F1E93) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer F.Mask) (tstamp 5A81760D) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
-    (fill (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 155 145) (xy 55 145) (xy 55 45) (xy 155 45)
+        (xy 57 143) (xy 153 143) (xy 153 45) (xy 155 45) (xy 155 145)
+        (xy 55 145) (xy 55 45) (xy 57 45)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 56.873 143) (xy 56.883006 143.04941) (xy 56.911447 143.091035) (xy 56.953841 143.118315) (xy 57 143.127)
+        (xy 153 143.127) (xy 153.04941 143.116994) (xy 153.091035 143.088553) (xy 153.118315 143.046159) (xy 153.127 143)
+        (xy 153.127 45.127) (xy 154.873 45.127) (xy 154.873 144.873) (xy 55.127 144.873) (xy 55.127 45.127)
+        (xy 56.873 45.127)
       )
     )
   )
