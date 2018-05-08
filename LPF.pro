@@ -1,4 +1,4 @@
-update=14/01/2018 18:03:52
+update=24/03/2018 10:00:17
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,14 +29,10 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=power
-LibName2=device
-LibName3=transistors
-LibName4=conn
-LibName5=linear
-LibName6=regul
-LibName7=Libraries/Regulateurs/7805d-pack
-LibName8=C:/Users/Marco/Documents/Kicad/libraries/Relay 2formC/d2n
+LibName1=C:/Users/Marco/Documents/Kicad/libraries/Relay 2formC/d2n
+LibName2=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Connector_Generic
+LibName3=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Device
+LibName4=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/power
 [schematic_editor]
 version=1
 PageLayoutDescrFile=

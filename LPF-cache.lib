@@ -62,8 +62,7 @@ F1 "Conn_02x05_Counter_Clockwise" 50 -300 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
- Connector*:*2x??x*mm*
- Connector*:*2x???Pitch*
+ Connector*:*_2x??_*
 $ENDFPLIST
 DRAW
 S -50 -195 0 -205 1 1 6 N
@@ -166,7 +165,7 @@ ENDDEF
 #
 # GND
 #
-DEF GND #PWR 0 0 Y Y 1 F P
+DEF GND #PWR 0 0 N N 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
 F1 "GND" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
