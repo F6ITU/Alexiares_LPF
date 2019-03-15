@@ -1,10 +1,6 @@
-EESchema Schematic File Version 2
-LIBS:d2n
-LIBS:Connector_Generic
-LIBS:Device
-LIBS:power
+EESchema Schematic File Version 4
 LIBS:LPF-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
@@ -19,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L BNC P3
+L LPF-rescue:BNC P3
 U 1 1 592DB2B5
 P 7550 4400
 F 0 "P3" H 7560 4520 50  0000 C CNN
@@ -30,7 +26,7 @@ F 3 "" H 7550 4400 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR01
+L LPF-rescue:GND #PWR01
 U 1 1 592DB2B6
 P 7550 4650
 F 0 "#PWR01" H 7550 4400 50  0001 C CNN
@@ -41,7 +37,7 @@ F 3 "" H 7550 4650 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR02
+L LPF-rescue:GND #PWR02
 U 1 1 592DB2B7
 P 7550 4650
 F 0 "#PWR02" H 7550 4400 50  0001 C CNN
@@ -56,7 +52,7 @@ To_RX1_PS_Brd \n
 Text Notes 5650 7250 2    60   Italic 12
 25 MHz\n
 $Comp
-L GND #PWR03
+L LPF-rescue:GND #PWR03
 U 1 1 592DB2BF
 P 4500 1350
 F 0 "#PWR03" H 4500 1100 50  0001 C CNN
@@ -67,7 +63,7 @@ F 3 "" H 4500 1350 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L C C8
+L LPF-rescue:C C8
 U 1 1 592DB2C0
 P 5200 1800
 F 0 "C8" H 5100 1700 50  0000 L CNN
@@ -78,7 +74,7 @@ F 3 "" H 5200 1800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR04
+L LPF-rescue:GND #PWR04
 U 1 1 592DB2C2
 P 5200 2000
 F 0 "#PWR04" H 5200 1750 50  0001 C CNN
@@ -89,7 +85,7 @@ F 3 "" H 5200 2000 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C1
+L LPF-rescue:C C1
 U 1 1 592DB2C3
 P 4500 1800
 F 0 "C1" H 4400 1700 50  0000 L CNN
@@ -100,7 +96,7 @@ F 3 "" H 4500 1800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR05
+L LPF-rescue:GND #PWR05
 U 1 1 592DB2C5
 P 4450 1950
 F 0 "#PWR05" H 4450 1700 50  0001 C CNN
@@ -111,7 +107,7 @@ F 3 "" H 4450 1950 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L C C52
+L LPF-rescue:C C52
 U 1 1 592DB2C7
 P 6450 1800
 F 0 "C52" H 6550 1900 50  0000 L CNN
@@ -122,7 +118,7 @@ F 3 "" H 6450 1800 50  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C60
+L LPF-rescue:C C60
 U 1 1 592DB2C8
 P 7150 1800
 F 0 "C60" H 7250 1800 50  0000 L CNN
@@ -133,7 +129,7 @@ F 3 "" H 7150 1800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR06
+L LPF-rescue:GND #PWR06
 U 1 1 592DB2CA
 P 7200 1950
 F 0 "#PWR06" H 7200 1700 50  0001 C CNN
@@ -144,7 +140,7 @@ F 3 "" H 7200 1950 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L GND #PWR07
+L LPF-rescue:GND #PWR07
 U 1 1 592DB2CE
 P 7200 1350
 F 0 "#PWR07" H 7200 1100 50  0001 C CNN
@@ -155,7 +151,7 @@ F 3 "" H 7200 1350 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L C C39
+L LPF-rescue:C C39
 U 1 1 592DB2CF
 P 6100 850
 F 0 "C39" H 6125 950 50  0000 L CNN
@@ -166,7 +162,7 @@ F 3 "" H 6100 850 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L10
+L LPF-rescue:L_Core_Ferrite_Small L10
 U 1 1 592DB2D0
 P 6100 1000
 F 0 "L10" H 6150 1040 50  0000 L CNN
@@ -177,7 +173,7 @@ F 3 "" H 6100 1000 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C46
+L LPF-rescue:C C46
 U 1 1 592DB2D1
 P 6250 1150
 F 0 "C46" V 6300 1300 50  0000 L CNN
@@ -188,7 +184,7 @@ F 3 "" H 6250 1150 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C32
+L LPF-rescue:C C32
 U 1 1 592DB2D2
 P 5900 1150
 F 0 "C32" V 5950 1300 50  0000 L CNN
@@ -199,7 +195,7 @@ F 3 "" H 5900 1150 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR08
+L LPF-rescue:GND #PWR08
 U 1 1 592DB2D3
 P 6250 1350
 F 0 "#PWR08" H 6250 1100 50  0001 C CNN
@@ -210,7 +206,7 @@ F 3 "" H 6250 1350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR09
+L LPF-rescue:GND #PWR09
 U 1 1 592DB2D4
 P 5900 1350
 F 0 "#PWR09" H 5900 1100 50  0001 C CNN
@@ -221,7 +217,7 @@ F 3 "" H 5900 1350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C25
+L LPF-rescue:C C25
 U 1 1 592DB2D5
 P 5700 850
 F 0 "C25" H 5725 950 50  0000 L CNN
@@ -232,7 +228,7 @@ F 3 "" H 5700 850 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L3
+L LPF-rescue:L_Core_Ferrite_Small L3
 U 1 1 592DB2D6
 P 5700 1000
 F 0 "L3" H 5750 1040 50  0000 L CNN
@@ -243,7 +239,7 @@ F 3 "" H 5700 1000 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C19
+L LPF-rescue:C C19
 U 1 1 592DB2D7
 P 5550 1150
 F 0 "C19" V 5600 1300 50  0000 L CNN
@@ -254,7 +250,7 @@ F 3 "" H 5550 1150 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR010
+L LPF-rescue:GND #PWR010
 U 1 1 592DB2D8
 P 5550 1350
 F 0 "#PWR010" H 5550 1100 50  0001 C CNN
@@ -265,7 +261,7 @@ F 3 "" H 5550 1350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C53
+L LPF-rescue:C C53
 U 1 1 592DB2D9
 P 6450 3100
 F 0 "C53" H 6550 3200 50  0000 L CNN
@@ -276,7 +272,7 @@ F 3 "" H 6450 3100 50  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C61
+L LPF-rescue:C C61
 U 1 1 592DB2DA
 P 7150 3100
 F 0 "C61" H 7250 3100 50  0000 L CNN
@@ -287,7 +283,7 @@ F 3 "" H 7150 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR011
+L LPF-rescue:GND #PWR011
 U 1 1 592DB2DC
 P 7200 3250
 F 0 "#PWR011" H 7200 3000 50  0001 C CNN
@@ -298,7 +294,7 @@ F 3 "" H 7200 3250 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L C C40
+L LPF-rescue:C C40
 U 1 1 592DB2E1
 P 6100 2150
 F 0 "C40" H 6125 2250 50  0000 L CNN
@@ -309,7 +305,7 @@ F 3 "" H 6100 2150 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L11
+L LPF-rescue:L_Core_Ferrite_Small L11
 U 1 1 592DB2E2
 P 6100 2300
 F 0 "L11" H 6150 2340 50  0000 L CNN
@@ -320,7 +316,7 @@ F 3 "" H 6100 2300 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C47
+L LPF-rescue:C C47
 U 1 1 592DB2E3
 P 6250 2450
 F 0 "C47" V 6300 2600 50  0000 L CNN
@@ -331,7 +327,7 @@ F 3 "" H 6250 2450 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C33
+L LPF-rescue:C C33
 U 1 1 592DB2E4
 P 5900 2450
 F 0 "C33" V 5950 2600 50  0000 L CNN
@@ -342,7 +338,7 @@ F 3 "" H 5900 2450 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR012
+L LPF-rescue:GND #PWR012
 U 1 1 592DB2E5
 P 6250 2650
 F 0 "#PWR012" H 6250 2400 50  0001 C CNN
@@ -353,7 +349,7 @@ F 3 "" H 6250 2650 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C26
+L LPF-rescue:C C26
 U 1 1 592DB2E7
 P 5700 2150
 F 0 "C26" H 5725 2250 50  0000 L CNN
@@ -364,7 +360,7 @@ F 3 "" H 5700 2150 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L4
+L LPF-rescue:L_Core_Ferrite_Small L4
 U 1 1 592DB2E8
 P 5700 2300
 F 0 "L4" H 5750 2340 50  0000 L CNN
@@ -375,7 +371,7 @@ F 3 "" H 5700 2300 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C20
+L LPF-rescue:C C20
 U 1 1 592DB2E9
 P 5550 2450
 F 0 "C20" V 5600 2600 50  0000 L CNN
@@ -386,7 +382,7 @@ F 3 "" H 5550 2450 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C54
+L LPF-rescue:C C54
 U 1 1 592DB2EB
 P 6450 4400
 F 0 "C54" H 6550 4500 50  0000 L CNN
@@ -397,7 +393,7 @@ F 3 "" H 6450 4400 50  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C62
+L LPF-rescue:C C62
 U 1 1 592DB2EC
 P 7150 4400
 F 0 "C62" H 7250 4400 50  0000 L CNN
@@ -408,7 +404,7 @@ F 3 "" H 7150 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR013
+L LPF-rescue:GND #PWR013
 U 1 1 592DB2EE
 P 7200 4550
 F 0 "#PWR013" H 7200 4300 50  0001 C CNN
@@ -419,7 +415,7 @@ F 3 "" H 7200 4550 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L GND #PWR014
+L LPF-rescue:GND #PWR014
 U 1 1 592DB2F1
 P 6450 4600
 F 0 "#PWR014" H 6450 4350 50  0001 C CNN
@@ -430,7 +426,7 @@ F 3 "" H 6450 4600 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR015
+L LPF-rescue:GND #PWR015
 U 1 1 592DB2F2
 P 7200 3950
 F 0 "#PWR015" H 7200 3700 50  0001 C CNN
@@ -441,7 +437,7 @@ F 3 "" H 7200 3950 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L C C41
+L LPF-rescue:C C41
 U 1 1 592DB2F3
 P 6100 3450
 F 0 "C41" H 6125 3550 50  0000 L CNN
@@ -452,7 +448,7 @@ F 3 "" H 6100 3450 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L12
+L LPF-rescue:L_Core_Ferrite_Small L12
 U 1 1 592DB2F4
 P 6100 3600
 F 0 "L12" H 6150 3640 50  0000 L CNN
@@ -463,7 +459,7 @@ F 3 "" H 6100 3600 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C48
+L LPF-rescue:C C48
 U 1 1 592DB2F5
 P 6250 3750
 F 0 "C48" V 6300 3900 50  0000 L CNN
@@ -474,7 +470,7 @@ F 3 "" H 6250 3750 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C34
+L LPF-rescue:C C34
 U 1 1 592DB2F6
 P 5900 3750
 F 0 "C34" V 5950 3900 50  0000 L CNN
@@ -485,7 +481,7 @@ F 3 "" H 5900 3750 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR016
+L LPF-rescue:GND #PWR016
 U 1 1 592DB2F7
 P 6250 3950
 F 0 "#PWR016" H 6250 3700 50  0001 C CNN
@@ -496,7 +492,7 @@ F 3 "" H 6250 3950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR017
+L LPF-rescue:GND #PWR017
 U 1 1 592DB2F8
 P 5900 3950
 F 0 "#PWR017" H 5900 3700 50  0001 C CNN
@@ -507,7 +503,7 @@ F 3 "" H 5900 3950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C27
+L LPF-rescue:C C27
 U 1 1 592DB2F9
 P 5700 3450
 F 0 "C27" H 5725 3550 50  0000 L CNN
@@ -518,7 +514,7 @@ F 3 "" H 5700 3450 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L5
+L LPF-rescue:L_Core_Ferrite_Small L5
 U 1 1 592DB2FA
 P 5700 3600
 F 0 "L5" H 5750 3640 50  0000 L CNN
@@ -529,7 +525,7 @@ F 3 "" H 5700 3600 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C21
+L LPF-rescue:C C21
 U 1 1 592DB2FB
 P 5550 3750
 F 0 "C21" V 5600 3900 50  0000 L CNN
@@ -540,7 +536,7 @@ F 3 "" H 5550 3750 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR018
+L LPF-rescue:GND #PWR018
 U 1 1 592DB2FC
 P 5550 3950
 F 0 "#PWR018" H 5550 3700 50  0001 C CNN
@@ -551,7 +547,7 @@ F 3 "" H 5550 3950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C56
+L LPF-rescue:C C56
 U 1 1 592DB2FD
 P 6450 5700
 F 0 "C56" H 6550 5800 50  0000 L CNN
@@ -562,7 +558,7 @@ F 3 "" H 6450 5700 50  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C63
+L LPF-rescue:C C63
 U 1 1 592DB2FE
 P 7150 5700
 F 0 "C63" H 7250 5700 50  0000 L CNN
@@ -573,7 +569,7 @@ F 3 "" H 7150 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR019
+L LPF-rescue:GND #PWR019
 U 1 1 592DB304
 P 7200 5250
 F 0 "#PWR019" H 7200 5000 50  0001 C CNN
@@ -584,7 +580,7 @@ F 3 "" H 7200 5250 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L C C51
+L LPF-rescue:C C51
 U 1 1 592DB305
 P 6300 4750
 F 0 "C51" H 6325 4850 50  0000 L CNN
@@ -595,7 +591,7 @@ F 3 "" H 6300 4750 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L16
+L LPF-rescue:L_Core_Ferrite_Small L16
 U 1 1 592DB306
 P 6300 4900
 F 0 "L16" H 6350 4940 50  0000 L CNN
@@ -606,7 +602,7 @@ F 3 "" H 6300 4900 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C55
+L LPF-rescue:C C55
 U 1 1 592DB307
 P 6450 5050
 F 0 "C55" V 6500 5200 50  0000 L CNN
@@ -617,7 +613,7 @@ F 3 "" H 6450 5050 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C42
+L LPF-rescue:C C42
 U 1 1 592DB308
 P 6100 5050
 F 0 "C42" V 6150 5200 50  0000 L CNN
@@ -628,7 +624,7 @@ F 3 "" H 6100 5050 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR020
+L LPF-rescue:GND #PWR020
 U 1 1 592DB309
 P 6450 5250
 F 0 "#PWR020" H 6450 5000 50  0001 C CNN
@@ -639,7 +635,7 @@ F 3 "" H 6450 5250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR021
+L LPF-rescue:GND #PWR021
 U 1 1 592DB30A
 P 6100 5250
 F 0 "#PWR021" H 6100 5000 50  0001 C CNN
@@ -650,7 +646,7 @@ F 3 "" H 6100 5250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C35
+L LPF-rescue:C C35
 U 1 1 592DB30B
 P 5900 4750
 F 0 "C35" H 5925 4850 50  0000 L CNN
@@ -661,7 +657,7 @@ F 3 "" H 5900 4750 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L9
+L LPF-rescue:L_Core_Ferrite_Small L9
 U 1 1 592DB30C
 P 5900 4900
 F 0 "L9" H 5950 4940 50  0000 L CNN
@@ -672,7 +668,7 @@ F 3 "" H 5900 4900 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C31
+L LPF-rescue:C C31
 U 1 1 592DB30D
 P 5750 5050
 F 0 "C31" V 5800 5200 50  0000 L CNN
@@ -683,7 +679,7 @@ F 3 "" H 5750 5050 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR022
+L LPF-rescue:GND #PWR022
 U 1 1 592DB30E
 P 5750 5250
 F 0 "#PWR022" H 5750 5000 50  0001 C CNN
@@ -694,7 +690,7 @@ F 3 "" H 5750 5250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C45
+L LPF-rescue:C C45
 U 1 1 592DB317
 P 3450 4400
 F 0 "C45" H 3475 4500 50  0000 L CNN
@@ -705,7 +701,7 @@ F 3 "" H 3450 4400 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L15
+L LPF-rescue:L_Core_Ferrite_Small L15
 U 1 1 592DB318
 P 3450 4550
 F 0 "L15" H 3500 4590 50  0000 L CNN
@@ -716,7 +712,7 @@ F 3 "" H 3450 4550 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C38
+L LPF-rescue:C C38
 U 1 1 592DB319
 P 3250 4700
 F 0 "C38" V 3300 4850 50  0000 L CNN
@@ -727,7 +723,7 @@ F 3 "" H 3250 4700 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR023
+L LPF-rescue:GND #PWR023
 U 1 1 592DB31A
 P 3250 4900
 F 0 "#PWR023" H 3250 4650 50  0001 C CNN
@@ -738,7 +734,7 @@ F 3 "" H 3250 4900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C30
+L LPF-rescue:C C30
 U 1 1 592DB31B
 P 3050 4400
 F 0 "C30" H 3075 4500 50  0000 L CNN
@@ -749,7 +745,7 @@ F 3 "" H 3050 4400 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L8
+L LPF-rescue:L_Core_Ferrite_Small L8
 U 1 1 592DB31C
 P 3050 4550
 F 0 "L8" H 3100 4590 50  0000 L CNN
@@ -760,7 +756,7 @@ F 3 "" H 3050 4550 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C24
+L LPF-rescue:C C24
 U 1 1 592DB31D
 P 2900 4700
 F 0 "C24" V 2950 4850 50  0000 L CNN
@@ -771,7 +767,7 @@ F 3 "" H 2900 4700 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR024
+L LPF-rescue:GND #PWR024
 U 1 1 592DB31E
 P 2900 4900
 F 0 "#PWR024" H 2900 4650 50  0001 C CNN
@@ -782,7 +778,7 @@ F 3 "" H 2900 4900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C57
+L LPF-rescue:C C57
 U 1 1 592DB31F
 P 6450 7000
 F 0 "C57" H 6550 7100 50  0000 L CNN
@@ -793,7 +789,7 @@ F 3 "" H 6450 7000 50  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C64
+L LPF-rescue:C C64
 U 1 1 592DB320
 P 7150 7050
 F 0 "C64" H 7300 7050 50  0000 L CNN
@@ -804,7 +800,7 @@ F 3 "" H 7150 7050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR025
+L LPF-rescue:GND #PWR025
 U 1 1 592DB321
 P 7200 7200
 F 0 "#PWR025" H 7200 6950 50  0001 C CNN
@@ -815,7 +811,7 @@ F 3 "" H 7200 7200 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L GND #PWR026
+L LPF-rescue:GND #PWR026
 U 1 1 592DB325
 P 6450 7200
 F 0 "#PWR026" H 6450 6950 50  0001 C CNN
@@ -826,7 +822,7 @@ F 3 "" H 6450 7200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR027
+L LPF-rescue:GND #PWR027
 U 1 1 592DB326
 P 7200 6550
 F 0 "#PWR027" H 7200 6300 50  0001 C CNN
@@ -837,7 +833,7 @@ F 3 "" H 7200 6550 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L C C43
+L LPF-rescue:C C43
 U 1 1 592DB327
 P 6100 6050
 F 0 "C43" H 6125 6150 50  0000 L CNN
@@ -848,7 +844,7 @@ F 3 "" H 6100 6050 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L13
+L LPF-rescue:L_Core_Ferrite_Small L13
 U 1 1 592DB328
 P 6100 6200
 F 0 "L13" H 6150 6240 50  0000 L CNN
@@ -859,7 +855,7 @@ F 3 "" H 6100 6200 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C49
+L LPF-rescue:C C49
 U 1 1 592DB329
 P 6250 6350
 F 0 "C49" V 6300 6500 50  0000 L CNN
@@ -870,7 +866,7 @@ F 3 "" H 6250 6350 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C36
+L LPF-rescue:C C36
 U 1 1 592DB32A
 P 5900 6350
 F 0 "C36" V 6000 6550 50  0000 L CNN
@@ -881,7 +877,7 @@ F 3 "" H 5900 6350 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR028
+L LPF-rescue:GND #PWR028
 U 1 1 592DB32B
 P 6250 6550
 F 0 "#PWR028" H 6250 6300 50  0001 C CNN
@@ -892,7 +888,7 @@ F 3 "" H 6250 6550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR029
+L LPF-rescue:GND #PWR029
 U 1 1 592DB32C
 P 5900 6550
 F 0 "#PWR029" H 5900 6300 50  0001 C CNN
@@ -903,7 +899,7 @@ F 3 "" H 5900 6550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C28
+L LPF-rescue:C C28
 U 1 1 592DB32D
 P 5700 6050
 F 0 "C28" H 5725 6150 50  0000 L CNN
@@ -914,7 +910,7 @@ F 3 "" H 5700 6050 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L6
+L LPF-rescue:L_Core_Ferrite_Small L6
 U 1 1 592DB32E
 P 5700 6200
 F 0 "L6" H 5750 6240 50  0000 L CNN
@@ -925,7 +921,7 @@ F 3 "" H 5700 6200 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C22
+L LPF-rescue:C C22
 U 1 1 592DB32F
 P 5550 6350
 F 0 "C22" V 5600 6500 50  0000 L CNN
@@ -936,7 +932,7 @@ F 3 "" H 5550 6350 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR030
+L LPF-rescue:GND #PWR030
 U 1 1 592DB330
 P 5550 6550
 F 0 "#PWR030" H 5550 6300 50  0001 C CNN
@@ -947,7 +943,7 @@ F 3 "" H 5550 6550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C58
+L LPF-rescue:C C58
 U 1 1 592DB331
 P 6450 8350
 F 0 "C58" H 6550 8450 50  0000 L CNN
@@ -958,7 +954,7 @@ F 3 "" H 6450 8350 50  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C65
+L LPF-rescue:C C65
 U 1 1 592DB332
 P 7150 8350
 F 0 "C65" H 7300 8350 50  0000 L CNN
@@ -969,7 +965,7 @@ F 3 "" H 7150 8350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR031
+L LPF-rescue:GND #PWR031
 U 1 1 592DB333
 P 7200 8500
 F 0 "#PWR031" H 7200 8250 50  0001 C CNN
@@ -980,7 +976,7 @@ F 3 "" H 7200 8500 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L GND #PWR032
+L LPF-rescue:GND #PWR032
 U 1 1 592DB337
 P 6450 8550
 F 0 "#PWR032" H 6450 8300 50  0001 C CNN
@@ -991,7 +987,7 @@ F 3 "" H 6450 8550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR033
+L LPF-rescue:GND #PWR033
 U 1 1 592DB338
 P 7200 7900
 F 0 "#PWR033" H 7200 7650 50  0001 C CNN
@@ -1002,7 +998,7 @@ F 3 "" H 7200 7900 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L C C44
+L LPF-rescue:C C44
 U 1 1 592DB339
 P 6100 7400
 F 0 "C44" H 6125 7500 50  0000 L CNN
@@ -1013,7 +1009,7 @@ F 3 "" H 6100 7400 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L14
+L LPF-rescue:L_Core_Ferrite_Small L14
 U 1 1 592DB33A
 P 6100 7550
 F 0 "L14" H 6150 7590 50  0000 L CNN
@@ -1024,7 +1020,7 @@ F 3 "" H 6100 7550 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C50
+L LPF-rescue:C C50
 U 1 1 592DB33B
 P 6250 7700
 F 0 "C50" V 6300 7850 50  0000 L CNN
@@ -1035,7 +1031,7 @@ F 3 "" H 6250 7700 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L C C37
+L LPF-rescue:C C37
 U 1 1 592DB33C
 P 5900 7700
 F 0 "C37" V 5950 7850 50  0000 L CNN
@@ -1046,7 +1042,7 @@ F 3 "" H 5900 7700 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR034
+L LPF-rescue:GND #PWR034
 U 1 1 592DB33D
 P 6250 7900
 F 0 "#PWR034" H 6250 7650 50  0001 C CNN
@@ -1057,7 +1053,7 @@ F 3 "" H 6250 7900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR035
+L LPF-rescue:GND #PWR035
 U 1 1 592DB33E
 P 5900 7900
 F 0 "#PWR035" H 5900 7650 50  0001 C CNN
@@ -1068,7 +1064,7 @@ F 3 "" H 5900 7900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C29
+L LPF-rescue:C C29
 U 1 1 592DB33F
 P 5700 7400
 F 0 "C29" V 5650 7450 50  0000 L CNN
@@ -1079,7 +1075,7 @@ F 3 "" H 5700 7400 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L7
+L LPF-rescue:L_Core_Ferrite_Small L7
 U 1 1 592DB340
 P 5700 7550
 F 0 "L7" H 5750 7590 50  0000 L CNN
@@ -1090,7 +1086,7 @@ F 3 "" H 5700 7550 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C23
+L LPF-rescue:C C23
 U 1 1 592DB341
 P 5550 7700
 F 0 "C23" V 5600 7850 50  0000 L CNN
@@ -1101,7 +1097,7 @@ F 3 "" H 5550 7700 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR036
+L LPF-rescue:GND #PWR036
 U 1 1 592DB342
 P 5550 7900
 F 0 "#PWR036" H 5550 7650 50  0001 C CNN
@@ -1112,7 +1108,7 @@ F 3 "" H 5550 7900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C17
+L LPF-rescue:C C17
 U 1 1 592DB343
 P 2700 4400
 F 0 "C17" H 2725 4500 50  0000 L CNN
@@ -1123,7 +1119,7 @@ F 3 "" H 2700 4400 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L2
+L LPF-rescue:L_Core_Ferrite_Small L2
 U 1 1 592DB344
 P 2700 4550
 F 0 "L2" H 2750 4590 50  0000 L CNN
@@ -1134,7 +1130,7 @@ F 3 "" H 2700 4550 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L C C16
+L LPF-rescue:C C16
 U 1 1 592DB345
 P 5350 4750
 F 0 "C16" H 5375 4850 50  0000 L CNN
@@ -1145,7 +1141,7 @@ F 3 "" H 5350 4750 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L1
+L LPF-rescue:L_Core_Ferrite_Small L1
 U 1 1 592DB346
 P 5350 4900
 F 0 "L1" H 5400 4940 50  0000 L CNN
@@ -1156,7 +1152,7 @@ F 3 "" H 5350 4900 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L GND #PWR037
+L LPF-rescue:GND #PWR037
 U 1 1 592DB348
 P 4500 5250
 F 0 "#PWR037" H 4500 5000 50  0001 C CNN
@@ -1167,7 +1163,7 @@ F 3 "" H 4500 5250 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L C C12
+L LPF-rescue:C C12
 U 1 1 592DB349
 P 5200 5700
 F 0 "C12" H 5100 5600 50  0000 L CNN
@@ -1178,7 +1174,7 @@ F 3 "" H 5200 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR038
+L LPF-rescue:GND #PWR038
 U 1 1 592DB34B
 P 5200 5900
 F 0 "#PWR038" H 5200 5650 50  0001 C CNN
@@ -1189,7 +1185,7 @@ F 3 "" H 5200 5900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C4
+L LPF-rescue:C C4
 U 1 1 592DB34C
 P 4500 5700
 F 0 "C4" H 4300 5700 50  0000 L CNN
@@ -1200,7 +1196,7 @@ F 3 "" H 4500 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR039
+L LPF-rescue:GND #PWR039
 U 1 1 592DB35A
 P 4500 3950
 F 0 "#PWR039" H 4500 3700 50  0001 C CNN
@@ -1211,7 +1207,7 @@ F 3 "" H 4500 3950 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L C C10
+L LPF-rescue:C C10
 U 1 1 592DB35B
 P 5200 4400
 F 0 "C10" H 5100 4300 50  0000 L CNN
@@ -1222,7 +1218,7 @@ F 3 "" H 5200 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR040
+L LPF-rescue:GND #PWR040
 U 1 1 592DB35D
 P 5200 4600
 F 0 "#PWR040" H 5200 4350 50  0001 C CNN
@@ -1233,7 +1229,7 @@ F 3 "" H 5200 4600 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C3
+L LPF-rescue:C C3
 U 1 1 592DB35E
 P 4500 4400
 F 0 "C3" H 4300 4400 50  0000 L CNN
@@ -1244,7 +1240,7 @@ F 3 "" H 4500 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR041
+L LPF-rescue:GND #PWR041
 U 1 1 592DB360
 P 4450 4550
 F 0 "#PWR041" H 4450 4300 50  0001 C CNN
@@ -1255,7 +1251,7 @@ F 3 "" H 4450 4550 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L GND #PWR042
+L LPF-rescue:GND #PWR042
 U 1 1 592DB363
 P 4500 2650
 F 0 "#PWR042" H 4500 2400 50  0001 C CNN
@@ -1266,7 +1262,7 @@ F 3 "" H 4500 2650 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L C C9
+L LPF-rescue:C C9
 U 1 1 592DB364
 P 5200 3100
 F 0 "C9" H 5100 3000 50  0000 L CNN
@@ -1277,7 +1273,7 @@ F 3 "" H 5200 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR043
+L LPF-rescue:GND #PWR043
 U 1 1 592DB366
 P 5200 3300
 F 0 "#PWR043" H 5200 3050 50  0001 C CNN
@@ -1288,7 +1284,7 @@ F 3 "" H 5200 3300 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C2
+L LPF-rescue:C C2
 U 1 1 592DB367
 P 4500 3100
 F 0 "C2" H 4400 3000 50  0000 L CNN
@@ -1299,7 +1295,7 @@ F 3 "" H 4500 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR044
+L LPF-rescue:GND #PWR044
 U 1 1 592DB369
 P 4450 3250
 F 0 "#PWR044" H 4450 3000 50  0001 C CNN
@@ -1310,7 +1306,7 @@ F 3 "" H 4450 3250 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L GND #PWR045
+L LPF-rescue:GND #PWR045
 U 1 1 592DB36C
 P 4500 6550
 F 0 "#PWR045" H 4500 6300 50  0001 C CNN
@@ -1321,7 +1317,7 @@ F 3 "" H 4500 6550 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L C C13
+L LPF-rescue:C C13
 U 1 1 592DB36D
 P 5200 7000
 F 0 "C13" H 5100 6900 50  0000 L CNN
@@ -1332,7 +1328,7 @@ F 3 "" H 5200 7000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR046
+L LPF-rescue:GND #PWR046
 U 1 1 592DB36E
 P 5200 7200
 F 0 "#PWR046" H 5200 6950 50  0001 C CNN
@@ -1343,7 +1339,7 @@ F 3 "" H 5200 7200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR047
+L LPF-rescue:GND #PWR047
 U 1 1 592DB36F
 P 5200 7200
 F 0 "#PWR047" H 5200 6950 50  0001 C CNN
@@ -1354,7 +1350,7 @@ F 3 "" H 5200 7200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C5
+L LPF-rescue:C C5
 U 1 1 592DB370
 P 4500 7000
 F 0 "C5" H 4300 7000 50  0000 L CNN
@@ -1365,7 +1361,7 @@ F 3 "" H 4500 7000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR048
+L LPF-rescue:GND #PWR048
 U 1 1 592DB372
 P 4500 7200
 F 0 "#PWR048" H 4500 6950 50  0001 C CNN
@@ -1376,7 +1372,7 @@ F 3 "" H 4500 7200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR049
+L LPF-rescue:GND #PWR049
 U 1 1 592DB375
 P 4500 7900
 F 0 "#PWR049" H 4500 7650 50  0001 C CNN
@@ -1387,7 +1383,7 @@ F 3 "" H 4500 7900 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L C C14
+L LPF-rescue:C C14
 U 1 1 592DB376
 P 5200 8350
 F 0 "C14" H 5100 8250 50  0000 L CNN
@@ -1398,7 +1394,7 @@ F 3 "" H 5200 8350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR050
+L LPF-rescue:GND #PWR050
 U 1 1 592DB377
 P 5200 8550
 F 0 "#PWR050" H 5200 8300 50  0001 C CNN
@@ -1409,7 +1405,7 @@ F 3 "" H 5200 8550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C6
+L LPF-rescue:C C6
 U 1 1 592DB379
 P 4500 8350
 F 0 "C6" H 4400 8600 50  0000 L CNN
@@ -1420,7 +1416,7 @@ F 3 "" H 4500 8350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR051
+L LPF-rescue:GND #PWR051
 U 1 1 592DB37B
 P 4500 8550
 F 0 "#PWR051" H 4500 8300 50  0001 C CNN
@@ -1431,7 +1427,7 @@ F 3 "" H 4500 8550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C11
+L LPF-rescue:C C11
 U 1 1 592DB37D
 P 5200 5050
 F 0 "C11" V 5250 5200 50  0000 L CNN
@@ -1442,7 +1438,7 @@ F 3 "" H 5200 5050 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR052
+L LPF-rescue:GND #PWR052
 U 1 1 592DB37E
 P 5200 5250
 F 0 "#PWR052" H 5200 5000 50  0001 C CNN
@@ -1453,7 +1449,7 @@ F 3 "" H 5200 5250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C18
+L LPF-rescue:C C18
 U 1 1 592DB37F
 P 5500 5050
 F 0 "C18" V 5550 5200 50  0000 L CNN
@@ -1464,7 +1460,7 @@ F 3 "" H 5500 5050 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR053
+L LPF-rescue:GND #PWR053
 U 1 1 592DB380
 P 5500 5250
 F 0 "#PWR053" H 5500 5000 50  0001 C CNN
@@ -1499,7 +1495,7 @@ Text GLabel 5950 8200 3    60   Input ~ 0
 Text GLabel 5950 1650 3    60   Input ~ 0
 160m
 $Comp
-L BNC P1
+L LPF-rescue:BNC P1
 U 1 1 592DB382
 P 600 4300
 F 0 "P1" H 610 4420 50  0000 C CNN
@@ -1510,7 +1506,7 @@ F 3 "" H 600 4300 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L GND #PWR054
+L LPF-rescue:GND #PWR054
 U 1 1 592DB383
 P 600 4550
 F 0 "#PWR054" H 600 4300 50  0001 C CNN
@@ -1529,7 +1525,7 @@ ALEXIARES\n
 Text Notes 4800 11050 0    60   ~ 0
 May 22nd 2017
 $Comp
-L GND #PWR055
+L LPF-rescue:GND #PWR055
 U 1 1 592DB38B
 P 2400 2650
 F 0 "#PWR055" H 2400 2400 50  0001 C CNN
@@ -1540,7 +1536,7 @@ F 3 "" H 2400 2650 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L PWR_FLAG #FLG056
+L LPF-rescue:PWR_FLAG #FLG056
 U 1 1 592DB38C
 P 2400 2600
 F 0 "#FLG056" H 2400 2695 50  0001 C CNN
@@ -1551,7 +1547,7 @@ F 3 "" H 2400 2600 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L PWR_FLAG #FLG057
+L LPF-rescue:PWR_FLAG #FLG057
 U 1 1 592DB38D
 P 2800 2600
 F 0 "#FLG057" H 2800 2695 50  0001 C CNN
@@ -1562,7 +1558,7 @@ F 3 "" H 2800 2600 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR058
+L LPF-rescue:GND #PWR058
 U 1 1 592DB303
 P 6450 5900
 F 0 "#PWR058" H 6450 5650 50  0001 C CNN
@@ -1573,7 +1569,7 @@ F 3 "" H 6450 5900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR059
+L LPF-rescue:GND #PWR059
 U 1 1 592DB2CD
 P 6450 2000
 F 0 "#PWR059" H 6450 1750 50  0001 C CNN
@@ -1584,7 +1580,7 @@ F 3 "" H 6450 2000 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR060
+L LPF-rescue:GND #PWR060
 U 1 1 592DB2E0
 P 7200 2650
 F 0 "#PWR060" H 7200 2400 50  0001 C CNN
@@ -1595,7 +1591,7 @@ F 3 "" H 7200 2650 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L GND #PWR061
+L LPF-rescue:GND #PWR061
 U 1 1 592DB2EA
 P 5550 2650
 F 0 "#PWR061" H 5550 2400 50  0001 C CNN
@@ -1606,7 +1602,7 @@ F 3 "" H 5550 2650 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR062
+L LPF-rescue:GND #PWR062
 U 1 1 592DB2E6
 P 5900 2650
 F 0 "#PWR062" H 5900 2400 50  0001 C CNN
@@ -1617,7 +1613,7 @@ F 3 "" H 5900 2650 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR063
+L LPF-rescue:GND #PWR063
 U 1 1 592DB2DF
 P 6450 3300
 F 0 "#PWR063" H 6450 3050 50  0001 C CNN
@@ -1628,7 +1624,7 @@ F 3 "" H 6450 3300 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR064
+L LPF-rescue:GND #PWR064
 U 1 1 592DB34E
 P 4450 5850
 F 0 "#PWR064" H 4450 5600 50  0001 C CNN
@@ -1639,7 +1635,7 @@ F 3 "" H 4450 5850 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L GND #PWR065
+L LPF-rescue:GND #PWR065
 U 1 1 592DB300
 P 7250 5850
 F 0 "#PWR065" H 7250 5600 50  0001 C CNN
@@ -1650,7 +1646,7 @@ F 3 "" H 7250 5850 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L +12V #PWR066
+L LPF-rescue:+12V #PWR066
 U 1 1 592E1A2A
 P 2400 1350
 F 0 "#PWR066" H 2400 1200 50  0001 C CNN
@@ -1661,7 +1657,7 @@ F 3 "" H 2400 1350 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L GND #PWR067
+L LPF-rescue:GND #PWR067
 U 1 1 592E1A2B
 P 2900 1250
 F 0 "#PWR067" H 2900 1000 50  0001 C CNN
@@ -1706,7 +1702,7 @@ Text GLabel 1500 1550 0    60   Input ~ 0
 Text GLabel 1450 1350 0    60   Input ~ 0
 80m
 $Comp
-L TEST TP1
+L LPF-rescue:TEST TP1
 U 1 1 592D8A57
 P 1800 2650
 F 0 "TP1" H 1800 2950 50  0000 C BNN
@@ -1717,7 +1713,7 @@ F 3 "" H 1800 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L TEST TP2
+L LPF-rescue:TEST TP2
 U 1 1 592D9062
 P 2100 2650
 F 0 "TP2" H 2100 2950 50  0000 C BNN
@@ -1728,7 +1724,7 @@ F 3 "" H 2100 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR068
+L LPF-rescue:GND #PWR068
 U 1 1 592D90D4
 P 1800 2700
 F 0 "#PWR068" H 1800 2450 50  0001 C CNN
@@ -1739,7 +1735,7 @@ F 3 "" H 1800 2700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR069
+L LPF-rescue:GND #PWR069
 U 1 1 592D9149
 P 2100 2700
 F 0 "#PWR069" H 2100 2450 50  0001 C CNN
@@ -1750,7 +1746,7 @@ F 3 "" H 2100 2700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L TEST TP3
+L LPF-rescue:TEST TP3
 U 1 1 593C141A
 P 1150 2650
 F 0 "TP3" H 1150 2950 50  0000 C BNN
@@ -1761,7 +1757,7 @@ F 3 "" H 1150 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L TEST TP4
+L LPF-rescue:TEST TP4
 U 1 1 593C1420
 P 1450 2650
 F 0 "TP4" H 1450 2950 50  0000 C BNN
@@ -1772,7 +1768,7 @@ F 3 "" H 1450 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR070
+L LPF-rescue:GND #PWR070
 U 1 1 593C1426
 P 1150 2700
 F 0 "#PWR070" H 1150 2450 50  0001 C CNN
@@ -1783,7 +1779,7 @@ F 3 "" H 1150 2700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR071
+L LPF-rescue:GND #PWR071
 U 1 1 593C142D
 P 1450 2700
 F 0 "#PWR071" H 1450 2450 50  0001 C CNN
@@ -1794,7 +1790,7 @@ F 3 "" H 1450 2700 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L BNC P4
+L LPF-rescue:BNC P4
 U 1 1 593DBC26
 P 600 4900
 F 0 "P4" H 610 5020 50  0000 C CNN
@@ -1805,7 +1801,7 @@ F 3 "" H 600 4900 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L GND #PWR072
+L LPF-rescue:GND #PWR072
 U 1 1 593DBC2C
 P 600 5150
 F 0 "#PWR072" H 600 4900 50  0001 C CNN
@@ -1816,7 +1812,7 @@ F 3 "" H 600 5150 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C68
+L LPF-rescue:C C68
 U 1 1 593DDB52
 P 1550 5350
 F 0 "C68" H 1400 5450 50  0000 L CNN
@@ -1827,7 +1823,7 @@ F 3 "" H 1550 5350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR073
+L LPF-rescue:GND #PWR073
 U 1 1 593DDB58
 P 1550 5550
 F 0 "#PWR073" H 1550 5300 50  0001 C CNN
@@ -1838,7 +1834,7 @@ F 3 "" H 1550 5550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C67
+L LPF-rescue:C C67
 U 1 1 593DDBE3
 P 1300 5350
 F 0 "C67" H 1150 5450 50  0000 L CNN
@@ -1849,7 +1845,7 @@ F 3 "" H 1300 5350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR074
+L LPF-rescue:GND #PWR074
 U 1 1 593DDBE9
 P 1300 5550
 F 0 "#PWR074" H 1300 5300 50  0001 C CNN
@@ -1874,7 +1870,7 @@ To 15 W PA output\n
 Text Notes 8250 5850 1    79   ~ 16
 LPF Out\nFrom PS/VSWR Brd <== TX Conn Brd
 $Comp
-L +12V #PWR075
+L LPF-rescue:+12V #PWR075
 U 1 1 592DB397
 P 2800 2650
 F 0 "#PWR075" H 2800 2500 50  0001 C CNN
@@ -1885,7 +1881,7 @@ F 3 "" H 2800 2650 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L +12V #PWR076
+L LPF-rescue:+12V #PWR076
 U 1 1 59438DFC
 P 1150 5200
 F 0 "#PWR076" H 1150 5050 50  0001 C CNN
@@ -1900,7 +1896,7 @@ RX_MASTER_IN
 Text Notes 700  4000 0    79   ~ 16
 HF_TX
 $Comp
-L D2n RL12
+L d2n:D2n RL12
 U 1 1 59F4CD62
 P 6800 5350
 F 0 "RL12" H 7650 5500 50  0000 L CNN
@@ -1911,7 +1907,7 @@ F 3 "" H 6800 5350 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L D2n RL2
+L d2n:D2n RL2
 U 1 1 59F4E038
 P 4850 1450
 F 0 "RL2" H 5700 1600 50  0000 L CNN
@@ -1922,7 +1918,7 @@ F 3 "" H 4850 1450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D2n RL3
+L d2n:D2n RL3
 U 1 1 59F4E18A
 P 4850 2750
 F 0 "RL3" H 5700 2900 50  0000 L CNN
@@ -1933,7 +1929,7 @@ F 3 "" H 4850 2750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D2n RL4
+L d2n:D2n RL4
 U 1 1 59F4E24B
 P 4850 4050
 F 0 "RL4" H 5700 4200 50  0000 L CNN
@@ -1944,7 +1940,7 @@ F 3 "" H 4850 4050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D2n RL5
+L d2n:D2n RL5
 U 1 1 59F4E319
 P 4850 5350
 F 0 "RL5" H 5700 5500 50  0000 L CNN
@@ -1955,7 +1951,7 @@ F 3 "" H 4850 5350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D2n RL1
+L d2n:D2n RL1
 U 1 1 59F4E3D0
 P 1950 5000
 F 0 "RL1" H 2800 5150 50  0000 L CNN
@@ -1966,7 +1962,7 @@ F 3 "" H 1950 5000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D2n RL6
+L d2n:D2n RL6
 U 1 1 59F4E6AC
 P 4850 6650
 F 0 "RL6" H 5700 6800 50  0000 L CNN
@@ -1977,7 +1973,7 @@ F 3 "" H 4850 6650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D2n RL7
+L d2n:D2n RL7
 U 1 1 59F4E779
 P 4850 8000
 F 0 "RL7" H 5700 8150 50  0000 L CNN
@@ -1988,7 +1984,7 @@ F 3 "" H 4850 8000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D2n RL10
+L d2n:D2n RL10
 U 1 1 59F51169
 P 6800 2750
 F 0 "RL10" H 7150 2750 50  0000 L CNN
@@ -1999,7 +1995,7 @@ F 3 "" H 6800 2750 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L D2n RL11
+L d2n:D2n RL11
 U 1 1 59F5159A
 P 6800 4050
 F 0 "RL11" H 7650 4200 50  0000 L CNN
@@ -2010,7 +2006,7 @@ F 3 "" H 6800 4050 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L D2n RL13
+L d2n:D2n RL13
 U 1 1 59F518D7
 P 6800 6650
 F 0 "RL13" H 7650 6800 50  0000 L CNN
@@ -2021,7 +2017,7 @@ F 3 "" H 6800 6650 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L D2n RL14
+L d2n:D2n RL14
 U 1 1 59F5236E
 P 6800 8000
 F 0 "RL14" H 7650 8150 50  0000 L CNN
@@ -2032,7 +2028,7 @@ F 3 "" H 6800 8000 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L Conn_02x05_Counter_Clockwise J1
+L LPF-rescue:Conn_02x05_Counter_Clockwise J1
 U 1 1 59FCA875
 P 2050 1450
 F 0 "J1" H 2100 1750 50  0000 C CNN
@@ -2043,7 +2039,7 @@ F 3 "" H 2050 1450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C7
+L LPF-rescue:C C7
 U 1 1 59FDEF8B
 P 2350 5350
 F 0 "C7" H 2250 5250 50  0000 L CNN
@@ -2054,7 +2050,7 @@ F 3 "" H 2350 5350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR077
+L LPF-rescue:GND #PWR077
 U 1 1 59FDEF91
 P 2350 5550
 F 0 "#PWR077" H 2350 5300 50  0001 C CNN
@@ -2065,7 +2061,7 @@ F 3 "" H 2350 5550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C59
+L LPF-rescue:C C59
 U 1 1 59FE4103
 P 3600 4700
 F 0 "C59" H 3625 4800 50  0000 L CNN
@@ -2076,7 +2072,7 @@ F 3 "" H 3600 4700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR078
+L LPF-rescue:GND #PWR078
 U 1 1 59FE4332
 P 3600 4900
 F 0 "#PWR078" H 3600 4650 50  0001 C CNN
@@ -2087,7 +2083,7 @@ F 3 "" H 3600 4900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C70
+L LPF-rescue:C C70
 U 1 1 59FDAFA1
 P 6450 9750
 F 0 "C70" H 6550 9850 50  0000 L CNN
@@ -2098,7 +2094,7 @@ F 3 "" H 6450 9750 50  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L GND #PWR079
+L LPF-rescue:GND #PWR079
 U 1 1 59FDAFB3
 P 6450 9950
 F 0 "#PWR079" H 6450 9700 50  0001 C CNN
@@ -2109,7 +2105,7 @@ F 3 "" H 6450 9950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C66
+L LPF-rescue:C C66
 U 1 1 59FDB013
 P 5200 9750
 F 0 "C66" H 5300 9750 50  0000 L CNN
@@ -2120,7 +2116,7 @@ F 3 "" H 5200 9750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR080
+L LPF-rescue:GND #PWR080
 U 1 1 59FDB019
 P 5200 9950
 F 0 "#PWR080" H 5200 9700 50  0001 C CNN
@@ -2131,7 +2127,7 @@ F 3 "" H 5200 9950 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C15
+L LPF-rescue:C C15
 U 1 1 59FDB01F
 P 4500 9750
 F 0 "C15" H 4200 9750 50  0000 L CNN
@@ -2142,7 +2138,7 @@ F 3 "" H 4500 9750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR081
+L LPF-rescue:GND #PWR081
 U 1 1 59FDB025
 P 4500 9950
 F 0 "#PWR081" H 4500 9700 50  0001 C CNN
@@ -2155,7 +2151,7 @@ $EndComp
 Text Notes 5800 9650 2    60   ~ 0
 60 MHz\nBypass\n
 $Comp
-L D2n RL8
+L d2n:D2n RL8
 U 1 1 59FDB074
 P 4850 9400
 F 0 "RL8" H 5700 9550 50  0000 L CNN
@@ -2166,7 +2162,7 @@ F 3 "" H 4850 9400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D2n RL15
+L d2n:D2n RL15
 U 1 1 59FDB07A
 P 6800 9400
 F 0 "RL15" H 7650 9550 50  0000 L CNN
@@ -2177,7 +2173,7 @@ F 3 "" H 6800 9400 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L C C69
+L LPF-rescue:C C69
 U 1 1 59FDCDC1
 P 5850 8950
 F 0 "C69" H 5875 9050 50  0000 L CNN
@@ -2188,7 +2184,7 @@ F 3 "" H 5850 8950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR082
+L LPF-rescue:GND #PWR082
 U 1 1 59FDCF49
 P 5850 9150
 F 0 "#PWR082" H 5850 8900 50  0001 C CNN
@@ -2201,7 +2197,7 @@ $EndComp
 Text GLabel 5950 9400 3    60   Input ~ 0
 6m_Bypass
 $Comp
-L GND #PWR083
+L LPF-rescue:GND #PWR083
 U 1 1 59FDB00D
 P 4500 9300
 F 0 "#PWR083" H 4500 9050 50  0001 C CNN
@@ -2212,7 +2208,7 @@ F 3 "" H 4500 9300 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L GND #PWR084
+L LPF-rescue:GND #PWR084
 U 1 1 59FDAFB9
 P 7200 9300
 F 0 "#PWR084" H 7200 9050 50  0001 C CNN
@@ -2223,7 +2219,7 @@ F 3 "" H 7200 9300 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D D9
+L LPF-rescue:D D9
 U 1 1 59FED44F
 P 4900 9400
 F 0 "D9" H 4900 9500 50  0000 C CNN
@@ -2234,7 +2230,7 @@ F 3 "" H 4900 9400 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D8
+L LPF-rescue:D D8
 U 1 1 59FED683
 P 4900 8000
 F 0 "D8" H 4900 8100 50  0000 C CNN
@@ -2245,7 +2241,7 @@ F 3 "" H 4900 8000 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D14
+L LPF-rescue:D D14
 U 1 1 59FED940
 P 6850 9400
 F 0 "D14" H 6850 9500 50  0000 C CNN
@@ -2256,7 +2252,7 @@ F 3 "" H 6850 9400 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D13
+L LPF-rescue:D D13
 U 1 1 59FEDD14
 P 6850 8000
 F 0 "D13" H 6850 8100 50  0000 C CNN
@@ -2267,7 +2263,7 @@ F 3 "" H 6850 8000 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D7
+L LPF-rescue:D D7
 U 1 1 59FEE288
 P 4900 6650
 F 0 "D7" H 4900 6750 50  0000 C CNN
@@ -2278,7 +2274,7 @@ F 3 "" H 4900 6650 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D12
+L LPF-rescue:D D12
 U 1 1 59FEE71A
 P 6850 6650
 F 0 "D12" H 6850 6750 50  0000 C CNN
@@ -2289,7 +2285,7 @@ F 3 "" H 6850 6650 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D6
+L LPF-rescue:D D6
 U 1 1 59FEE93E
 P 4900 5350
 F 0 "D6" H 4900 5450 50  0000 C CNN
@@ -2300,7 +2296,7 @@ F 3 "" H 4900 5350 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D11
+L LPF-rescue:D D11
 U 1 1 59FEEA4A
 P 6850 5350
 F 0 "D11" H 6850 5450 50  0000 C CNN
@@ -2311,7 +2307,7 @@ F 3 "" H 6850 5350 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D5
+L LPF-rescue:D D5
 U 1 1 59FEEB35
 P 4900 4050
 F 0 "D5" H 4900 4150 50  0000 C CNN
@@ -2322,7 +2318,7 @@ F 3 "" H 4900 4050 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D1
+L LPF-rescue:D D1
 U 1 1 59FEED75
 P 1950 5000
 F 0 "D1" H 1950 5100 50  0000 C CNN
@@ -2333,7 +2329,7 @@ F 3 "" H 1950 5000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D D4
+L LPF-rescue:D D4
 U 1 1 59FEEF31
 P 4900 2750
 F 0 "D4" H 4900 2850 50  0000 C CNN
@@ -2344,7 +2340,7 @@ F 3 "" H 4900 2750 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D10
+L LPF-rescue:D D10
 U 1 1 59FEF016
 P 6850 2750
 F 0 "D10" H 6850 2850 50  0000 C CNN
@@ -2355,7 +2351,7 @@ F 3 "" H 6850 2750 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D3
+L LPF-rescue:D D3
 U 1 1 59FEF10C
 P 4850 1450
 F 0 "D3" H 4850 1550 50  0000 C CNN
@@ -2366,7 +2362,7 @@ F 3 "" H 4850 1450 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D D15
+L LPF-rescue:D D15
 U 1 1 59FF068D
 P 6850 4050
 F 0 "D15" H 6850 4150 50  0000 C CNN
@@ -2377,7 +2373,7 @@ F 3 "" H 6850 4050 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L D2n RL9
+L d2n:D2n RL9
 U 1 1 59F50E3A
 P 6800 1450
 F 0 "RL9" H 7650 1600 50  0000 L CNN
@@ -2388,7 +2384,7 @@ F 3 "" H 6800 1450 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L D D2
+L LPF-rescue:D D2
 U 1 1 59FFA941
 P 6850 1450
 F 0 "D2" H 6850 1550 50  0000 C CNN
@@ -2399,7 +2395,7 @@ F 3 "" H 6850 1450 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L37
+L LPF-rescue:L_Core_Ferrite_Small L37
 U 1 1 5A057C8C
 P 6150 9400
 F 0 "L37" H 6200 9440 50  0000 L CNN
@@ -2410,7 +2406,7 @@ F 3 "" H 6150 9400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L30
+L LPF-rescue:L_Core_Ferrite_Small L30
 U 1 1 5A059053
 P 5750 9400
 F 0 "L30" H 5800 9440 50  0000 L CNN
@@ -2421,7 +2417,7 @@ F 3 "" H 5750 9400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L31
+L LPF-rescue:L_Core_Ferrite_Small L31
 U 1 1 5A05B440
 P 6150 1650
 F 0 "L31" H 6200 1690 50  0000 L CNN
@@ -2432,7 +2428,7 @@ F 3 "" H 6150 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L24
+L LPF-rescue:L_Core_Ferrite_Small L24
 U 1 1 5A05B446
 P 5750 1650
 F 0 "L24" H 5800 1690 50  0000 L CNN
@@ -2443,7 +2439,7 @@ F 3 "" H 5750 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L32
+L LPF-rescue:L_Core_Ferrite_Small L32
 U 1 1 5A05F532
 P 6150 2950
 F 0 "L32" H 6200 2990 50  0000 L CNN
@@ -2454,7 +2450,7 @@ F 3 "" H 6150 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L25
+L LPF-rescue:L_Core_Ferrite_Small L25
 U 1 1 5A05F538
 P 5750 2950
 F 0 "L25" H 5800 2990 50  0000 L CNN
@@ -2465,7 +2461,7 @@ F 3 "" H 5750 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L33
+L LPF-rescue:L_Core_Ferrite_Small L33
 U 1 1 5A05FCEE
 P 6150 4250
 F 0 "L33" H 6200 4290 50  0000 L CNN
@@ -2476,7 +2472,7 @@ F 3 "" H 6150 4250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L26
+L LPF-rescue:L_Core_Ferrite_Small L26
 U 1 1 5A05FCF4
 P 5750 4250
 F 0 "L26" H 5800 4290 50  0000 L CNN
@@ -2487,7 +2483,7 @@ F 3 "" H 5750 4250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L34
+L LPF-rescue:L_Core_Ferrite_Small L34
 U 1 1 5A060343
 P 6150 5550
 F 0 "L34" H 6200 5590 50  0000 L CNN
@@ -2498,7 +2494,7 @@ F 3 "" H 6150 5550 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L27
+L LPF-rescue:L_Core_Ferrite_Small L27
 U 1 1 5A060349
 P 5750 5550
 F 0 "L27" H 5800 5590 50  0000 L CNN
@@ -2509,7 +2505,7 @@ F 3 "" H 5750 5550 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L35
+L LPF-rescue:L_Core_Ferrite_Small L35
 U 1 1 5A060F0A
 P 6150 6850
 F 0 "L35" H 6200 6890 50  0000 L CNN
@@ -2520,7 +2516,7 @@ F 3 "" H 6150 6850 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L28
+L LPF-rescue:L_Core_Ferrite_Small L28
 U 1 1 5A060F10
 P 5750 6850
 F 0 "L28" H 5800 6890 50  0000 L CNN
@@ -2531,7 +2527,7 @@ F 3 "" H 5750 6850 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L36
+L LPF-rescue:L_Core_Ferrite_Small L36
 U 1 1 5A061501
 P 6150 8200
 F 0 "L36" H 6200 8240 50  0000 L CNN
@@ -2542,7 +2538,7 @@ F 3 "" H 6150 8200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L L_Core_Ferrite_Small L29
+L LPF-rescue:L_Core_Ferrite_Small L29
 U 1 1 5A061507
 P 5750 8200
 F 0 "L29" H 5800 8240 50  0000 L CNN
@@ -2565,7 +2561,7 @@ Wire Wire Line
 Wire Wire Line
 	5200 1950 5200 2000
 Wire Wire Line
-	4300 750  4550 750 
+	4300 750  4450 750 
 Wire Wire Line
 	4450 750  4450 1150
 Wire Wire Line
@@ -2574,7 +2570,7 @@ Connection ~ 4450 750
 Wire Wire Line
 	5150 850  5150 1250
 Wire Wire Line
-	6250 850  6500 850 
+	6250 850  6450 850 
 Wire Wire Line
 	6450 850  6450 1250
 Wire Wire Line
@@ -2591,7 +2587,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 950  7200 1350
 Wire Wire Line
-	7100 1650 7200 1650
+	7100 1650 7150 1650
 Connection ~ 7150 1650
 Connection ~ 6450 1650
 Wire Wire Line
@@ -2607,10 +2603,10 @@ Wire Wire Line
 Wire Wire Line
 	5900 1000 5900 850 
 Wire Wire Line
-	5850 850  5950 850 
+	5850 850  5900 850 
 Connection ~ 5900 850 
 Wire Wire Line
-	5800 1000 6000 1000
+	5800 1000 5900 1000
 Connection ~ 5900 1000
 Wire Wire Line
 	5600 1000 5550 1000
@@ -2622,7 +2618,7 @@ Wire Wire Line
 	6250 1000 6200 1000
 Connection ~ 6450 850 
 Wire Wire Line
-	6250 2150 6500 2150
+	6250 2150 6450 2150
 Wire Wire Line
 	6450 2150 6450 2550
 Wire Wire Line
@@ -2652,10 +2648,10 @@ Wire Wire Line
 Wire Wire Line
 	5900 2300 5900 2150
 Wire Wire Line
-	5850 2150 5950 2150
+	5850 2150 5900 2150
 Connection ~ 5900 2150
 Wire Wire Line
-	5800 2300 6000 2300
+	5800 2300 5900 2300
 Connection ~ 5900 2300
 Wire Wire Line
 	5600 2300 5550 2300
@@ -2667,7 +2663,7 @@ Wire Wire Line
 	6250 2300 6200 2300
 Connection ~ 6450 2150
 Wire Wire Line
-	6250 3450 6500 3450
+	6250 3450 6450 3450
 Wire Wire Line
 	6450 3450 6450 3850
 Wire Wire Line
@@ -2684,7 +2680,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 3550 7200 3950
 Wire Wire Line
-	7100 4250 7200 4250
+	7100 4250 7150 4250
 Connection ~ 7150 4250
 Connection ~ 6450 4250
 Wire Wire Line
@@ -2700,10 +2696,10 @@ Wire Wire Line
 Wire Wire Line
 	5900 3600 5900 3450
 Wire Wire Line
-	5850 3450 5950 3450
+	5850 3450 5900 3450
 Connection ~ 5900 3450
 Wire Wire Line
-	5800 3600 6000 3600
+	5800 3600 5900 3600
 Connection ~ 5900 3600
 Wire Wire Line
 	5600 3600 5550 3600
@@ -2726,7 +2722,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 4850 7200 5250
 Wire Wire Line
-	7100 5550 7200 5550
+	7100 5550 7150 5550
 Connection ~ 7150 5550
 Connection ~ 6450 5550
 Wire Wire Line
@@ -2742,13 +2738,13 @@ Wire Wire Line
 Wire Wire Line
 	6100 4900 6100 4750
 Wire Wire Line
-	6050 4750 6150 4750
+	6050 4750 6100 4750
 Connection ~ 6100 4750
 Wire Wire Line
-	6000 4900 6200 4900
+	6000 4900 6100 4900
 Connection ~ 6100 4900
 Wire Wire Line
-	5450 4900 5800 4900
+	5450 4900 5500 4900
 Wire Wire Line
 	6450 4750 6450 4900
 Wire Wire Line
@@ -2760,13 +2756,13 @@ Wire Wire Line
 Wire Wire Line
 	3250 4550 3250 4400
 Wire Wire Line
-	3200 4400 3300 4400
+	3200 4400 3250 4400
 Connection ~ 3250 4400
 Wire Wire Line
-	3150 4550 3350 4550
+	3150 4550 3250 4550
 Connection ~ 3250 4550
 Wire Wire Line
-	2800 4550 2950 4550
+	2800 4550 2900 4550
 Wire Wire Line
 	2900 4550 2900 4400
 Wire Wire Line
@@ -2774,7 +2770,7 @@ Wire Wire Line
 Wire Wire Line
 	3600 4550 3550 4550
 Wire Wire Line
-	6250 6050 6500 6050
+	6250 6050 6450 6050
 Wire Wire Line
 	6450 6050 6450 6450
 Wire Wire Line
@@ -2791,7 +2787,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 6150 7200 6550
 Wire Wire Line
-	7100 6850 7200 6850
+	7100 6850 7150 6850
 Connection ~ 7150 6850
 Connection ~ 6450 6850
 Wire Wire Line
@@ -2807,10 +2803,10 @@ Wire Wire Line
 Wire Wire Line
 	5900 6200 5900 6050
 Wire Wire Line
-	5850 6050 5950 6050
+	5850 6050 5900 6050
 Connection ~ 5900 6050
 Wire Wire Line
-	5800 6200 6000 6200
+	5800 6200 5900 6200
 Connection ~ 5900 6200
 Wire Wire Line
 	5600 6200 5550 6200
@@ -2822,7 +2818,7 @@ Wire Wire Line
 	6250 6200 6200 6200
 Connection ~ 6450 6050
 Wire Wire Line
-	6250 7400 6500 7400
+	6250 7400 6450 7400
 Wire Wire Line
 	6450 7400 6450 7800
 Wire Wire Line
@@ -2839,7 +2835,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 7500 7200 7900
 Wire Wire Line
-	7100 8200 7200 8200
+	7100 8200 7150 8200
 Connection ~ 7150 8200
 Connection ~ 6450 8200
 Wire Wire Line
@@ -2855,10 +2851,10 @@ Wire Wire Line
 Wire Wire Line
 	5900 7550 5900 7400
 Wire Wire Line
-	5850 7400 5950 7400
+	5850 7400 5900 7400
 Connection ~ 5900 7400
 Wire Wire Line
-	5800 7550 6000 7550
+	5800 7550 5900 7550
 Connection ~ 5900 7550
 Wire Wire Line
 	5600 7550 5550 7550
@@ -2877,7 +2873,7 @@ Connection ~ 2900 4550
 Wire Wire Line
 	2900 4400 2850 4400
 Wire Wire Line
-	5500 4750 5750 4750
+	5500 4750 5600 4750
 Wire Wire Line
 	4550 4850 4500 4850
 Wire Wire Line
@@ -2888,7 +2884,7 @@ Wire Wire Line
 	4500 5850 4450 5850
 Connection ~ 4500 5550
 Wire Wire Line
-	4300 4650 4550 4650
+	4300 4650 4450 4650
 Wire Wire Line
 	4450 4650 4450 5050
 Wire Wire Line
@@ -2912,7 +2908,7 @@ Wire Wire Line
 Connection ~ 4500 4250
 Connection ~ 5200 4250
 Wire Wire Line
-	4300 3350 4550 3350
+	4300 3350 4450 3350
 Wire Wire Line
 	4450 3350 4450 3750
 Wire Wire Line
@@ -2933,7 +2929,7 @@ Wire Wire Line
 Connection ~ 4500 2950
 Connection ~ 5200 2950
 Wire Wire Line
-	4300 2050 4550 2050
+	4300 2050 4450 2050
 Wire Wire Line
 	4450 2050 4450 2450
 Wire Wire Line
@@ -2954,7 +2950,7 @@ Wire Wire Line
 Connection ~ 4500 6850
 Connection ~ 5200 6850
 Wire Wire Line
-	4300 5950 4550 5950
+	4300 5950 4450 5950
 Wire Wire Line
 	4450 5950 4450 6350
 Wire Wire Line
@@ -2975,7 +2971,7 @@ Wire Wire Line
 Connection ~ 4500 8200
 Connection ~ 5200 8200
 Wire Wire Line
-	4300 7300 4550 7300
+	4300 7300 4450 7300
 Wire Wire Line
 	4450 7300 4450 7700
 Wire Wire Line
@@ -3024,15 +3020,15 @@ Connection ~ 4300 7300
 Wire Wire Line
 	600  4500 600  4550
 Wire Wire Line
-	750  4300 1650 4300
+	750  4300 950  4300
 Connection ~ 4300 4400
 Connection ~ 7400 4400
 Wire Wire Line
 	2400 2600 2400 2650
 Wire Wire Line
-	4300 750  4300 8700
+	4300 750  4300 2050
 Wire Wire Line
-	7150 6650 7150 6900
+	7150 6650 7150 6850
 Wire Wire Line
 	1800 2650 1800 2700
 Wire Wire Line
@@ -3050,7 +3046,7 @@ Wire Wire Line
 Wire Wire Line
 	1500 4500 1500 4900
 Wire Wire Line
-	750  4900 1650 4900
+	750  4900 950  4900
 Connection ~ 1500 4900
 Wire Wire Line
 	600  5100 600  5150
@@ -3064,11 +3060,11 @@ Wire Wire Line
 Wire Wire Line
 	1300 5550 1300 5500
 Wire Wire Line
-	1150 5200 1650 5200
+	1150 5200 1300 5200
 Connection ~ 1550 5200
 Connection ~ 1300 5200
 Wire Wire Line
-	2250 5200 2650 5200
+	2250 5200 2350 5200
 Wire Wire Line
 	2800 2600 2800 2650
 Wire Wire Line
@@ -3101,7 +3097,7 @@ Connection ~ 2350 5200
 Wire Wire Line
 	3600 4850 3600 4900
 Wire Wire Line
-	5150 8800 6500 8800
+	5150 8800 5850 8800
 Wire Wire Line
 	6450 8800 6450 9200
 Wire Wire Line
@@ -3115,7 +3111,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 8900 7200 9300
 Wire Wire Line
-	7100 9600 7200 9600
+	7100 9600 7150 9600
 Connection ~ 7150 9600
 Connection ~ 6450 9600
 Wire Wire Line
@@ -3134,7 +3130,7 @@ Wire Wire Line
 Connection ~ 4500 9600
 Connection ~ 5200 9600
 Wire Wire Line
-	4300 8700 4550 8700
+	4300 8700 4450 8700
 Wire Wire Line
 	4450 8700 4450 9100
 Wire Wire Line
@@ -3142,8 +3138,6 @@ Wire Wire Line
 Connection ~ 4450 8700
 Wire Wire Line
 	5150 8800 5150 9200
-Connection ~ 7400 8700
-Connection ~ 4300 8700
 Connection ~ 5850 8800
 Wire Wire Line
 	5850 9100 5850 9150
@@ -3155,7 +3149,7 @@ Wire Wire Line
 Wire Wire Line
 	4750 9400 4500 9400
 Wire Wire Line
-	4500 9350 4500 9600
+	4500 9350 4500 9400
 Wire Wire Line
 	5200 9400 5200 9600
 Wire Wire Line
@@ -3163,7 +3157,7 @@ Wire Wire Line
 Wire Wire Line
 	4750 8000 4500 8000
 Wire Wire Line
-	4500 7950 4500 8200
+	4500 7950 4500 8000
 Wire Wire Line
 	5200 8000 5200 8200
 Wire Wire Line
@@ -3185,7 +3179,7 @@ Wire Wire Line
 Wire Wire Line
 	4750 6650 4500 6650
 Wire Wire Line
-	4500 6600 4500 6850
+	4500 6600 4500 6650
 Wire Wire Line
 	5200 6650 5200 6850
 Wire Wire Line
@@ -3215,7 +3209,7 @@ Wire Wire Line
 Wire Wire Line
 	4750 4050 4500 4050
 Wire Wire Line
-	4500 4000 4500 4250
+	4500 4000 4500 4050
 Wire Wire Line
 	5200 4050 5200 4250
 Wire Wire Line
@@ -3231,7 +3225,7 @@ Wire Wire Line
 Wire Wire Line
 	4750 2750 4500 2750
 Wire Wire Line
-	4500 2700 4500 2950
+	4500 2700 4500 2750
 Wire Wire Line
 	5200 2750 5200 2950
 Wire Wire Line
@@ -3262,20 +3256,20 @@ Wire Wire Line
 Wire Wire Line
 	4500 1650 4550 1650
 Wire Wire Line
-	5150 1650 5300 1650
+	5150 1650 5200 1650
 Connection ~ 5200 1650
 Wire Wire Line
 	4700 1450 4500 1450
 Wire Wire Line
-	4500 1400 4500 1650
+	4500 1400 4500 1450
 Connection ~ 4500 9400
 Connection ~ 6450 9400
 Wire Wire Line
-	5150 9600 5400 9600
+	5150 9600 5200 9600
 Wire Wire Line
 	4500 9600 4550 9600
 Wire Wire Line
-	5150 8200 5350 8200
+	5150 8200 5200 8200
 Wire Wire Line
 	4500 8200 4550 8200
 Wire Wire Line
@@ -3286,7 +3280,7 @@ Connection ~ 4500 8000
 Wire Wire Line
 	4500 2950 4550 2950
 Wire Wire Line
-	5150 2950 5350 2950
+	5150 2950 5200 2950
 Wire Wire Line
 	5400 2950 5400 2700
 Wire Wire Line
@@ -3298,13 +3292,13 @@ Wire Wire Line
 	5450 4000 4500 4000
 Connection ~ 4500 4050
 Wire Wire Line
-	5150 4250 5350 4250
+	5150 4250 5200 4250
 Wire Wire Line
 	4500 4250 4550 4250
 Wire Wire Line
-	4400 5550 4550 5550
+	4400 5550 4500 5550
 Wire Wire Line
-	5150 5550 5350 5550
+	5150 5550 5200 5550
 Wire Wire Line
 	5400 6850 5400 6600
 Wire Wire Line
@@ -3313,7 +3307,7 @@ Connection ~ 4500 6650
 Wire Wire Line
 	4500 6850 4550 6850
 Wire Wire Line
-	5150 6850 5350 6850
+	5150 6850 5200 6850
 Connection ~ 4500 1650
 Wire Wire Line
 	5000 1450 5200 1450
@@ -3327,45 +3321,31 @@ Connection ~ 4500 1450
 Wire Wire Line
 	6450 9600 6500 9600
 Wire Wire Line
-	5850 9400 6050 9400
-Wire Wire Line
-	6250 9400 6700 9400
+	6250 9400 6450 9400
 Wire Wire Line
 	5650 9400 5450 9400
 Wire Wire Line
-	5850 1650 6050 1650
-Wire Wire Line
-	6250 1650 6500 1650
+	6250 1650 6450 1650
 Wire Wire Line
 	5350 1650 5650 1650
 Wire Wire Line
-	5850 2950 6050 2950
-Wire Wire Line
-	6250 2950 6500 2950
+	6250 2950 6450 2950
 Wire Wire Line
 	5400 2950 5650 2950
 Wire Wire Line
-	5850 4250 6050 4250
-Wire Wire Line
-	6250 4250 6500 4250
+	6250 4250 6450 4250
 Wire Wire Line
 	5650 4250 5450 4250
 Wire Wire Line
-	5850 5550 6050 5550
-Wire Wire Line
-	6250 5550 6500 5550
+	6250 5550 6450 5550
 Wire Wire Line
 	5400 5550 5650 5550
 Wire Wire Line
-	5850 6850 6050 6850
-Wire Wire Line
-	6250 6850 6500 6850
+	6250 6850 6450 6850
 Wire Wire Line
 	5400 6850 5650 6850
 Wire Wire Line
-	5850 8200 6050 8200
-Wire Wire Line
-	6250 8200 6500 8200
+	6250 8200 6450 8200
 Wire Wire Line
 	5400 8200 5650 8200
 Wire Wire Line
@@ -3373,7 +3353,7 @@ Wire Wire Line
 Wire Wire Line
 	5450 9350 4500 9350
 $Comp
-L +12V #PWR085
+L LPF-rescue:+12V #PWR085
 U 1 1 5A06791B
 P 7200 9600
 F 0 "#PWR085" H 7200 9450 50  0001 C CNN
@@ -3384,7 +3364,7 @@ F 3 "" H 7200 9600 50  0000 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L +12V #PWR086
+L LPF-rescue:+12V #PWR086
 U 1 1 5A067C37
 P 7200 1650
 F 0 "#PWR086" H 7200 1500 50  0001 C CNN
@@ -3395,7 +3375,7 @@ F 3 "" H 7200 1650 50  0000 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L +12V #PWR087
+L LPF-rescue:+12V #PWR087
 U 1 1 5A067FC4
 P 7200 2950
 F 0 "#PWR087" H 7200 2800 50  0001 C CNN
@@ -3406,7 +3386,7 @@ F 3 "" H 7200 2950 50  0000 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L +12V #PWR088
+L LPF-rescue:+12V #PWR088
 U 1 1 5A06808C
 P 7200 4250
 F 0 "#PWR088" H 7200 4100 50  0001 C CNN
@@ -3417,7 +3397,7 @@ F 3 "" H 7200 4250 50  0000 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L +12V #PWR089
+L LPF-rescue:+12V #PWR089
 U 1 1 5A068724
 P 7200 5550
 F 0 "#PWR089" H 7200 5400 50  0001 C CNN
@@ -3428,7 +3408,7 @@ F 3 "" H 7200 5550 50  0000 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L +12V #PWR090
+L LPF-rescue:+12V #PWR090
 U 1 1 5A068970
 P 7200 6850
 F 0 "#PWR090" H 7200 6700 50  0001 C CNN
@@ -3439,7 +3419,7 @@ F 3 "" H 7200 6850 50  0000 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L +12V #PWR091
+L LPF-rescue:+12V #PWR091
 U 1 1 5A06B043
 P 5650 9800
 F 0 "#PWR091" H 5650 9650 50  0001 C CNN
@@ -3454,7 +3434,7 @@ Wire Wire Line
 Wire Wire Line
 	5400 9600 5400 9800
 $Comp
-L +12V #PWR092
+L LPF-rescue:+12V #PWR092
 U 1 1 5A06B9B8
 P 5600 8400
 F 0 "#PWR092" H 5600 8250 50  0001 C CNN
@@ -3469,7 +3449,7 @@ Wire Wire Line
 Wire Wire Line
 	5350 8200 5350 8400
 $Comp
-L +12V #PWR093
+L LPF-rescue:+12V #PWR093
 U 1 1 5A06BF23
 P 5600 7050
 F 0 "#PWR093" H 5600 6900 50  0001 C CNN
@@ -3484,7 +3464,7 @@ Wire Wire Line
 Wire Wire Line
 	5350 6850 5350 7050
 $Comp
-L +12V #PWR094
+L LPF-rescue:+12V #PWR094
 U 1 1 5A06C2F9
 P 5600 5750
 F 0 "#PWR094" H 5600 5600 50  0001 C CNN
@@ -3499,7 +3479,7 @@ Wire Wire Line
 Wire Wire Line
 	5350 5550 5350 5750
 $Comp
-L +12V #PWR095
+L LPF-rescue:+12V #PWR095
 U 1 1 5A06CC3C
 P 5600 4450
 F 0 "#PWR095" H 5600 4300 50  0001 C CNN
@@ -3514,7 +3494,7 @@ Wire Wire Line
 Wire Wire Line
 	5350 4250 5350 4450
 $Comp
-L +12V #PWR096
+L LPF-rescue:+12V #PWR096
 U 1 1 5A06CDA0
 P 5600 3150
 F 0 "#PWR096" H 5600 3000 50  0001 C CNN
@@ -3529,7 +3509,7 @@ Wire Wire Line
 Wire Wire Line
 	5350 2950 5350 3150
 $Comp
-L +12V #PWR097
+L LPF-rescue:+12V #PWR097
 U 1 1 5A06D1AF
 P 5650 1900
 F 0 "#PWR097" H 5650 1750 50  0001 C CNN
@@ -3552,7 +3532,7 @@ Wire Wire Line
 Wire Wire Line
 	4400 5450 4400 5550
 $Comp
-L +12V #PWR098
+L LPF-rescue:+12V #PWR098
 U 1 1 5A07F010
 P 7200 8200
 F 0 "#PWR098" H 7200 8050 50  0001 C CNN
@@ -3562,22 +3542,15 @@ F 3 "" H 7200 8200 50  0000 C CNN
 	1    7200 8200
 	0    1    -1   0   
 $EndComp
-Connection ~ 5950 1650
-Connection ~ 5950 2950
-Connection ~ 5950 5550
-Connection ~ 5950 4250
-Connection ~ 5950 6850
-Connection ~ 5950 8200
-Connection ~ 5950 9400
 Wire Wire Line
-	7400 750  7400 8700
+	7400 750  7400 2050
 Wire Wire Line
-	7100 2950 7200 2950
+	7100 2950 7150 2950
 Connection ~ 7150 2950
 Wire Wire Line
 	7150 2750 7150 2950
 $Comp
-L L_Core_Ferrite_Small L17
+L LPF-rescue:L_Core_Ferrite_Small L17
 U 1 1 5A05FD2E
 P 2750 5200
 F 0 "L17" H 2800 5240 50  0000 L CNN
@@ -3588,7 +3561,7 @@ F 3 "" H 2750 5200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L BNC P5
+L LPF-rescue:BNC P5
 U 1 1 5A2FBDFF
 P 800 5000
 F 0 "P5" H 810 5120 50  0000 C CNN
@@ -3599,7 +3572,7 @@ F 3 "" H 800 5000 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L GND #PWR099
+L LPF-rescue:GND #PWR099
 U 1 1 5A2FBE05
 P 800 5250
 F 0 "#PWR099" H 800 5000 50  0001 C CNN
@@ -3614,7 +3587,7 @@ To 15 W PA output\n
 Wire Wire Line
 	800  5200 800  5250
 $Comp
-L BNC P2
+L LPF-rescue:BNC P2
 U 1 1 5A2FC218
 P 800 4400
 F 0 "P2" H 810 4520 50  0000 C CNN
@@ -3625,7 +3598,7 @@ F 3 "" H 800 4400 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L GND #PWR0100
+L LPF-rescue:GND #PWR0100
 U 1 1 5A2FC21E
 P 800 4650
 F 0 "#PWR0100" H 800 4400 50  0001 C CNN
@@ -3644,7 +3617,7 @@ Wire Wire Line
 	950  4400 950  4300
 Connection ~ 950  4300
 $Comp
-L BNC P6
+L LPF-rescue:BNC P6
 U 1 1 5A2FD79F
 P 7550 5000
 F 0 "P6" H 7560 5120 50  0000 C CNN
@@ -3655,7 +3628,7 @@ F 3 "" H 7550 5000 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR0101
+L LPF-rescue:GND #PWR0101
 U 1 1 5A2FD7A5
 P 7550 5250
 F 0 "#PWR0101" H 7550 5000 50  0001 C CNN
@@ -3666,7 +3639,7 @@ F 3 "" H 7550 5250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR0102
+L LPF-rescue:GND #PWR0102
 U 1 1 5A2FD7AB
 P 7550 5250
 F 0 "#PWR0102" H 7550 5000 50  0001 C CNN
@@ -3680,5 +3653,183 @@ Wire Wire Line
 	7550 5200 7550 5250
 Connection ~ 7400 5000
 Text Notes 1000 8100 0    79   ~ 0
-V23105A5476A201 tubes de 25, RS 135-4452\n\nV23105A5476A201 RS 351-831A\n\nfarnell 1174987 \n\nbloquer au 11FC\n\nrelais compatibles : \nV23105A5003A201,\n V23105A5403A201, \nV23105A5503A201, \nV23105A5476A201 
+V23105A5476A201 tubes de 25, RS 135-4452\n\nV23105A5476A201 RS 351-831A\n\nfarnell 1174987 \n\n\nrelais compatibles : \nV23105A5003A201,\n V23105A5403A201, \nV23105A5503A201, \nV23105A5476A201 
+Wire Wire Line
+	4450 750  4550 750 
+Wire Wire Line
+	7150 1650 7200 1650
+Wire Wire Line
+	6450 1650 6500 1650
+Wire Wire Line
+	5900 850  5950 850 
+Wire Wire Line
+	5900 1000 6000 1000
+Wire Wire Line
+	6450 850  6500 850 
+Wire Wire Line
+	6450 2950 6500 2950
+Wire Wire Line
+	5900 2150 5950 2150
+Wire Wire Line
+	5900 2300 6000 2300
+Wire Wire Line
+	6450 2150 6500 2150
+Wire Wire Line
+	7150 4250 7200 4250
+Wire Wire Line
+	6450 4250 6500 4250
+Wire Wire Line
+	5900 3450 5950 3450
+Wire Wire Line
+	5900 3600 6000 3600
+Wire Wire Line
+	6450 3450 6500 3450
+Wire Wire Line
+	7150 5550 7200 5550
+Wire Wire Line
+	6450 5550 6500 5550
+Wire Wire Line
+	6100 4750 6150 4750
+Wire Wire Line
+	6100 4900 6200 4900
+Wire Wire Line
+	3250 4400 3300 4400
+Wire Wire Line
+	3250 4550 3350 4550
+Wire Wire Line
+	7150 6850 7200 6850
+Wire Wire Line
+	7150 6850 7150 6900
+Wire Wire Line
+	6450 6850 6500 6850
+Wire Wire Line
+	5900 6050 5950 6050
+Wire Wire Line
+	5900 6200 6000 6200
+Wire Wire Line
+	6450 6050 6500 6050
+Wire Wire Line
+	7150 8200 7200 8200
+Wire Wire Line
+	6450 8200 6500 8200
+Wire Wire Line
+	5900 7400 5950 7400
+Wire Wire Line
+	5900 7550 6000 7550
+Wire Wire Line
+	6450 7400 6500 7400
+Wire Wire Line
+	2900 4550 2950 4550
+Wire Wire Line
+	4500 5550 4550 5550
+Wire Wire Line
+	4450 4650 4550 4650
+Wire Wire Line
+	5200 5550 5350 5550
+Wire Wire Line
+	5200 4250 5350 4250
+Wire Wire Line
+	4450 3350 4550 3350
+Wire Wire Line
+	5200 2950 5350 2950
+Wire Wire Line
+	4450 2050 4550 2050
+Wire Wire Line
+	5200 6850 5350 6850
+Wire Wire Line
+	4450 5950 4550 5950
+Wire Wire Line
+	5200 8200 5350 8200
+Wire Wire Line
+	4450 7300 4550 7300
+Wire Wire Line
+	5500 4900 5600 4900
+Wire Wire Line
+	5600 4750 5750 4750
+Wire Wire Line
+	5600 4900 5750 4900
+Wire Wire Line
+	5750 4900 5800 4900
+Wire Wire Line
+	7400 2050 7400 3350
+Wire Wire Line
+	7400 3350 7400 4400
+Wire Wire Line
+	7400 4650 7400 5000
+Wire Wire Line
+	7400 5950 7400 7300
+Wire Wire Line
+	7400 7300 7400 8700
+Wire Wire Line
+	4300 2050 4300 3350
+Wire Wire Line
+	4300 3350 4300 4400
+Wire Wire Line
+	4300 4650 4300 5950
+Wire Wire Line
+	4300 5950 4300 7300
+Wire Wire Line
+	4300 7300 4300 8700
+Wire Wire Line
+	4300 4400 4300 4650
+Wire Wire Line
+	7400 4400 7400 4650
+Wire Wire Line
+	1500 4900 1650 4900
+Wire Wire Line
+	1550 4300 1650 4300
+Wire Wire Line
+	1550 5200 1650 5200
+Wire Wire Line
+	1300 5200 1550 5200
+Wire Wire Line
+	2350 5200 2650 5200
+Wire Wire Line
+	7150 9600 7200 9600
+Wire Wire Line
+	6450 8800 6500 8800
+Wire Wire Line
+	5200 9600 5400 9600
+Wire Wire Line
+	4450 8700 4550 8700
+Wire Wire Line
+	5850 8800 6450 8800
+Wire Wire Line
+	5200 1650 5300 1650
+Wire Wire Line
+	4500 9400 4500 9600
+Wire Wire Line
+	6450 9400 6700 9400
+Wire Wire Line
+	4500 8000 4500 8200
+Wire Wire Line
+	4500 2750 4500 2950
+Wire Wire Line
+	4500 4050 4500 4250
+Wire Wire Line
+	4500 6650 4500 6850
+Wire Wire Line
+	4500 1450 4500 1650
+Wire Wire Line
+	7150 2950 7200 2950
+Wire Wire Line
+	950  4900 1500 4900
+Wire Wire Line
+	950  4300 1550 4300
+Wire Wire Line
+	7400 5000 7400 5950
+Wire Wire Line
+	5850 9400 6050 9400
+Wire Wire Line
+	5850 1650 6050 1650
+Wire Wire Line
+	5850 2950 6050 2950
+Wire Wire Line
+	5850 4250 6050 4250
+Wire Wire Line
+	5850 5550 6050 5550
+Wire Wire Line
+	5850 6850 6050 6850
+Wire Wire Line
+	5850 8200 6050 8200
 $EndSCHEMATC
