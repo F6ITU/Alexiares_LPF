@@ -11,6 +11,10 @@ Original work by Graham Haddock, KE9H and Phil Harman, VK6APH.
 LPF_Top.jpg
 
 LPF_bottom.jpg
+These two picture illustrate the V1 and V2 version
+lpf-V3.jpg
+is a 3D picture of the V3.0 prototype. The main difference is the integration of the 54 MHz lpf which is not in permanent use anymore.
+In this version, C69 is not necessary anymore. 
 
 
 Board's dimensions are oversized to fit the 5x10 and 10x10cm 
