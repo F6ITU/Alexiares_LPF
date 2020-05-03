@@ -1,2 +1,13 @@
 (fp_lib_table
+  (lib (name 2_Form_C_Relay)(type KiCad)(uri C:/Users/Marco/Documents/KiCad/perso/modules/2_Form_C_Relay.pretty)(options "")(descr ""))
+  (lib (name ATC_B)(type KiCad)(uri C:/Users/Marco/Documents/KiCad/perso/modules/ATC_B.pretty)(options "")(descr ""))
+  (lib (name conn_kk100)(type KiCad)(uri C:/Users/Marco/Documents/KiCad/perso/modules/conn_kk100.pretty)(options "")(descr ""))
+  (lib (name conn_rf)(type KiCad)(uri C:/Users/Marco/Documents/KiCad/perso/modules/conn_rf.pretty)(options "")(descr ""))
+  (lib (name Ferrite_LC_NFM41P)(type KiCad)(uri C:/Users/Marco/Documents/KiCad/perso/modules/Ferrite_LC_NFM41P.pretty)(options "")(descr ""))
+  (lib (name Omron_G5LE)(type KiCad)(uri C:/Users/Marco/Documents/KiCad/perso/modules/Omron_G5LE.pretty)(options "")(descr ""))
+  (lib (name Relays_SMD)(type KiCad)(uri C:/Users/Marco/Documents/KiCad/perso/modules/Relays_SMD.pretty)(options "")(descr ""))
+  (lib (name SMA_PINS)(type KiCad)(uri C:/Users/Marco/Documents/KiCad/perso/modules/SMA_PINS.pretty)(options "")(descr ""))
+  (lib (name T50)(type KiCad)(uri C:/Users/Marco/Documents/KiCad/perso/modules/T50.pretty)(options "")(descr ""))
+  (lib (name T80_60_V)(type KiCad)(uri C:/Users/Marco/Documents/KiCad/perso/modules/T80_60_V.pretty)(options "")(descr ""))
+  (lib (name Symbol)(type KiCad)(uri ${KISYSMOD}/Symbol.pretty)(options "")(descr ""))
 )
