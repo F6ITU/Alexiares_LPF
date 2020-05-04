@@ -1,5 +1,7 @@
 # Alexiares_LPF
-This repository contains the Low Pass Filter project of the OpenHPSDR Alexiares frontend
+This repository contains the Low Pass Filter project of the OpenHPSDR Alexiares frontend. 
+
+**Important notice ** : please check the "Branch" pull-down menu to download the latest version of the pbc
 
 
 This work is protected by the TAPR Open Hardware Licence https://www.tapr.org/ohl.html
