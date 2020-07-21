@@ -1,46 +1,130 @@
-3998977517551302
-2_Form_C_Relay
-D2n
-
-Relay 2formC
-0
-8
-8
-2_Form_C_Relay
-Relay_DPDT_NEC_EC2
-Relay_DPDT_NEC_EC2
-Relay_DPDT_NEC_EC2
-0
-8
-8
-2_Form_C_Relay
-THT_2_formC
-
-NEC Tokin EE2 EC2
-0
-8
-8
-2_Form_C_Relay
-smd_2_formC
-
-NEC Tokin EE2 EC2
-0
-8
-8
-ATC_B
-ATC_500_Dual_HandSoldering
-Capacitor_ATC B, hand soldering
-capacitor ATC
+4389310002407364
+Buzzer_Beeper
+Buzzer_12x9.5RM7.6
+Generic Buzzer, D12mm height 9.5mm with RM7.6mm
+buzzer
 0
 2
 2
-ATC_B
-ATC_500_HandSoldering
-Capacitor ATC B, hand soldering
-capacitor ATC
+Buzzer_Beeper
+Buzzer_15x7.5RM7.6
+Generic Buzzer, D15mm height 7.5mm with RM7.6mm
+buzzer
 0
 2
 2
+Buzzer_Beeper
+Buzzer_CUI_CPT-9019S-SMT
+https://www.cui.com/product/resource/cpt-9019s-smt.pdf
+buzzer piezo
+0
+2
+2
+Buzzer_Beeper
+Buzzer_D14mm_H7mm_P10mm
+Generic Buzzer, D14mm height 7mm with pitch 10mm
+buzzer
+0
+2
+2
+Buzzer_Beeper
+Buzzer_Mallory_AST1109MLTRQ
+Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
+buzzer piezo
+0
+2
+2
+Buzzer_Beeper
+Buzzer_Murata_PKMCS0909E4000-R1
+Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
+Murata Buzzer Beeper
+0
+2
+2
+Buzzer_Beeper
+Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm
+Buzzer, D12.2mm height 6.5mm, https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf
+buzzer
+0
+2
+2
+Buzzer_Beeper
+MagneticBuzzer_CUI_CMT-8504-100-SMT
+magnetic transducer buzzer, 5V, SPL of 100 dB at 10 cm, https://www.cuidevices.com/product/resource/pdf/cmt-8504-100-smt-tr.pdf
+CMT 8504
+0
+4
+4
+Buzzer_Beeper
+MagneticBuzzer_CUI_CST-931RP-A
+CST-931RP-A, http://www.cui.com/product/resource/cst-931rp-a.pdf
+CST-931RP-A
+0
+2
+2
+Buzzer_Beeper
+MagneticBuzzer_Kingstate_KCG0601
+Buzzer, Elektromagnetic Beeper, Summer,
+Kingstate KCG0601 
+0
+2
+2
+Buzzer_Beeper
+MagneticBuzzer_Kobitone_254-EMB84Q-RO
+MagneticBuzzer Kobitone 254-EMB84Q-RO https://www.mouser.es/datasheet/2/209/KT-400385-1171904.pdf
+MagneticBuzzer Kobitone 254-EMB84Q-RO
+0
+3
+3
+Buzzer_Beeper
+MagneticBuzzer_PUI_AT-0927-TT-6-R
+Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf
+Buzzer Magnetic 9mm AT-0927-TT-6-R
+0
+2
+2
+Buzzer_Beeper
+MagneticBuzzer_ProSignal_ABI-009-RC
+Buzzer, Elektromagnetic Beeper, Summer, 6V-DC,
+Pro Signal ABI-009-RC 
+0
+2
+2
+Buzzer_Beeper
+MagneticBuzzer_ProSignal_ABI-010-RC
+Buzzer, Elektromagnetic Beeper, Summer, 12V-DC,
+Pro Signal ABI-010-RC 
+0
+2
+2
+Buzzer_Beeper
+MagneticBuzzer_ProSignal_ABT-410-RC
+Buzzer, Elektromagnetic Beeper, Summer, 1,5V-DC,
+Pro Signal ABT-410-RC 
+0
+2
+2
+Buzzer_Beeper
+MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R
+Buzzer, Elektromagnetic Beeper, Summer, 3-28V-DC, https://www.kynix.com/uploadfiles/pdf/AI-4228-TWT-R.pdf
+Projects Unlimited AI-4228-TWT-R 
+0
+2
+2
+Buzzer_Beeper
+MagneticBuzzer_StarMicronics_HMB-06_HMB-12
+Buzzer, Elektromagnetic Beeper, Summer,
+Star Micronics HMB-06 HMB-12
+0
+2
+2
+Buzzer_Beeper
+PUIAudio_SMT_0825_S_4_R
+SMD 8540, http://www.puiaudio.com/product-detail.aspx?partnumber=SMT-0825-S-4-R
+SMD 8540
+0
+4
+4
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -762,6 +846,398 @@ trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Librar
 0
 2
 2
+Capacitor_Tantalum_SMD
+CP_EIA-1608-08_AVX-J
+Tantalum Capacitor SMD AVX-J (1608-08 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-1608-08_AVX-J_Pad1.25x1.05mm_HandSolder
+Tantalum Capacitor SMD AVX-J (1608-08 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-1608-10_AVX-L
+Tantalum Capacitor SMD AVX-L (1608-10 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-1608-10_AVX-L_Pad1.25x1.05mm_HandSolder
+Tantalum Capacitor SMD AVX-L (1608-10 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-2012-12_Kemet-R
+Tantalum Capacitor SMD Kemet-R (2012-12 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-2012-12_Kemet-R_Pad1.30x1.05mm_HandSolder
+Tantalum Capacitor SMD Kemet-R (2012-12 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-2012-15_AVX-P
+Tantalum Capacitor SMD AVX-P (2012-15 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-2012-15_AVX-P_Pad1.30x1.05mm_HandSolder
+Tantalum Capacitor SMD AVX-P (2012-15 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-10_Kemet-I
+Tantalum Capacitor SMD Kemet-I (3216-10 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-I (3216-10 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-12_Kemet-S
+Tantalum Capacitor SMD Kemet-S (3216-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-12_Kemet-S_Pad1.58x1.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-S (3216-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-18_Kemet-A
+Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-12_Kemet-T
+Tantalum Capacitor SMD Kemet-T (3528-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-T (3528-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-15_AVX-H
+Tantalum Capacitor SMD AVX-H (3528-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder
+Tantalum Capacitor SMD AVX-H (3528-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-21_Kemet-B
+Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-15_Kemet-U
+Tantalum Capacitor SMD Kemet-U (6032-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-U (6032-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-20_AVX-F
+Tantalum Capacitor SMD AVX-F (6032-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-20_AVX-F_Pad2.25x2.35mm_HandSolder
+Tantalum Capacitor SMD AVX-F (6032-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-28_Kemet-C
+Tantalum Capacitor SMD Kemet-C (6032-28 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-28_Kemet-C_Pad2.25x2.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-C (6032-28 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-20_AVX-U
+Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-20_AVX-U_Pad2.72x3.50mm_HandSolder
+Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-28_AVX-C
+Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder
+Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-15_AVX-R
+Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-15_AVX-R_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-20_AVX-M
+Tantalum Capacitor SMD AVX-M (7260-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-20_AVX-M_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-M (7260-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-28_AVX-M
+Tantalum Capacitor SMD AVX-M (7260-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-28_AVX-M_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-M (7260-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-38_AVX-R
+Tantalum Capacitor SMD AVX-R (7260-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-R (7260-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-15_Kemet-W
+Tantalum Capacitor SMD Kemet-W (7343-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD Kemet-W (7343-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-20_Kemet-V
+Tantalum Capacitor SMD Kemet-V (7343-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-20_Kemet-V_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD Kemet-V (7343-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-30_AVX-N
+Tantalum Capacitor SMD AVX-N (7343-30 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-30_AVX-N_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD AVX-N (7343-30 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-31_Kemet-D
+Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-40_Kemet-Y
+Tantalum Capacitor SMD Kemet-Y (7343-40 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD Kemet-Y (7343-40 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-43_Kemet-X
+Tantalum Capacitor SMD Kemet-X (7343-43 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-43_Kemet-X_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD Kemet-X (7343-43 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7360-38_Kemet-E
+Tantalum Capacitor SMD Kemet-E (7360-38 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7360-38_Kemet-E_Pad2.25x4.25mm_HandSolder
+Tantalum Capacitor SMD Kemet-E (7360-38 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7361-38_AVX-V
+Tantalum Capacitor SMD AVX-V (7361-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7361-38_AVX-V_Pad2.18x3.30mm_HandSolder
+Tantalum Capacitor SMD AVX-V (7361-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7361-438_AVX-U
+Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7361-438_AVX-U_Pad2.18x3.30mm_HandSolder
+Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
@@ -924,6 +1400,13 @@ Dual BNC Horizontal Isolated
 6
 3
 Connector_Coaxial
+CoaxialSwitch_Hirose_MS-156C3_Horizontal
+Subminiature Coaxial Switch 1.35mm High, DC to 11GHz
+Switch Coaxial RF
+0
+12
+3
+Connector_Coaxial
 MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB
 Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
 Molex MMCX Horizontal Coaxial
@@ -1039,6 +1522,13 @@ Connector_Coaxial
 SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount
 Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)
 SMA Straight Samtec Edge Mount
+0
+5
+2
+Connector_Coaxial
+SMA_Wurth_60312002114503_Vertical
+https://www.we-online.de/katalog/datasheet/60312002114503.pdf
+SMA THT Female Jack Vertical ExtendedLegs
 0
 5
 2
@@ -1612,105 +2102,105 @@ connector Molex CLIK-Mate side entry
 Connector_Molex
 Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 2
 2
 Connector_Molex
 Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-03A example for new part number: 22-27-2031, 3 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 3
 3
 Connector_Molex
 Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-04A example for new part number: 22-27-2041, 4 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 4
 4
 Connector_Molex
 Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-05A example for new part number: 22-27-2051, 5 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 5
 5
 Connector_Molex
 Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-06A example for new part number: 22-27-2061, 6 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 6
 6
 Connector_Molex
 Molex_KK-254_AE-6410-07A_1x07_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-07A example for new part number: 22-27-2071, 7 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 7
 7
 Connector_Molex
 Molex_KK-254_AE-6410-08A_1x08_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-08A example for new part number: 22-27-2081, 8 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 8
 8
 Connector_Molex
 Molex_KK-254_AE-6410-09A_1x09_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-09A example for new part number: 22-27-2091, 9 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 9
 9
 Connector_Molex
 Molex_KK-254_AE-6410-10A_1x10_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-10A example for new part number: 22-27-2101, 10 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 10
 10
 Connector_Molex
 Molex_KK-254_AE-6410-11A_1x11_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-11A example for new part number: 22-27-2111, 11 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 11
 11
 Connector_Molex
 Molex_KK-254_AE-6410-12A_1x12_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-12A example for new part number: 22-27-2121, 12 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 12
 12
 Connector_Molex
 Molex_KK-254_AE-6410-13A_1x13_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-13A example for new part number: 22-27-2131, 13 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 13
 13
 Connector_Molex
 Molex_KK-254_AE-6410-14A_1x14_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-14A example for new part number: 22-27-2141, 14 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 14
 14
 Connector_Molex
 Molex_KK-254_AE-6410-15A_1x15_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-15A example for new part number: 22-27-2151, 15 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 15
 15
 Connector_Molex
 Molex_KK-254_AE-6410-16A_1x16_P2.54mm_Vertical
 Molex KK-254 Interconnect System, old/engineering part number: AE-6410-16A example for new part number: 22-27-2161, 16 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
-connector Molex KK-254 side entry
+connector Molex KK-254 vertical
 0
 16
 16
@@ -4326,6 +4816,13 @@ connector Molex Pico-Lock top entry
 14
 13
 Connector_Molex
+Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical
+Molex Pico-SPOX Connector System, 87437-1443, 14 Pins per row (https://www.molex.com/pdm_docs/sd/874371443_sd.pdf#page=2)
+molex pico spox 14
+0
+28
+14
+Connector_Molex
 Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical
 Molex PicoBlade Connector System, 53047-0210, 2 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade side entry
@@ -5581,6 +6078,48 @@ connector Molex SlimStack vertical
 Connector_Molex
 Molex_SlimStack_52991-0808_2x40_P0.50mm_Vertical
 Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0808, 80 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+80
+80
+Connector_Molex
+Molex_SlimStack_53748-0208_2x10_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0208, 20 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+20
+20
+Connector_Molex
+Molex_SlimStack_53748-0308_2x15_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0308, 30 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+30
+30
+Connector_Molex
+Molex_SlimStack_53748-0408_2x20_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0408, 40 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+40
+40
+Connector_Molex
+Molex_SlimStack_53748-0608_2x30_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0608, 60 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+60
+60
+Connector_Molex
+Molex_SlimStack_53748-0708_2x35_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0708, 70 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+70
+70
+Connector_Molex
+Molex_SlimStack_53748-0808_2x40_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0808, 80 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
 connector Molex SlimStack vertical
 0
 80
@@ -9939,6 +10478,1259 @@ Surface mounted socket strip SMD 2x40 2.54mm double row
 0
 80
 80
+Crystal
+Crystal_AT310_D3.0mm_L10.0mm_Horizontal
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
+['AT310']
+0
+2
+2
+Crystal
+Crystal_AT310_D3.0mm_L10.0mm_Horizontal_1EP_style1
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
+['AT310']
+0
+3
+3
+Crystal
+Crystal_AT310_D3.0mm_L10.0mm_Horizontal_1EP_style2
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
+['AT310']
+0
+5
+3
+Crystal
+Crystal_AT310_D3.0mm_L10.0mm_Vertical
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
+['AT310']
+0
+2
+2
+Crystal
+Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal
+Crystal THT C26-LF 6.5mm length 2.06mm diameter
+['C26-LF']
+0
+2
+2
+Crystal
+Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style1
+Crystal THT C26-LF 6.5mm length 2.06mm diameter
+['C26-LF']
+0
+3
+3
+Crystal
+Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style2
+Crystal THT C26-LF 6.5mm length 2.06mm diameter
+['C26-LF']
+0
+5
+3
+Crystal
+Crystal_C26-LF_D2.1mm_L6.5mm_Vertical
+Crystal THT C26-LF 6.5mm length 2.06mm diameter
+['C26-LF']
+0
+2
+2
+Crystal
+Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+2
+2
+Crystal
+Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style1
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+3
+3
+Crystal
+Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+5
+3
+Crystal
+Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+2
+2
+Crystal
+Crystal_DS10_D1.0mm_L4.3mm_Horizontal
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS10']
+0
+2
+2
+Crystal
+Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS10']
+0
+3
+3
+Crystal
+Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style2
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS10']
+0
+5
+3
+Crystal
+Crystal_DS10_D1.0mm_L4.3mm_Vertical
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS10']
+0
+2
+2
+Crystal
+Crystal_DS15_D1.5mm_L5.0mm_Horizontal
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS15']
+0
+2
+2
+Crystal
+Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style1
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS15']
+0
+3
+3
+Crystal
+Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS15']
+0
+5
+3
+Crystal
+Crystal_DS15_D1.5mm_L5.0mm_Vertical
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS15']
+0
+2
+2
+Crystal
+Crystal_DS26_D2.0mm_L6.0mm_Horizontal
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS26']
+0
+2
+2
+Crystal
+Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS26']
+0
+3
+3
+Crystal
+Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style2
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS26']
+0
+5
+3
+Crystal
+Crystal_DS26_D2.0mm_L6.0mm_Vertical
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS26']
+0
+2
+2
+Crystal
+Crystal_HC18-U_Horizontal
+Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+2
+2
+Crystal
+Crystal_HC18-U_Horizontal_1EP_style1
+Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+3
+3
+Crystal
+Crystal_HC18-U_Horizontal_1EP_style2
+Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+5
+3
+Crystal
+Crystal_HC18-U_Vertical
+Crystal THT HC-18/U, http://5hertz.com/pdfs/04404_D.pdf
+THT crystalHC-18/U
+0
+2
+2
+Crystal
+Crystal_HC33-U_Horizontal
+Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf
+THT crystal
+0
+2
+2
+Crystal
+Crystal_HC33-U_Horizontal_1EP_style1
+Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf
+THT crystal
+0
+3
+3
+Crystal
+Crystal_HC33-U_Horizontal_1EP_style2
+Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf
+THT crystal
+0
+5
+3
+Crystal
+Crystal_HC33-U_Vertical
+Crystal THT HC-33/U, http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf
+THT crystalHC-33/U
+0
+2
+2
+Crystal
+Crystal_HC35-U
+Crystal, Quarz, HC35/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/TO71xx.pdf
+Crystal Quarz HC35/U
+0
+3
+3
+Crystal
+Crystal_HC49-4H_Vertical
+Crystal THT HC-49-4H http://5hertz.com/pdfs/04404_D.pdf
+THT crystalHC-49-4H
+0
+2
+2
+Crystal
+Crystal_HC49-U-3Pin_Vertical
+Crystal THT HC-49/U, 3pin-version, http://www.raltron.com/products/pdfspecs/crystal_hc_49_45_51.pdf
+THT crystalHC-49/U
+0
+3
+3
+Crystal
+Crystal_HC49-U_Horizontal
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+2
+2
+Crystal
+Crystal_HC49-U_Horizontal_1EP_style1
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+3
+3
+Crystal
+Crystal_HC49-U_Horizontal_1EP_style2
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+5
+3
+Crystal
+Crystal_HC49-U_Vertical
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystalHC-49/U
+0
+2
+2
+Crystal
+Crystal_HC50_Horizontal
+Crystal THT HC-50 http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+2
+2
+Crystal
+Crystal_HC50_Horizontal_1EP_style1
+Crystal THT HC-50 http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+3
+3
+Crystal
+Crystal_HC50_Horizontal_1EP_style2
+Crystal THT HC-50 http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+5
+3
+Crystal
+Crystal_HC50_Vertical
+Crystal THT HC-50, http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf
+THT crystalHC-50
+0
+2
+2
+Crystal
+Crystal_HC51-U_Vertical
+Crystal THT HC-51/U, http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf
+THT crystalHC-51/U
+0
+2
+2
+Crystal
+Crystal_HC51_Horizontal
+Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+2
+2
+Crystal
+Crystal_HC51_Horizontal_1EP_style1
+Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+3
+3
+Crystal
+Crystal_HC51_Horizontal_1EP_style2
+Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+5
+3
+Crystal
+Crystal_HC52-6mm_Horizontal
+Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+2
+2
+Crystal
+Crystal_HC52-6mm_Horizontal_1EP_style1
+Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+3
+3
+Crystal
+Crystal_HC52-6mm_Horizontal_1EP_style2
+Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+5
+3
+Crystal
+Crystal_HC52-6mm_Vertical
+Crystal THT HC-52/6mm, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystalHC-49/U
+0
+2
+2
+Crystal
+Crystal_HC52-8mm_Horizontal
+Crystal THT HC-51/8mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+2
+2
+Crystal
+Crystal_HC52-8mm_Horizontal_1EP_style1
+Crystal THT HC-51/8mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+3
+3
+Crystal
+Crystal_HC52-8mm_Horizontal_1EP_style2
+Crystal THT HC-51/8mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+5
+3
+Crystal
+Crystal_HC52-8mm_Vertical
+Crystal THT HC-52/8mm, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystalHC-49/U
+0
+2
+2
+Crystal
+Crystal_HC52-U-3Pin_Vertical
+Crystal THT HC-52/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystalHC-52/U
+0
+3
+3
+Crystal
+Crystal_HC52-U_Horizontal
+Crystal THT HC-51/U http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+2
+2
+Crystal
+Crystal_HC52-U_Horizontal_1EP_style1
+Crystal THT HC-51/U http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+3
+3
+Crystal
+Crystal_HC52-U_Horizontal_1EP_style2
+Crystal THT HC-51/U http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+5
+3
+Crystal
+Crystal_HC52-U_Vertical
+Crystal THT HC-52/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal HC-52/U
+0
+2
+2
+Crystal
+Crystal_Round_D1.0mm_Vertical
+Crystal THT DS10 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS10']
+0
+2
+2
+Crystal
+Crystal_Round_D1.5mm_Vertical
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS15']
+0
+2
+2
+Crystal
+Crystal_Round_D2.0mm_Vertical
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS26']
+0
+2
+2
+Crystal
+Crystal_Round_D3.0mm_Vertical
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+2
+2
+Crystal
+Crystal_SMD_0603-2Pin_6.0x3.5mm
+SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, 6.0x3.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_0603-2Pin_6.0x3.5mm_HandSoldering
+SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, hand-soldering, 6.0x3.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_0603-4Pin_6.0x3.5mm
+SMD Crystal SERIES SMD0603/4 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf, 6.0x3.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering
+SMD Crystal SERIES SMD0603/4 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf, hand-soldering, 6.0x3.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_2012-2Pin_2.0x1.2mm
+SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, 2.0x1.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering
+SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, hand-soldering, 2.0x1.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_2016-4Pin_2.0x1.6mm
+SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_2520-4Pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_3215-2Pin_3.2x1.5mm
+SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf
+SMD SMT Crystal
+0
+2
+2
+Crystal
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_5032-2Pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_5032-4Pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_7050-2Pin_7.0x5.0mm
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_7050-2Pin_7.0x5.0mm_HandSoldering
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_7050-4Pin_7.0x5.0mm
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm
+Abracon Miniature Ceramic Smd Crystal ABM3 http://www.abracon.com/Resonators/abm3.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering
+Abracon Miniature Ceramic Smd Crystal ABM3 http://www.abracon.com/Resonators/abm3.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm
+Abracon Miniature Ceramic Smd Crystal ABM3B http://www.abracon.com/Resonators/abm3b.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_Abracon_ABM3C-4Pin_5.0x3.2mm
+Abracon Miniature Ceramic Smd Crystal ABM3C http://www.abracon.com/Resonators/abm3c.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm
+SMD Crystal Abracon ABM7, https://abracon.com/Resonators/abm7.pdf
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm
+Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm
+Abracon Miniature Ceramic Smd Crystal ABM10 http://www.abracon.com/Resonators/ABM10.pdf
+SMD SMT crystal Abracon ABM10
+0
+4
+4
+Crystal
+Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm
+Abracon Miniature Ceramic SMD Crystal ABS25 https://abracon.com/Resonators/abs25.pdf, 8.0x3.8mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm
+http://www.ecsxtal.com/store/pdf/CSM-3X.pdf
+Crystal CSM-3X
+0
+2
+2
+Crystal
+Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm
+SMD Crystal EuroQuartz EQ161 series http://cdn-reichelt.de/documents/datenblatt/B400/PG32768C.pdf, 3.2x1.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm_HandSoldering
+SMD Crystal EuroQuartz EQ161 series http://cdn-reichelt.de/documents/datenblatt/B400/PG32768C.pdf, hand-soldering, 3.2x1.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm
+SMD Crystal EuroQuartz MJ series http://cdn-reichelt.de/documents/datenblatt/B400/MJ.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm_HandSoldering
+SMD Crystal EuroQuartz MJ series http://cdn-reichelt.de/documents/datenblatt/B400/MJ.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm
+SMD Crystal EuroQuartz MQ series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering
+SMD Crystal EuroQuartz MQ series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm
+SMD Crystal EuroQuartz MQ2 series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm_HandSoldering
+SMD Crystal EuroQuartz MQ2 series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_EuroQuartz_MT-4Pin_3.2x2.5mm
+SMD Crystal EuroQuartz MT series http://cdn-reichelt.de/documents/datenblatt/B400/MT.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_EuroQuartz_MT-4Pin_3.2x2.5mm_HandSoldering
+SMD Crystal EuroQuartz MT series http://cdn-reichelt.de/documents/datenblatt/B400/MT.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_EuroQuartz_X22-4Pin_2.5x2.0mm
+SMD Crystal EuroQuartz X22 series http://cdn-reichelt.de/documents/datenblatt/B400/DS_X22.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_EuroQuartz_X22-4Pin_2.5x2.0mm_HandSoldering
+SMD Crystal EuroQuartz X22 series http://cdn-reichelt.de/documents/datenblatt/B400/DS_X22.pdf, hand-soldering, 2.5x2.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm
+crystal Ceramic Resin Sealed SMD http://www.foxonline.com/pdfs/fe.pdf, 7.5x5.0mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm_HandSoldering
+crystal Ceramic Resin Sealed SMD http://www.foxonline.com/pdfs/fe.pdf, hand-soldering, 7.5x5.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm
+FOX SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering
+FOX SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_FOX_FQ7050-4Pin_7.0x5.0mm
+FOX SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_FrontierElectronics_FM206
+SMD Watch Crystal FrontierElectronics FM206 6.0mm length 1.9mm diameter http://www.chinafronter.com/wp-content/uploads/2013/12/FM206.pdf
+['FM206']
+0
+3
+3
+Crystal
+Crystal_SMD_G8-2Pin_3.2x1.5mm
+SMD Crystal G8, 3.2x1.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering
+SMD Crystal G8, hand-soldering, 3.2x1.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_HC49-SD
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_HC49-SD_HandSoldering
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, hand-soldering, 11.4x4.7mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CC1V-T1A-2Pin_8.0x3.7mm
+SMD Crystal MicroCrystal CC1V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC1V-T1A.pdf, 8.0x3.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CC1V-T1A-2Pin_8.0x3.7mm_HandSoldering
+SMD Crystal MicroCrystal CC1V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC1V-T1A.pdf, hand-soldering, 8.0x3.7mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm
+SMD Crystal MicroCrystal CC4V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC4V-T1A.pdf, 5.0x1.9mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm_HandSoldering
+SMD Crystal MicroCrystal CC4V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC4V-T1A.pdf, hand-soldering, 5.0x1.9mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CC5V-T1A-2Pin_4.1x1.5mm
+SMD Crystal MicroCrystal CC5V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC5V-T1A.pdf, 4.1x1.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CC5V-T1A-2Pin_4.1x1.5mm_HandSoldering
+SMD Crystal MicroCrystal CC5V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC5V-T1A.pdf, hand-soldering, 4.1x1.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm
+SMD Crystal MicroCrystal CC7V-T1A/CM7V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC7V-T1A.pdf, 3.2x1.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm_HandSoldering
+SMD Crystal MicroCrystal CC7V-T1A/CM7V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf, hand-soldering, 3.2x1.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm
+SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC8V-T1A.pdf, 2.0x1.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm_HandSoldering
+SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC8V-T1A.pdf, hand-soldering, 2.0x1.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm
+SMD Crystal MicroCrystal CM9V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CM9V-T1A.pdf, 1.6x1.0mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering
+SMD Crystal MicroCrystal CM9V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CM9V-T1A.pdf, hand-soldering, 1.6x1.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_MicroCrystal_MS1V-T1K
+SMD Watch Crystal MicroCrystal MS1V-T1K 6.1mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS1V-T1K.pdf
+['MS1V-T1K']
+0
+3
+3
+Crystal
+Crystal_SMD_MicroCrystal_MS3V-T1R
+SMD Watch Crystal MicroCrystal MS3V-T1R 5.2mm length 1.4mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS3V-T1R.pdf
+['MS3V-T1R']
+0
+3
+3
+Crystal
+Crystal_SMD_Qantek_QC5CB-2Pin_5x3.2mm
+SMD Crystal Qantek QC5CB, https://www.qantek.com/tl_files/products/crystals/QC5CB.pdf
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm
+crystal Epson Toyocom FA-238 https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm_HandSoldering
+crystal Epson Toyocom FA-238 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm
+crystal Epson Toyocom FA-238 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering
+crystal Epson Toyocom FA-238 series http://www.mouser.com/ds/2/137/1721499-465440.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, 11.7x4.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 11.7x4.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm
+SMD Crystal Seiko Epson MC-505 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, 12.7x5.1mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-505 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 12.7x5.1mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, 12.7x5.1mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 12.7x5.1mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MC146-4Pin_6.7x1.5mm
+SMD Crystal Seiko Epson MC-146 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, 6.7x1.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MC146-4Pin_6.7x1.5mm_HandSoldering
+SMD Crystal Seiko Epson MC-146 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, hand-soldering, 6.7x1.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MC156-4Pin_7.1x2.5mm
+SMD Crystal Seiko Epson MC-156 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, 7.1x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MC156-4Pin_7.1x2.5mm_HandSoldering
+SMD Crystal Seiko Epson MC-156 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, hand-soldering, 7.1x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MC306-4Pin_8.0x3.2mm
+SMD Crystal Seiko Epson MC-306 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 8.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MC306-4Pin_8.0x3.2mm_HandSoldering
+SMD Crystal Seiko Epson MC-306 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 8.0x3.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm
+SMD Crystal Seiko Epson MC-405 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 9.6x4.1mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-405 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 9.6x4.1mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm
+SMD Crystal Seiko Epson MC-406 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 9.6x4.1mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-406 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 9.6x4.1mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm
+crystal Epson Toyocom TSX-3225 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm_HandSoldering
+crystal Epson Toyocom TSX-3225 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_TXC_7A-2Pin_5x3.2mm
+SMD Crystal TXC 7A http://txccrystal.com/images/pdf/7a.pdf
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm
+SMD Crystal TXC 7M http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm_HandSoldering
+SMD Crystal TXC 7M http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal
+Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm
+SMD Crystal TXC 9HT11 http://txccrystal.com/images/pdf/9ht11.pdf, 2.0x1.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm_HandSoldering
+SMD Crystal TXC 9HT11 http://txccrystal.com/images/pdf/9ht11.pdf, hand-soldering, 2.0x1.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm
+http://www.txccrystal.com/images/pdf/ax-automotive.pdf
+SMD SMT crystal
+0
+2
+2
+Crystal
+Resonator-2Pin_W6.0mm_H3.0mm
+Ceramic Resomator/Filter 6.0x3.0mm^2, length*width=6.0x3.0mm^2 package, package length=6.0mm, package width=3.0mm, 2 pins
+THT ceramic resonator filter
+0
+2
+2
+Crystal
+Resonator-2Pin_W7.0mm_H2.5mm
+Ceramic Resomator/Filter 7.0x2.5mm^2, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 2 pins
+THT ceramic resonator filter
+0
+2
+2
+Crystal
+Resonator-2Pin_W8.0mm_H3.5mm
+Ceramic Resomator/Filter 8.0x3.5mm^2, length*width=8.0x3.5mm^2 package, package length=8.0mm, package width=3.5mm, 2 pins
+THT ceramic resonator filter
+0
+2
+2
+Crystal
+Resonator-2Pin_W10.0mm_H5.0mm
+Ceramic Resomator/Filter 10.0x5.0 RedFrequency MG/MT/MX series, http://www.red-frequency.com/download/datenblatt/redfrequency-datenblatt-ir-zta.pdf, length*width=10.0x5.0mm^2 package, package length=10.0mm, package width=5.0mm, 2 pins
+THT ceramic resonator filter
+0
+2
+2
+Crystal
+Resonator-3Pin_W6.0mm_H3.0mm
+Ceramic Resomator/Filter 6.0x3.0mm^2, length*width=6.0x3.0mm^2 package, package length=6.0mm, package width=3.0mm, 3 pins
+THT ceramic resonator filter
+0
+3
+3
+Crystal
+Resonator-3Pin_W7.0mm_H2.5mm
+Ceramic Resomator/Filter 7.0x2.5mm^2, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins
+THT ceramic resonator filter
+0
+3
+3
+Crystal
+Resonator-3Pin_W8.0mm_H3.5mm
+Ceramic Resomator/Filter 8.0x3.5mm^2, length*width=8.0x3.5mm^2 package, package length=8.0mm, package width=3.5mm, 3 pins
+THT ceramic resonator filter
+0
+3
+3
+Crystal
+Resonator-3Pin_W10.0mm_H5.0mm
+Ceramic Resomator/Filter 10.0x5.0mm^2 RedFrequency MG/MT/MX series, http://www.red-frequency.com/download/datenblatt/redfrequency-datenblatt-ir-zta.pdf, length*width=10.0x5.0mm^2 package, package length=10.0mm, package width=5.0mm, 3 pins
+THT ceramic resonator filter
+0
+3
+3
+Crystal
+Resonator_SMD-3Pin_7.2x3.0mm
+SMD Resomator/Filter 7.2x3.0mm, Murata CSTCC8M00G53-R0; 8MHz resonator, SMD, Farnell (Element 14) #1170435, http://www.farnell.com/datasheets/19296.pdf?_ga=1.247244932.122297557.1475167906, 7.2x3.0mm^2 package
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystal
+Resonator_SMD-3Pin_7.2x3.0mm_HandSoldering
+SMD Resomator/Filter 7.2x3.0mm, Murata CSTCC8M00G53-R0; 8MHz resonator, SMD, Farnell (Element 14) #1170435, http://www.farnell.com/datasheets/19296.pdf?_ga=1.247244932.122297557.1475167906, hand-soldering, 7.2x3.0mm^2 package
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystal
+Resonator_SMD_muRata_CDSCB-2Pin_4.5x2.0mm
+SMD Resomator/Filter Murata CDSCB, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 4.5x2.0mm^2 package
+SMD SMT ceramic resonator filter filter
+0
+2
+2
+Crystal
+Resonator_SMD_muRata_CDSCB-2Pin_4.5x2.0mm_HandSoldering
+SMD Resomator/Filter Murata CDSCB, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 4.5x2.0mm^2 package
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+2
+2
+Crystal
+Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm
+SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf
+SMD SMT ceramic resonator filter
+0
+3
+3
+Crystal
+Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering
+SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf
+SMD SMT ceramic resonator filter
+0
+3
+3
+Crystal
+Resonator_SMD_muRata_SFECV-3Pin_6.9x2.9mm
+SMD Resomator/Filter Murata SFECV, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 6.9x2.9mm^2 package
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystal
+Resonator_SMD_muRata_SFECV-3Pin_6.9x2.9mm_HandSoldering
+SMD Resomator/Filter Murata SFECV, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 6.9x2.9mm^2 package
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystal
+Resonator_SMD_muRata_SFSKA-3Pin_7.9x3.8mm
+SMD Resomator/Filter Murata SFSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm^2 package
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystal
+Resonator_SMD_muRata_SFSKA-3Pin_7.9x3.8mm_HandSoldering
+SMD Resomator/Filter Murata SFSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 7.9x3.8mm^2 package
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystal
+Resonator_SMD_muRata_TPSKA-3Pin_7.9x3.8mm
+SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm^2 package
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystal
+Resonator_SMD_muRata_TPSKA-3Pin_7.9x3.8mm_HandSoldering
+SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 7.9x3.8mm^2 package
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystal
+Resonator_muRata_CSTLSxxxG-3Pin_W8.0mm_H3.0mm
+Ceramic Resomator/Filter Murata CSTLSxxxG, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=8.0x3.0mm^2 package, package length=8.0mm, package width=3.0mm, 3 pins
+THT ceramic resonator filter CSTLSxxxG
+0
+3
+3
+Crystal
+Resonator_muRata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm
+Ceramic Resomator/Filter Murata CSTLSxxxX, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=5.5x3.0mm^2 package, package length=5.5mm, package width=3.0mm, 3 pins
+THT ceramic resonator filter CSTLSxxxX
+0
+3
+3
+Crystal
+Resonator_muRata_DSN6-3Pin_W7.0mm_H2.5mm
+Ceramic Resomator/Filter Murata DSN6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins
+THT ceramic resonator filter DSN6
+0
+3
+3
+Crystal
+Resonator_muRata_DSS6-3Pin_W7.0mm_H2.5mm
+Ceramic Resomator/Filter Murata DSS6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins
+THT ceramic resonator filter DSS6
+0
+3
+3
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -10444,6 +12236,13 @@ Diode SOD523
 2
 2
 Diode_SMD
+D_SOD-923
+https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4
+Diode SOD923
+0
+2
+2
+Diode_SMD
 D_SOT-23_ANK
 SOT-23, Single Diode
 SOT-23
@@ -10519,13 +12318,6 @@ http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfus
 Diode Polymer Protected Zener Diode Littelfuse LS
 0
 3
-3
-Ferrite_LC_NFM41P
-Ferrite_LC_NFM41P
-LC Ferrite NFM41P
-ferrite 1812
-0
-4
 3
 Fiducial
 Fiducial_0.5mm_Mask1.5mm
@@ -10843,6 +12635,13 @@ Bourns SRU1028 SMD inductor
 2
 2
 Inductor_SMD
+L_Bourns-SRU8028_8.0x8.0mm
+Bourns SRU8028 series SMD inductor
+Bourns SRU8028 SMD inductor
+0
+2
+2
+Inductor_SMD
 L_Bourns-SRU8043
 Bourns SRU8043 series SMD inductor
 Bourns SRU8043 SMD inductor
@@ -10856,6 +12655,13 @@ Bourns SDR1806
 0
 2
 2
+Inductor_SMD
+L_Bourns_SRF1260
+Inductor, Bourns, SRF1260, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://www.bourns.com/docs/Product-Datasheets/SRF1260.pdf)
+Inductor Bourns_SRF1260
+0
+4
+4
 Inductor_SMD
 L_Bourns_SRN6045TA
 http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf
@@ -10883,6 +12689,13 @@ Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/product-datasheets
 Bourns SRR1260 SMD inductor
 0
 4
+2
+Inductor_SMD
+L_Bourns_SRP5030T
+Inductor, Bourns, SRP5030T, 5.7mmx5.2mm (Script generated with StandardBox.py) (https://www.bourns.com/data/global/pdfs/SRP5030T.pdf)
+Inductor Bourns_SRP5030T
+0
+2
 2
 Inductor_SMD
 L_Bourns_SRP7028A_7.3x6.6mm
@@ -10954,6 +12767,34 @@ L Coilcraft XxL4040
 0
 2
 2
+Inductor_SMD
+L_CommonModeChoke_Coilcraft_0603USB
+Coilcraft 0603USB Series Common Mode Choke, https://www.coilcraft.com/pdfs/0603usb.pdf
+surface mount common mode bead
+0
+4
+4
+Inductor_SMD
+L_CommonModeChoke_Coilcraft_0805USB
+Coilcraft 0805USB Series Common Mode Choke, https://www.coilcraft.com/pdfs/0805usb.pdf
+surface mount common mode bead
+0
+4
+4
+Inductor_SMD
+L_CommonModeChoke_Coilcraft_1812CAN
+Coilcraft 1812CAN Series Common Mode Choke, https://www.coilcraft.com/pdfs/1812can.pdf
+surface mount common mode bead
+0
+4
+4
+Inductor_SMD
+L_CommonModeChoke_Wuerth_WE-SL5
+WE-SL5 SMT Common Mode Line Filter, https://www.we-online.de/katalog/en/WE-SL5/, https://www.we-online.de/katalog/datasheet/744272471.pdf
+SMT Common Mode Line Filter
+0
+4
+4
 Inductor_SMD
 L_CommonMode_Delevan_4222
 API Delevan, Surface Mount Common Mode Bead, 4222 4222R, http://www.delevan.com/seriesPDFs/4222.pdf
@@ -12662,13 +14503,419 @@ mounting hole 8.4mm m8
 0
 9
 1
-Omron_G5LE
-Omron_G5LE
-
-
+Oscillator
+Oscillator_DIP-8
+Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
+oscillator
+0
+4
+4
+Oscillator
+Oscillator_DIP-8_LargePads
+Oscillator, DIP8, Large Pads, http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
+oscillator
+0
+4
+4
+Oscillator
+Oscillator_DIP-14
+Oscillator, DIP14, http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
+oscillator
+0
+4
+4
+Oscillator
+Oscillator_DIP-14_LargePads
+Oscillator, DIP14, Large Pads, http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
+oscillator
+0
+4
+4
+Oscillator
+Oscillator_OCXO_Morion_MV267
+http://www.morion.com.ru/catalog_pdf/MV267.pdf
+OCXO
 0
 5
 5
+Oscillator
+Oscillator_OCXO_Morion_MV317
+https://www.morion-us.com/catalog_pdf/mv317.pdf
+OCXO
+0
+5
+5
+Oscillator
+Oscillator_SMD_Abracon_ABLNO
+https://abracon.com/Precisiontiming/ABLNO.pdf
+VCXO XO
+0
+4
+4
+Oscillator
+Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm
+Miniature Crystal Clock Oscillator Abracon ASCO series, https://abracon.com/Oscillators/ASCO.pdf, 1.6x1.2mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm
+Miniature Crystal Clock Oscillator Abracon ASDMB series, 2.5x2.0mm package, http://www.abracon.com/Oscillators/ASDMB.pdf
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm
+Miniature Crystal Clock Oscillator Abracon ASE series, http://www.abracon.com/Oscillators/ASEseries.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering
+Miniature Crystal Clock Oscillator Abracon ASE series, http://www.abracon.com/Oscillators/ASEseries.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm
+Miniature Crystal Clock Oscillator Abracon ASV series, http://www.abracon.com/Oscillators/ASV.pdf, 7.0x5.1mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm_HandSoldering
+Miniature Crystal Clock Oscillator Abracon ASV series, http://www.abracon.com/Oscillators/ASV.pdf, hand-soldering, 7.0x5.1mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm
+FN Series Crystal Clock Oscillator (XO) (https://www.diodes.com/assets/Datasheets/FN_3-3V.pdf)
+Oscillator Crystal SMD SMT
+0
+4
+4
+Oscillator
+Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm
+Miniature Crystal Clock Oscillator ECS 2520MV series, https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf
+Miniature Crystal Clock Oscillator ECS 2520MV series SMD SMT HCMOS
+0
+4
+4
+Oscillator
+Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm
+Miniature Crystal Clock Oscillator EuroQuartz XO32 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO32.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm_HandSoldering
+Miniature Crystal Clock Oscillator EuroQuartz XO32 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO32.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm
+Miniature Crystal Clock Oscillator EuroQuartz XO53 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO53.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm_HandSoldering
+Miniature Crystal Clock Oscillator EuroQuartz XO53 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO53.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm
+Miniature Crystal Clock Oscillator EuroQuartz XO91 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO91.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering
+Miniature Crystal Clock Oscillator EuroQuartz XO91 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO91.pdf, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_Fordahl_DFAS1-6Pin_14.8x9.1mm
+Miniature Crystal Clock Oscillator TXCO Fordahl DFA S1-KHZ/LHZ, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 14.8x9.1mm^2 package
+SMD SMT crystal oscillator
+0
+6
+6
+Oscillator
+Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm
+Mminiature Crystal Clock Oscillator TXCO Fordahl DFA S2-KS/LS/US, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 7.3x5.1mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm_HandSoldering
+Mminiature Crystal Clock Oscillator TXCO Fordahl DFA S2-KS/LS/US, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, hand-soldering, 7.3x5.1mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm
+Miniature Crystal Clock Oscillator TXCO Fordahl DFA S3-KS/LS/US, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 9.1x7.2mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering
+Miniature Crystal Clock Oscillator TXCO Fordahl DFA S3-KS/LS/US, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, hand-soldering, 9.1x7.2mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_Fordahl_DFAS7-4Pin_19.9x12.9mm
+Miniature Crystal Clock Oscillator TXCO Fordahl DFA S7-K/L, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 19.9x12.9mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_Fordahl_DFAS7-4Pin_19.9x12.9mm_HandSoldering
+Miniature Crystal Clock Oscillator TXCO Fordahl DFA S7-K/L, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, hand-soldering, 19.9x12.9mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm
+Miniature Crystal Clock Oscillator TXCO Fordahl DFA S11-OV/UOV, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm_HandSoldering
+Miniature Crystal Clock Oscillator TXCO Fordahl DFA S11-OV/UOV, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_Fordahl_DFAS15-4Pin_5.0x3.2mm
+Ultraminiature Crystal Clock Oscillator TXCO Fordahl DFA S15-OV/UOV, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_Fordahl_DFAS15-4Pin_5.0x3.2mm_HandSoldering
+Ultraminiature Crystal Clock Oscillator TXCO Fordahl DFA S15-OV/UOV, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm
+SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=15, 5.0x3.2mm
+SMD SMT crystal oscillator
+0
+6
+6
+Oscillator
+Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm
+SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=17, 7.0x5.0mm
+SMD SMT crystal oscillator
+0
+6
+6
+Oscillator
+Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm
+IQD Crystal Clock Oscillator IQXO-70, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 7.5x5.0mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm_HandSoldering
+IQD Crystal Clock Oscillator IQXO-70, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, hand-soldering, 7.5x5.0mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm
+https://global.kyocera.com/prdct/electro/product/pdf/kt2520_e.pdf
+2.5mm 2mm SMD
+0
+6
+6
+Oscillator
+Oscillator_SMD_OCXO_ConnorWinfield_OH300
+http://www.conwin.com/datasheets/cx/cx282.pdf
+OCXO
+0
+7
+7
+Oscillator
+Oscillator_SMD_SI570_SI571_HandSoldering
+SI570, SI571, Programmable oscillator, Standard
+SI570 SI571 Programmable oscillator Standard
+0
+8
+8
+Oscillator
+Oscillator_SMD_SI570_SI571_Standard
+SI570, SI571, Programmable oscillator, Standard
+SI570 SI571 Programmable oscillator Standard
+0
+8
+8
+Oscillator
+Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm
+SMD Crystal Oscillator Seiko Epson SG-210 https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-210SED, 2.5x2.0mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering
+SMD Crystal Oscillator Seiko Epson SG-210 https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-210SED, hand-soldering, 2.5x2.0mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG3030CM
+SMD Crystal Oscillator Seiko Epson SG-3030CM package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm
+SMD Crystal Oscillator Seiko Epson SG-8002CA https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 7.0x5.0mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm_HandSoldering
+SMD Crystal Oscillator Seiko Epson SG-8002CA https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm
+SMD Crystal Oscillator Seiko Epson SG-8002CE https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 3.2x2.5mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering
+SMD Crystal Oscillator Seiko Epson SG-8002CE https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm
+SMD Crystal Oscillator Seiko Epson SG-8002JA https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 14.0x8.7mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm_HandSoldering
+SMD Crystal Oscillator Seiko Epson SG-8002JA https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, hand-soldering, 14.0x8.7mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm
+SMD Crystal Oscillator Seiko Epson SG-8002JC https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 10.5x5.0mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm_HandSoldering
+SMD Crystal Oscillator Seiko Epson SG-8002JC https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, hand-soldering, 10.5x5.0mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm
+SMD Crystal Oscillator Seiko Epson SG-8002LB https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 5.0x3.2mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm_HandSoldering
+SMD Crystal Oscillator Seiko Epson SG-8002LB https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm
+Silicon_Labs  LGA, 6 Pin (https://www.silabs.com/documents/public/data-sheets/si512-13.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Silicon_Labs LGA NoLead
+0
+6
+6
+Oscillator
+Oscillator_SMD_TCXO_G158
+TCXO
+TCXO
+0
+4
+4
+Oscillator
+Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm
+Miniature Crystal Clock Oscillator TXC 7C series, http://www.txccorp.com/download/products/osc/7C_o.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Oscillator
+Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm_HandSoldering
+Miniature Crystal Clock Oscillator TXC 7C series, http://www.txccorp.com/download/products/osc/7C_o.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+Oscillator
+Oscillator_SeikoEpson_SG-8002DB
+14-lead dip package, row spacing 7.62 mm (300 mils)
+DIL DIP PDIP 2.54mm 7.62mm 300mil
+0
+4
+4
+Oscillator
+Oscillator_SeikoEpson_SG-8002DC
+8-lead dip package, row spacing 7.62 mm (300 mils)
+DIL DIP PDIP 2.54mm 7.62mm 300mil
+0
+4
+4
 Package_SO
 Diodes_PSOP-8
 8-Lead Plastic PSOP, Exposed Die Pad (see https://www.diodes.com/assets/Datasheets/AP2204.pdf)
@@ -12761,6 +15008,20 @@ HTSOP SO
 20
 9
 Package_SO
+HTSSOP-14-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3.1mm
+HTSSOP, 14 Pin (http://www.ti.com/lit/ds/symlink/lm5161.pdf#page=34), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+20
+15
+Package_SO
+HTSSOP-14-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3.1mm_ThermalVias
+HTSSOP, 14 Pin (http://www.ti.com/lit/ds/symlink/lm5161.pdf#page=34), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+36
+15
+Package_SO
 HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm
 16-Lead Plastic HTSSOP (4.4x5x1.2mm); Thermal pad; (http://www.ti.com/lit/ds/symlink/drv8833.pdf)
 SSOP 0.65
@@ -12768,9 +15029,16 @@ SSOP 0.65
 29
 17
 Package_SO
+HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm
+HTSSOP, 16 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+20
+17
+Package_SO
 HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias
-16-Lead Plastic HTSSOP (4.4x5x1.2mm); Thermal pad with vias; (http://www.ti.com/lit/ds/symlink/drv8833.pdf)
-SSOP 0.65
+HTSSOP, 16 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
 0
 27
 17
@@ -12788,6 +15056,13 @@ HTSSOP SO
 0
 21
 17
+Package_SO
+HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.85x4mm
+HTSSOP, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF U20E-1), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+23
+21
 Package_SO
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm
 20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [HTSSOP], with thermal pad with vias
@@ -12819,6 +15094,20 @@ HTSSOP SO
 Package_SO
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.75x3.43mm_ThermalVias_HandSolder
 HTSSOP, 20 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=37&zoom=160,-90,3), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+42
+21
+Package_SO
+HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm
+HTSSOP, 20 Pin (https://www.ti.com/lit/ds/symlink/tps2663.pdf#page=49), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+23
+21
+Package_SO
+HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias
+HTSSOP, 20 Pin (https://www.ti.com/lit/ds/symlink/tps2663.pdf#page=49), generated with kicad-footprint-generator ipc_gullwing_generator.py
 HTSSOP SO
 0
 42
@@ -13035,10 +15324,17 @@ MFSOP 4 pin SMD
 5
 Package_SO
 MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm
-MS8E Package; 8-Lead Plastic MSOP, Exposed Die Pad (see Linear Technology 05081662_K_MS8E.pdf)
-SSOP 0.65
+MSOP, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf#page=13), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
 0
 13
+9
+Package_SO
+MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm_ThermalVias
+MSOP, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf#page=13), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
+0
+18
 9
 Package_SO
 MSOP-8-1EP_3x3mm_P0.65mm_EP1.73x1.85mm
@@ -13209,6 +15505,13 @@ MSOP SO
 16
 16
 Package_SO
+ONSemi_SO-8FL_488AA
+ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A https://www.onsemi.com/pub/Collateral/488AA.PDF
+ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A 
+0
+5
+5
+Package_SO
 OnSemi_Micro8
 ON Semiconductor Micro8 (Case846A-02): https://www.onsemi.com/pub/Collateral/846A-02.PDF
 micro8
@@ -13357,11 +15660,46 @@ SO SO
 8
 Package_SO
 SO-8_5.3x6.2mm_P1.27mm
-8-Lead Plastic Small Outline, 5.3x6.2mm Body (http://www.ti.com.cn/cn/lit/ds/symlink/tl7705a.pdf)
-SOIC 1.27
+SO, 8 Pin (https://www.ti.com/lit/ml/msop001a/msop001a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
 0
 8
 8
+Package_SO
+SO-14_5.3x10.2mm_P1.27mm
+SO, 14 Pin (https://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+14
+14
+Package_SO
+SO-16_5.3x10.2mm_P1.27mm
+SO, 16 Pin (https://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+16
+16
+Package_SO
+SO-20-1EP_7.52x12.825mm_P1.27mm_EP6.045x12.09mm_Mask3.56x4.47mm
+SO, 20 Pin (http://www.ti.com/lit/ds/symlink/opa569.pdf, http://www.ti.com/lit/an/slma004b/slma004b.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+23
+21
+Package_SO
+SO-20-1EP_7.52x12.825mm_P1.27mm_EP6.045x12.09mm_Mask3.56x4.47mm_ThermalVias
+SO, 20 Pin (http://www.ti.com/lit/ds/symlink/opa569.pdf, http://www.ti.com/lit/an/slma004b/slma004b.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+51
+21
+Package_SO
+SO-20_5.3x12.6mm_P1.27mm
+SO, 20 Pin (https://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+20
+20
 Package_SO
 SO-20_12.8x7.5mm_P1.27mm
 SO-20, 12.8x7.5mm, https://www.nxp.com/docs/en/data-sheet/SA605.pdf
@@ -13369,6 +15707,13 @@ S0-20
 0
 20
 20
+Package_SO
+SO-24_5.3x15mm_P1.27mm
+SO, 24 Pin (https://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+24
+24
 Package_SO
 SOIC-4_4.55x2.6mm_P1.27mm
 SOIC, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -13609,14 +15954,14 @@ SOP SO
 4
 Package_SO
 SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm
-SOP, 8 Pin (Mini-Circuits XX112 housing; https://ww2.minicircuits.com/case_style/XX112.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX112.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOP SO
 0
 13
 9
 Package_SO
 SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias
-SOP, 8 Pin (Mini-Circuits XX112 housing; https://ww2.minicircuits.com/case_style/XX112.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX112.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOP SO
 0
 20
@@ -14036,8 +16381,8 @@ SSOP 0.65
 8
 Package_SO
 TSSOP-8_4.4x3mm_P0.65mm
-8-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+TSSOP, 8 Pin (JEDEC MO-153 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 8
 8
@@ -14057,8 +16402,8 @@ SSOP 0.65 exposed pad
 15
 Package_SO
 TSSOP-14_4.4x5mm_P0.65mm
-14-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+TSSOP, 14 Pin (JEDEC MO-153 Var AB-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 14
 14
@@ -14071,22 +16416,50 @@ SSOP 0.65
 17
 Package_SO
 TSSOP-16_4.4x5mm_P0.65mm
-16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 16
 16
+Package_SO
+TSSOP-20_4.4x5mm_P0.5mm
+TSSOP, 20 Pin (JEDEC MO-153 Var BA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+20
+20
 Package_SO
 TSSOP-20_4.4x6.5mm_P0.65mm
-20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+TSSOP, 20 Pin (JEDEC MO-153 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 20
 20
 Package_SO
+TSSOP-24_4.4x5mm_P0.4mm
+TSSOP, 24 Pin (JEDEC MO-153 Var CA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+24
+24
+Package_SO
+TSSOP-24_4.4x6.5mm_P0.5mm
+TSSOP, 24 Pin (JEDEC MO-153 Var BB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+24
+24
+Package_SO
 TSSOP-24_4.4x7.8mm_P0.65mm
-TSSOP24: plastic thin shrink small outline package; 24 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot355-1_po.pdf)
-SSOP 0.65
+TSSOP, 24 Pin (JEDEC MO-153 Var AD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+24
+24
+Package_SO
+TSSOP-24_6.1x7.8mm_P0.65mm
+TSSOP, 24 Pin (JEDEC MO-153 Var DA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 24
 24
@@ -14098,40 +16471,166 @@ SSOP 0.65
 36
 29
 Package_SO
+TSSOP-28_4.4x7.8mm_P0.5mm
+TSSOP, 28 Pin (JEDEC MO-153 Var BC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+28
+28
+Package_SO
 TSSOP-28_4.4x9.7mm_P0.65mm
-TSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot361-1_po.pdf)
-SSOP 0.65
+TSSOP, 28 Pin (JEDEC MO-153 Var AE https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+28
+28
+Package_SO
+TSSOP-28_6.1x7.8mm_P0.5mm
+TSSOP, 28 Pin (JEDEC MO-153 Var EA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+28
+28
+Package_SO
+TSSOP-28_6.1x9.7mm_P0.65mm
+TSSOP, 28 Pin (JEDEC MO-153 Var DB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+28
+28
+Package_SO
+TSSOP-28_8x9.7mm_P0.65mm
+TSSOP, 28 Pin (JEDEC MO-153 Var GA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 28
 28
 Package_SO
 TSSOP-30_4.4x7.8mm_P0.5mm
-TSSOP30: plastic thin shrink small outline package; 30 leads; body width 4.4 mm (http://www.ti.com/lit/ds/symlink/bq78350.pdf)
-SSOP 0.5
+TSSOP, 30 Pin (JEDEC MO-153 Var BC-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 30
 30
+Package_SO
+TSSOP-30_6.1x9.7mm_P0.65mm
+TSSOP, 30 Pin (JEDEC MO-153 Var DB-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+30
+30
+Package_SO
+TSSOP-32_4.4x6.5mm_P0.4mm
+TSSOP, 32 Pin (JEDEC MO-153 Var CB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+32
+32
 Package_SO
 TSSOP-32_6.1x11mm_P0.65mm
-TSSOP32: plastic thin shrink small outline package; 32 leads; body width 6.1 mm; lead pitch 0.65 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot487-1_po.pdf)
-SSOP 0.65
+TSSOP, 32 Pin (JEDEC MO-153 Var DC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 32
 32
 Package_SO
+TSSOP-32_8x11mm_P0.65mm
+TSSOP, 32 Pin (JEDEC MO-153 Var GB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+32
+32
+Package_SO
+TSSOP-36_4.4x7.8mm_P0.4mm
+TSSOP, 36 Pin (JEDEC MO-153 Var CC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+36
+36
+Package_SO
+TSSOP-36_4.4x9.7mm_P0.5mm
+TSSOP, 36 Pin (JEDEC MO-153 Var BD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+36
+36
+Package_SO
+TSSOP-36_6.1x7.8mm_P0.4mm
+TSSOP, 36 Pin (JEDEC MO-153 Var FA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+36
+36
+Package_SO
+TSSOP-36_6.1x9.7mm_P0.5mm
+TSSOP, 36 Pin (JEDEC MO-153 Var EB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+36
+36
+Package_SO
+TSSOP-36_6.1x12.5mm_P0.65mm
+TSSOP, 36 Pin (JEDEC MO-153 Var DD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+36
+36
+Package_SO
+TSSOP-36_8x9.7mm_P0.5mm
+TSSOP, 36 Pin (JEDEC MO-153 Var HA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+36
+36
+Package_SO
+TSSOP-36_8x12.5mm_P0.65mm
+TSSOP, 36 Pin (JEDEC MO-153 Var GC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+36
+36
+Package_SO
 TSSOP-38_4.4x9.7mm_P0.5mm
-TSSOP38: plastic thin shrink small outline package; 38 leads; body width 4.4 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot510-1_po.pdf)
-SSOP 0.5
+TSSOP, 38 Pin (JEDEC MO-153 Var BD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 38
 38
 Package_SO
 TSSOP-38_6.1x12.5mm_P0.65mm
-TSSOP38: plastic thin shrink small outline package; 38 leads; body width 6.1 mm (http://www.ti.com/lit/ds/symlink/msp430g2744.pdf)
-SSOP 0.65
+TSSOP, 38 Pin (JEDEC MO-153 Var DD-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 38
 38
+Package_SO
+TSSOP-40_6.1x11mm_P0.5mm
+TSSOP, 40 Pin (JEDEC MO-153 Var EC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+40
+40
+Package_SO
+TSSOP-40_6.1x14mm_P0.65mm
+TSSOP, 40 Pin (JEDEC MO-153 Var DE https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+40
+40
+Package_SO
+TSSOP-40_8x11mm_P0.5mm
+TSSOP, 40 Pin (JEDEC MO-153 Var HB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+40
+40
+Package_SO
+TSSOP-40_8x14mm_P0.65mm
+TSSOP, 40 Pin (JEDEC MO-153 Var GD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+40
+40
 Package_SO
 TSSOP-44_4.4x11.2mm_P0.5mm
 TSSOP44: plastic thin shrink small outline package; 44 leads; body width 4.4 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot510-1_po.pdf)
@@ -14140,19 +16639,145 @@ SSOP 0.5
 44
 44
 Package_SO
-TSSOP-48_6.1x12.5mm_P0.5mm
-TSSOP48: plastic thin shrink small outline package; 48 leads; body width 6.1 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot362-1_po.pdf)
-SSOP 0.5
+TSSOP-44_4.4x11mm_P0.5mm
+TSSOP, 44 Pin (JEDEC MO-153 Var BE https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+44
+44
+Package_SO
+TSSOP-44_6.1x11mm_P0.5mm
+TSSOP, 44 Pin (JEDEC MO-153 Var EC-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+44
+44
+Package_SO
+TSSOP-48_4.4x9.7mm_P0.4mm
+TSSOP, 48 Pin (JEDEC MO-153 Var CD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 48
 48
 Package_SO
-TSSOP-56_6.1x14mm_P0.5mm
-TSSOP56: plastic thin shrink small outline package; 56 leads; body width 6.1 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot364-1_po.pdf)
-SSOP 0.5
+TSSOP-48_6.1x9.7mm_P0.4mm
+TSSOP, 48 Pin (JEDEC MO-153 Var FB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+48
+48
+Package_SO
+TSSOP-48_6.1x12.5mm_P0.5mm
+TSSOP, 48 Pin (JEDEC MO-153 Var ED https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+48
+48
+Package_SO
+TSSOP-48_8x9.7mm_P0.4mm
+TSSOP, 48 Pin (JEDEC MO-153 Var JA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+48
+48
+Package_SO
+TSSOP-48_8x12.5mm_P0.5mm
+TSSOP, 48 Pin (JEDEC MO-153 Var HC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+48
+48
+Package_SO
+TSSOP-50_4.4x12.5mm_P0.5mm
+TSSOP, 50 Pin (JEDEC MO-153 Var BF https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+50
+50
+Package_SO
+TSSOP-52_6.1x11mm_P0.4mm
+TSSOP, 52 Pin (JEDEC MO-153 Var FC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+52
+52
+Package_SO
+TSSOP-52_8x11mm_P0.4mm
+TSSOP, 52 Pin (JEDEC MO-153 Var JB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+52
+52
+Package_SO
+TSSOP-56_6.1x12.5mm_P0.4mm
+TSSOP, 56 Pin (JEDEC MO-153 Var FD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
 0
 56
 56
+Package_SO
+TSSOP-56_6.1x14mm_P0.5mm
+TSSOP, 56 Pin (JEDEC MO-153 Var EE https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+56
+56
+Package_SO
+TSSOP-56_8x12.5mm_P0.4mm
+TSSOP, 56 Pin (JEDEC MO-153 Var JC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+56
+56
+Package_SO
+TSSOP-56_8x14mm_P0.5mm
+TSSOP, 56 Pin (JEDEC MO-153 Var HD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+56
+56
+Package_SO
+TSSOP-60_8x12.5mm_P0.4mm
+TSSOP, 60 Pin (JEDEC MO-153 Var JC-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+60
+60
+Package_SO
+TSSOP-64_6.1x14mm_P0.4mm
+TSSOP, 64 Pin (JEDEC MO-153 Var FE https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+64
+64
+Package_SO
+TSSOP-64_6.1x17mm_P0.5mm
+TSSOP, 64 Pin (JEDEC MO-153 Var EF https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+64
+64
+Package_SO
+TSSOP-64_8x14mm_P0.4mm
+TSSOP, 64 Pin (JEDEC MO-153 Var JD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+64
+64
+Package_SO
+TSSOP-68_8x14mm_P0.4mm
+TSSOP, 68 Pin (JEDEC MO-153 Var JD-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+68
+68
+Package_SO
+TSSOP-80_6.1x17mm_P0.4mm
+TSSOP, 80 Pin (JEDEC MO-153 Var FF https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+80
+80
 Package_SO
 Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm
 Texas Instruments HSOP 9, 1.27mm pitch, 3.9x4.9mm body, exposed pad, DDA0008J (http://www.ti.com/lit/ds/symlink/tps5430.pdf)
@@ -14309,18 +16934,39 @@ hdsop 10 ddpak
 10
 Package_TO_SOT_SMD
 Infineon_PG-HSOF-8-1
-Infineon HSOF-8-1 power mosfet http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/
-mosfet hsof
+HSOF-8-1 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/)
+mosfet hsof toll
 0
-54
+11
 3
 Package_TO_SOT_SMD
 Infineon_PG-HSOF-8-1_ThermalVias
-HSOF-8-1 power mosfet http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/
-mosfet hsof thermal vias
+HSOF-8-1 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/)
+mosfet hsof toll thermal vias
 0
-57
+96
 3
+Package_TO_SOT_SMD
+Infineon_PG-HSOF-8-2
+HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/)
+mosfet hsof toll
+0
+12
+4
+Package_TO_SOT_SMD
+Infineon_PG-HSOF-8-2_ThermalVias
+HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/)
+mosfet hsof toll thermal vias
+0
+97
+4
+Package_TO_SOT_SMD
+Infineon_PG-HSOF-8-2_ThermalVias2
+HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/, https://www.infineon.com/dgdl/Infineon-ApplicationNote_600V_CoolMOS_C7_Gold_TOLL-AN-v01_00-EN.pdf?fileId=5546d4625b10283a015b144a1af70df6)
+mosfet hsof toll thermal vias
+0
+159
+4
 Package_TO_SOT_SMD
 Infineon_PG-TO-220-7Lead_TabPin8
 Infineon PG-TO-220-7, Tab as Pin 8, see e.g. https://www.infineon.com/dgdl/Infineon-BTS50055-1TMC-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa9b0007235e9
@@ -14505,31 +17151,31 @@ SOT-23
 3
 Package_TO_SOT_SMD
 SOT-89-3
-SOT-89-3
+SOT-89-3, http://ww1.microchip.com/downloads/en/DeviceDoc/3L_SOT-89_MB_C04-029C.pdf
 SOT-89-3
 0
-6
+3
 3
 Package_TO_SOT_SMD
 SOT-89-3_Handsoldering
 SOT-89-3 Handsoldering
 SOT-89-3 Handsoldering
 0
-5
+3
 3
 Package_TO_SOT_SMD
 SOT-89-5
-SOT-89-5, Housing,http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
-SOT-89-5 Housing 
+SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
+SOT-89-5
 0
-9
+5
 5
 Package_TO_SOT_SMD
 SOT-89-5_Handsoldering
-SOT89-5, Housing,http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
-SOT89-5 Housing 
+SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
+SOT-89-5
 0
-9
+5
 5
 Package_TO_SOT_SMD
 SOT-143
@@ -14675,6 +17321,13 @@ Package_TO_SOT_SMD
 SOT-416
 SOT-416, https://www.nxp.com/docs/en/package-information/SOT416.pdf
 SOT-416
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-523
+SOT523, https://www.diodes.com/assets/Package-Files/SOT523.pdf
+SOT-523
 0
 3
 3
@@ -15071,6 +17724,13 @@ DRT-3 1x0.8mm Pitch 0.7mm
 3
 3
 Package_TO_SOT_SMD
+Texas_NDQ
+Texas Instruments, NDQ, 5 pin (https://www.ti.com/lit/ml/mmsf022/mmsf022.pdf)
+ti pfm dap
+0
+6
+6
+Package_TO_SOT_SMD
 Texas_NDY0011A
 TO-PMOD-11 11-pin switching regulator package, http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf
 Texas TO-PMOD NDY00011A
@@ -15116,6 +17776,48 @@ Relay_SMD
 Relay_DPDT_FRT5_SMD
 IM Signal Relay DPDT FRT5 narrow footprint, SMD version of package
 Relay DPDT IM-relay FRT5
+0
+10
+10
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NU
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double coil latching surface mount SMD
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NUH
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double coil latching surface mount SMD
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NUH_DoubleCoil
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double dual coil latching surface mount SMD
+0
+10
+10
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NUX_DoubleCoil
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double dual coil latching surface mount SMD
+0
+10
+10
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NUX_NKX
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double coil latching surface mount SMD
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NU_DoubleCoil
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double dual coil latching surface mount SMD
 0
 10
 10
@@ -15183,6 +17885,13 @@ Relay Omron G6SK-2G
 10
 10
 Relay_SMD
+Relay_Fujitsu_FTR-B3S
+https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf
+Fujitsh FTR B3S B3SA Relay J JLeg
+0
+8
+8
+Relay_SMD
 Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm
 hiqsdr.com/images/3/3e/Axicom-HF3.pdf
 AXICOM HF3-Series Relay Pitch 1.27mm 50ohms
@@ -15190,20 +17899,6 @@ AXICOM HF3-Series Relay Pitch 1.27mm 50ohms
 16
 16
 Relay_SMD
-Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm
-hiqsdr.com/images/3/3e/Axicom-HF3.pdf
-AXICOM HF3-Series Relay Pitch 1.27mm 75ohm
-0
-16
-16
-Relays_SMD
-Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm
-hiqsdr.com/images/3/3e/Axicom-HF3.pdf
-AXICOM HF3-Series Relay Pitch 1.27mm 50ohms
-0
-16
-16
-Relays_SMD
 Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm
 hiqsdr.com/images/3/3e/Axicom-HF3.pdf
 AXICOM HF3-Series Relay Pitch 1.27mm 75ohm
@@ -15637,979 +18332,13 @@ SMD Shunt Resistor
 0
 4
 2
-SMA_PINS
-SMA_EDGE_NRW
-
-
-0
-5
-2
-SMA_PINS
-SMA_PINS
-SMA with through-hole connections
-
-0
-5
-2
-Symbol
-CE-Logo_8.5x6mm_SilkScreen
-CE marking
-Logo CE certification
-0
-0
-0
-Symbol
-CE-Logo_11.2x8mm_SilkScreen
-CE marking
-Logo CE certification
-0
-0
-0
-Symbol
-CE-Logo_16.8x12mm_SilkScreen
-CE marking
-Logo CE certification
-0
-0
-0
-Symbol
-CE-Logo_28x20mm_SilkScreen
-CE marking
-Logo CE certification
-0
-0
-0
-Symbol
-CE-Logo_42x30mm_SilkScreen
-CE marking
-Logo CE certification
-0
-0
-0
-Symbol
-CE-Logo_56.1x40mm_SilkScreen
-CE marking
-Logo CE certification
-0
-0
-0
-Symbol
-ESD-Logo_6.6x6mm_SilkScreen
-Electrostatic discharge Logo
-Logo ESD
-0
-0
-0
-Symbol
-ESD-Logo_8.9x8mm_SilkScreen
-Electrostatic discharge Logo
-Logo ESD
-0
-0
-0
-Symbol
-ESD-Logo_13.2x12mm_SilkScreen
-Electrostatic discharge Logo
-Logo ESD
-0
-0
-0
-Symbol
-ESD-Logo_22x20mm_SilkScreen
-Electrostatic discharge Logo
-Logo ESD
-0
-0
-0
-Symbol
-ESD-Logo_33x30mm_SilkScreen
-Electrostatic discharge Logo
-Logo ESD
-0
-0
-0
-Symbol
-ESD-Logo_44.1x40mm_SilkScreen
-Electrostatic discharge Logo
-Logo ESD
-0
-0
-0
-Symbol
-FCC-Logo_7.3x6mm_SilkScreen
-FCC marking
-Logo FCC certification
-0
-0
-0
-Symbol
-FCC-Logo_9.6x8mm_SilkScreen
-FCC marking
-Logo FCC certification
-0
-0
-0
-Symbol
-FCC-Logo_14.6x12mm_SilkScreen
-FCC marking
-Logo FCC certification
-0
-0
-0
-Symbol
-FCC-Logo_24.2x20mm_SilkScreen
-FCC marking
-Logo FCC certification
-0
-0
-0
-Symbol
-FCC-Logo_36.3x30mm_SilkScreen
-FCC marking
-Logo FCC certification
-0
-0
-0
-Symbol
-FCC-Logo_48.3x40mm_SilkScreen
-FCC marking
-Logo FCC certification
-0
-0
-0
-Symbol
-KiCad-Logo2_5mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_5mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_6mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_6mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_8mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_8mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_12mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_12mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_20mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_20mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_30mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_30mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_40mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo2_40mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_5mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_5mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_6mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_6mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_8mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_8mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_12mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_12mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_20mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_20mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_30mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_30mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_40mm_Copper
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-KiCad-Logo_40mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-Symbol
-OSHW-Logo2_7.3x6mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_7.3x6mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_9.8x8mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_9.8x8mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_14.6x12mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_14.6x12mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_24.3x20mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_24.3x20mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_36.5x30mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_36.5x30mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_48.7x40mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo2_48.7x40mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_5.7x6mm_Copper
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_5.7x6mm_SilkScreen
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_7.5x8mm_Copper
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_7.5x8mm_SilkScreen
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_11.4x12mm_Copper
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_11.4x12mm_SilkScreen
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_19x20mm_Copper
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_19x20mm_SilkScreen
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_28.5x30mm_Copper
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_28.5x30mm_SilkScreen
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_38.1x40mm_Copper
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Logo_38.1x40mm_SilkScreen
-Open Source Hardware Logo
-Logo OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_6.7x6mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_6.7x6mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_8.9x8mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_8.9x8mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_13.4x12mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_13.4x12mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_22.3x20mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_22.3x20mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_33.5x30mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_33.5x30mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_44.5x40mm_Copper
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-OSHW-Symbol_44.5x40mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-Symbol
-Polarity_Center_Negative_6mm_SilkScreen
-Polarity Logo, Center Negative
-Logo Polarity Center Negative
-0
-0
-0
-Symbol
-Polarity_Center_Negative_8mm_SilkScreen
-Polarity Logo, Center Negative
-Logo Polarity Center Negative
-0
-0
-0
-Symbol
-Polarity_Center_Negative_12mm_SilkScreen
-Polarity Logo, Center Negative
-Logo Polarity Center Negative
-0
-0
-0
-Symbol
-Polarity_Center_Negative_20mm_SilkScreen
-Polarity Logo, Center Negative
-Logo Polarity Center Negative
-0
-0
-0
-Symbol
-Polarity_Center_Negative_30mm_SilkScreen
-Polarity Logo, Center Negative
-Logo Polarity Center Negative
-0
-0
-0
-Symbol
-Polarity_Center_Negative_40mm_SilkScreen
-Polarity Logo, Center Negative
-Logo Polarity Center Negative
-0
-0
-0
-Symbol
-Polarity_Center_Positive_6mm_SilkScreen
-Polarity Logo, Center Positive
-Logo Polarity Center Positive
-0
-0
-0
-Symbol
-Polarity_Center_Positive_8mm_SilkScreen
-Polarity Logo, Center Positive
-Logo Polarity Center Positive
-0
-0
-0
-Symbol
-Polarity_Center_Positive_12mm_SilkScreen
-Polarity Logo, Center Positive
-Logo Polarity Center Positive
-0
-0
-0
-Symbol
-Polarity_Center_Positive_20mm_SilkScreen
-Polarity Logo, Center Positive
-Logo Polarity Center Positive
-0
-0
-0
-Symbol
-Polarity_Center_Positive_30mm_SilkScreen
-Polarity Logo, Center Positive
-Logo Polarity Center Positive
-0
-0
-0
-Symbol
-Polarity_Center_Positive_40mm_SilkScreen
-Polarity Logo, Center Positive
-Logo Polarity Center Positive
-0
-0
-0
-Symbol
-RoHS-Logo_6mm_SilkScreen
-Restriction of Hazardous Substances Directive Logo
-Logo RoHS
-0
-0
-0
-Symbol
-RoHS-Logo_8mm_SilkScreen
-Restriction of Hazardous Substances Directive Logo
-Logo RoHS
-0
-0
-0
-Symbol
-RoHS-Logo_12mm_SilkScreen
-Restriction of Hazardous Substances Directive Logo
-Logo RoHS
-0
-0
-0
-Symbol
-RoHS-Logo_20mm_SilkScreen
-Restriction of Hazardous Substances Directive Logo
-Logo RoHS
-0
-0
-0
-Symbol
-RoHS-Logo_30mm_SilkScreen
-Restriction of Hazardous Substances Directive Logo
-Logo RoHS
-0
-0
-0
-Symbol
-RoHS-Logo_40mm_SilkScreen
-Restriction of Hazardous Substances Directive Logo
-Logo RoHS
-0
-0
-0
-Symbol
-Symbol_Attention_CopperTop_Big
-Symbol, Attention, Copper Top, Big,
-Symbol, Attention, Copper Top, Big,
-0
-0
-0
-Symbol
-Symbol_Attention_CopperTop_Small
-Symbol, Attention, Copper Top, Small,
-Symbol, Attention, Copper Top, Small,
-0
-0
-0
-Symbol
-Symbol_Barrel_Polarity
-Barrel connector polarity indicator
-barrel polarity
-0
-0
-0
-Symbol
-Symbol_CC-Attribution_CopperTop_Big
-Symbol, CC-Attribution, Copper Top, Big,
-Symbol, CC-Attribution, Copper Top, Big,
-0
-0
-0
-Symbol
-Symbol_CC-Attribution_CopperTop_Small
-Symbol, CC-Share Alike, Copper Top, Small,
-Symbol, CC-Share Alike, Copper Top, Small,
-0
-0
-0
-Symbol
-Symbol_CC-Noncommercial_CopperTop_Big
-Symbol, CC-Noncommercial, Copper Top, Big,
-Symbol, CC-Noncommercial, Copper Top, Big,
-0
-0
-0
-Symbol
-Symbol_CC-Noncommercial_CopperTop_Small
-Symbol, CC-Noncommercial Alike, Copper Top, Small,
-Symbol, CC-Noncommercial Alike, Copper Top, Small,
-0
-0
-0
-Symbol
-Symbol_CC-PublicDomain_CopperTop_Big
-Symbol, CC-PublicDomain, Copper Top, Big,
-Symbol, CC-PublicDomain, Copper Top, Big,
-0
-0
-0
-Symbol
-Symbol_CC-PublicDomain_CopperTop_Small
-Symbol, CC-Public Domain, Copper Top, Small,
-Symbol, CC-Public Domain, Copper Top, Small,
-0
-0
-0
-Symbol
-Symbol_CC-PublicDomain_SilkScreenTop_Big
-Symbol, CC-PublicDomain, SilkScreen Top, Big,
-Symbol, CC-PublicDomain, SilkScreen Top, Big,
-0
-0
-0
-Symbol
-Symbol_CC-ShareAlike_CopperTop_Big
-Symbol, CC-Share Alike, Copper Top, Big,
-Symbol, CC-Share Alike, Copper Top, Big,
-0
-0
-0
-Symbol
-Symbol_CC-ShareAlike_CopperTop_Small
-Symbol, CC-Share Alike, Copper Top, Small,
-Symbol, CC-Share Alike, Copper Top, Small,
-0
-0
-0
-Symbol
-Symbol_CreativeCommonsPublicDomain_CopperTop_Small
-Symbol, Creative Commons Public Domain, CopperTop, Small,
-Symbol, Creative Commons Public Domain, CopperTop, Small,
-0
-0
-0
-Symbol
-Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small
-Symbol, Creative Commons Public Domain, SilkScreenTop, Small,
-Symbol, Creative Commons Public Domain, SilkScreen Top, Small,
-0
-0
-0
-Symbol
-Symbol_CreativeCommons_CopperTop_Type1_Big
-Symbol, Creative Commons, CopperTop, Type 1, Big,
-Symbol, Creative Commons, CopperTop, Type 1, Big,
-0
-0
-0
-Symbol
-Symbol_CreativeCommons_CopperTop_Type2_Big
-Symbol, Creative Commons, CopperTop, Type 2, Big,
-Symbol, Creative Commons, CopperTop, Type 2, Big,
-0
-0
-0
-Symbol
-Symbol_CreativeCommons_CopperTop_Type2_Small
-Symbol, Creative Commons, CopperTop, Type 2, Small,
-Symbol, Creative Commons, CopperTop, Type 2, Small,
-0
-0
-0
-Symbol
-Symbol_CreativeCommons_SilkScreenTop_Type2_Big
-Symbol, Creative Commons, SilkScreen Top, Type 2, Big,
-Symbol, Creative Commons, SilkScreen Top, Type 2, Big,
-0
-0
-0
-Symbol
-Symbol_Danger_CopperTop_Big
-Symbol, Danger, CopperTop, Big,
-Symbol, Danger, CopperTop, Big,
-0
-0
-0
-Symbol
-Symbol_Danger_CopperTop_Small
-Symbol, Danger, Copper Top, Small,
-Symbol, Danger, Copper Top, Small,
-0
-0
-0
-Symbol
-Symbol_ESD-Logo-Text_CopperTop
-
-
-0
-0
-0
-Symbol
-Symbol_ESD-Logo_CopperTop
-ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,
-ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,
-0
-0
-0
-Symbol
-Symbol_GNU-GPL_CopperTop_Big
-Symbol, GNU-GPL, Copper Top, Big,
-Symbol, GNU-GPL, Copper Top, Big,
-0
-0
-0
-Symbol
-Symbol_GNU-GPL_CopperTop_Small
-Symbol, GNU-GPL, Copper Top, Small,
-Symbol, GNU-GPL, Copper Top, Small,
-0
-0
-0
-Symbol
-Symbol_GNU-Logo_CopperTop
-GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,
-GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,
-0
-0
-0
-Symbol
-Symbol_GNU-Logo_SilkscreenTop
-GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,
-GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,
-0
-0
-0
-Symbol
-Symbol_HighVoltage_Type1_CopperTop_Big
-Symbol, HighVoltage, Type1, Copper Top, Big,
-Symbol, HighVoltage, Type1, Copper Top, Big,
-0
-0
-0
-Symbol
-Symbol_HighVoltage_Type2_CopperTop_Big
-Symbol, HighVoltage, Type2, Copper Top, Big,
-Symbol, HighVoltage, Type2, Copper Top, Big,
-0
-0
-0
-Symbol
-Symbol_HighVoltage_Type2_CopperTop_VerySmall
-Symbol, High Voltage, Type 2, Copper Top, Very Small,
-Symbol, High Voltage, Type 2, Copper Top, Very Small,
-0
-0
-0
-Symbol
-Symbol_Highvoltage_Type1_CopperTop_Small
-Symbol, Highvoltage, Type 1, Copper Top, Small,
-Symbol, Highvoltage, Type 1, Copper Top, Small,
-0
-0
-0
-Symbol
-Symbol_Highvoltage_Type2_CopperTop_Small
-Symbol, Highvoltage, Type 2, Copper Top, Small,
-Symbol, Highvoltage, Type 2, Copper Top, Small,
-0
-0
-0
-Symbol
-WEEE-Logo_4.2x6mm_SilkScreen
-Waste Electrical and Electronic Equipment Directive
-Logo WEEE
-0
-0
-0
-Symbol
-WEEE-Logo_5.6x8mm_SilkScreen
-Waste Electrical and Electronic Equipment Directive
-Logo WEEE
-0
-0
-0
-Symbol
-WEEE-Logo_8.4x12mm_SilkScreen
-Waste Electrical and Electronic Equipment Directive
-Logo WEEE
-0
-0
-0
-Symbol
-WEEE-Logo_14x20mm_SilkScreen
-Waste Electrical and Electronic Equipment Directive
-Logo WEEE
-0
-0
-0
-Symbol
-WEEE-Logo_21x30mm_SilkScreen
-Waste Electrical and Electronic Equipment Directive
-Logo WEEE
-0
-0
-0
-Symbol
-WEEE-Logo_28.1x40mm_SilkScreen
-Waste Electrical and Electronic Equipment Directive
-Logo WEEE
-0
-0
-0
+T50
+T50_Coupler
+Transformer, Toroid, horizontal, laying, Diameter 14mm, Amidon T50,
+Transformer Toroid horizontal laying Diameter 14mm Amidon T50 
+0
+4
+4
 T50
 T50_V_THT
 
@@ -16623,272 +18352,6 @@ T50_V_smd
 toroid inductance inductor self
 0
 2
-2
-T50
-TR_T50_H_SMD
-
-toroid transformer H
-0
-4
-4
-T50
-TR_T50_V_smd
-toroid transformer
-toroid inductance inductor self
-0
-4
-4
-T50
-prettyT50_H_SMD
-
-
-0
-4
-2
-T80_60_V
-T60_80_V
-
-
-0
-2
-2
-conn_kk100
-kk100_22-23-2021
-2 pin vert. connector, Molex KK100 series
-
-0
-2
-2
-conn_kk100
-kk100_22-23-2031
-3 pin vert. connector, Molex KK100 series
-
-0
-3
-3
-conn_kk100
-kk100_22-23-2041
-4 pin vert. connector, Molex KK100 series
-
-0
-4
-4
-conn_kk100
-kk100_22-23-2051
-5 pin vert. connector, Molex KK100 series
-
-0
-5
-5
-conn_kk100
-kk100_22-23-2061
-6 pin vert. connector, Molex KK100 series
-
-0
-6
-6
-conn_kk100
-kk100_22-23-2071
-7 pin vert. connector, Molex KK100 series
-
-0
-7
-7
-conn_kk100
-kk100_22-23-2081
-8 pin vert. connector, Molex KK100 series
-
-0
-8
-8
-conn_kk100
-kk100_22-23-2091
-9 pin vert. connector, Molex KK100 series
-
-0
-9
-9
-conn_kk100
-kk100_22-23-2101
-10 pin vert. connector, Molex KK100 series
-
-0
-10
-10
-conn_kk100
-kk100_22-23-2111
-11 pin vert. connector, Molex KK100 series
-
-0
-11
-11
-conn_kk100
-kk100_22-23-2121
-12 pin vert. connector, Molex KK100 series
-
-0
-12
-12
-conn_kk100
-kk100_22-23-2131
-13 pin vert. connector, Molex KK100 series
-
-0
-13
-13
-conn_kk100
-kk100_22-23-2141
-14 pin vert. connector, Molex KK100 series
-
-0
-14
-14
-conn_kk100
-kk100_22-23-2151
-15 pin vert. connector, Molex KK100 series
-
-0
-15
-15
-conn_kk100
-kk100_22-23-2161
-16 pin vert. connector, Molex KK100 series
-
-0
-16
-16
-conn_kk100
-kk100_22-23-2171
-17 pin vert. connector, Molex KK100 series
-
-0
-17
-17
-conn_kk100
-kk100_22-23-2181
-18 pin vert. connector, Molex KK100 series
-
-0
-18
-18
-conn_kk100
-kk100_22-23-2191
-19 pin vert. connector, Molex KK100 series
-
-0
-19
-19
-conn_kk100
-kk100_22-23-2201
-20 pin vert. connector, Molex KK100 series
-
-0
-20
-20
-conn_kk100
-kk100_22-23-2211
-21 pin vert. connector, Molex KK100 series
-
-0
-21
-21
-conn_kk100
-kk100_22-23-2221
-22 pin vert. connector, Molex KK100 series
-
-0
-22
-22
-conn_kk100
-kk100_22-23-2231
-23 pin vert. connector, Molex KK100 series
-
-0
-23
-23
-conn_kk100
-kk100_22-23-2241
-24 pin vert. connector, Molex KK100 series
-
-0
-24
-24
-conn_kk100
-kk100_22-23-2251
-25 pin vert. connector, Molex KK100 series
-
-0
-25
-25
-conn_kk100
-kk100_22-23-2261
-26 pin vert. connector, Molex KK100 series
-
-0
-26
-26
-conn_kk100
-kk100_22-23-2271
-27 pin vert. connector, Molex KK100 series
-
-0
-27
-27
-conn_kk100
-kk100_22-23-2281
-28 pin vert. connector, Molex KK100 series
-
-0
-28
-28
-conn_rf
-bnc_90_1-1337543-0
-BNC connector, Tyco 1-1337543-0
-
-0
-2
-2
-conn_rf
-bnc_straight_1-1337541-0
-BNC connector, Tyco 1-1337541-0
-
-0
-2
-2
-conn_rf
-coaxial_u.fl-r-smt-1
-Ultra small surface mount coaxial connector, Hirose U.FL-R-SMT-1
-
-0
-3
-2
-conn_rf
-lemo_epb00250ntn
-LEMO connector, EPB.00.250.NTN
-
-0
-5
-2
-conn_rf
-sma_90_r300.124.403
-SMA 90° female connector, reverse polarity, Radiall R300.124.403
-
-0
-5
-2
-conn_rf
-sma_smd_73251-135x
-SMA straight SMD female connector, Molex 73251-135x
-
-0
-5
-2
-conn_rf
-sma_straight_32k101-400l5
-SMA straight female connector, Rosenberger 32K101-400L5
-
-0
-5
 2
 hermeslite
 1N5711WS
@@ -17779,3 +19242,94 @@ smbj18ca
 0
 2
 2
+n2adr
+BNCEDGE
+
+
+0
+3
+2
+n2adr
+Ham_Logo
+
+
+0
+0
+0
+n2adr
+MAX11613
+
+
+0
+8
+8
+n2adr
+PhonoRcaRCJ-04x
+
+
+0
+2
+2
+n2adr
+RelayDPDT01
+
+
+0
+8
+8
+n2adr
+SMD-1206
+
+CMS SM
+0
+2
+2
+n2adr
+SMD_0805
+Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
+capacitor 0805
+0
+2
+2
+n2adr
+SignalCommunications-WE-DCT
+TOROIDAL DOUBLE POWER CHOKE WE-DCT
+TOROIDAL DOUBLE POWER CHOKE WE-DCT
+0
+4
+4
+n2adr
+SignalCommunications-WE-PF_7427929XXX
+SMD EMI SUPPRESSION POWER FERRITE
+SMD EMI SUPPRESSION POWER FERRITE
+0
+2
+2
+n2adr
+SolderWirePad_single_0-8mmDrill
+
+
+0
+1
+1
+n2adr
+U.FL_Hirose_U.FL-R-SMT-1_Vertical
+Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/
+Hirose U.FL Coaxial
+0
+3
+2
+n2adr
+U.FL_Molex_MCRF_73412-0110_Vertical
+Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)
+mcrf hirose ufl u.fl microcoaxial
+0
+4
+2
+n2adr
+m3
+
+
+0
+1
+1
