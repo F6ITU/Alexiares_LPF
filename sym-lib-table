@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LPF-rescue)(type Legacy)(uri ${KIPRJMOD}/LPF-rescue.lib)(options "")(descr ""))
+  (lib (name d2n)(type Legacy)(uri "C:/Users/Marco/Documents/Kicad/libraries/Relay 2formC/d2n.lib")(options "")(descr ""))
+)
