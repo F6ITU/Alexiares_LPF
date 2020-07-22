@@ -1866,7 +1866,7 @@ Text Notes 850  6100 0    39   ~ 0
 To RX HPF board\n
 Text Notes 600  4100 0    39   ~ 0
 To 15 W PA output\n
-Text Notes 8250 5850 1    79   ~ 16
+Text Notes 7750 5700 1    79   ~ 16
 LPF Out\nFrom PS/VSWR Brd <== TX Conn Brd
 $Comp
 L LPF-rescue:+12V #PWR075
@@ -3532,8 +3532,8 @@ F 3 "" H 800 5250 50  0000 C CNN
 	1    800  5250
 	1    0    0    -1  
 $EndComp
-Text Notes -150 3550 0    39   ~ 0
-To 15 W PA output\n
+Text Notes -250 3600 0    39   ~ 0
+\n
 Wire Wire Line
 	800  5200 800  5250
 Text Notes 1000 8100 0    79   ~ 0
