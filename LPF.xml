@@ -1,989 +1,1270 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<export version="D">
+<export version="E">
   <design>
-    <source>C:\Users\marco\Documents\KiCad\Projets\Alexiares_LPF\LPF.sch</source>
-    <date>22/07/2020 10:55:40</date>
-    <tool>Eeschema (5.1.5)-3</tool>
+    <source>C:\Users\marco\Documents\KiCad\Projets\Alexiares_LPF\LPF.kicad_sch</source>
+    <date>19/06/2022 09:08:43</date>
+    <tool>Eeschema (6.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>LPF.sch</source>
+        <source>LPF.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
   </design>
   <components>
-    <comp ref="P3">
-      <value>SMA</value>
-      <footprint>SMA_PINS:SMA_PINS</footprint>
-      <libsource lib="LPF-rescue" part="BNC" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2B5</tstamp>
-    </comp>
-    <comp ref="C8">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2C0</tstamp>
-    </comp>
     <comp ref="C1">
       <value>10n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2C3</tstamp>
-    </comp>
-    <comp ref="C52">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2C7</tstamp>
-    </comp>
-    <comp ref="C60">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2C8</tstamp>
-    </comp>
-    <comp ref="C39">
-      <value>150p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2CF</tstamp>
-    </comp>
-    <comp ref="L10">
-      <value>4.4uH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2D0</tstamp>
-    </comp>
-    <comp ref="C46">
-      <value>1100p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2D1</tstamp>
-    </comp>
-    <comp ref="C32">
-      <value>2200p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2D2</tstamp>
-    </comp>
-    <comp ref="C25">
-      <value>470p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2D5</tstamp>
-    </comp>
-    <comp ref="L3">
-      <value>3.5uH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2D6</tstamp>
-    </comp>
-    <comp ref="C19">
-      <value>1000p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2D7</tstamp>
-    </comp>
-    <comp ref="C53">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2D9</tstamp>
-    </comp>
-    <comp ref="C61">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2DA</tstamp>
-    </comp>
-    <comp ref="C40">
-      <value>68p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2E1</tstamp>
-    </comp>
-    <comp ref="L11">
-      <value>2.02uH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2E2</tstamp>
-    </comp>
-    <comp ref="C47">
-      <value>560p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2E3</tstamp>
-    </comp>
-    <comp ref="C33">
-      <value>1100p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2E4</tstamp>
-    </comp>
-    <comp ref="C26">
-      <value>240p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2E7</tstamp>
-    </comp>
-    <comp ref="L4">
-      <value>1,66uH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2E8</tstamp>
-    </comp>
-    <comp ref="C20">
-      <value>470p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2E9</tstamp>
-    </comp>
-    <comp ref="C54">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2EB</tstamp>
-    </comp>
-    <comp ref="C62">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2EC</tstamp>
-    </comp>
-    <comp ref="C41">
-      <value>39p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2F3</tstamp>
-    </comp>
-    <comp ref="L12">
-      <value>1.36uH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2F4</tstamp>
-    </comp>
-    <comp ref="C48">
-      <value>390p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2F5</tstamp>
-    </comp>
-    <comp ref="C34">
-      <value>680p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2F6</tstamp>
-    </comp>
-    <comp ref="C27">
-      <value>120p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2F9</tstamp>
-    </comp>
-    <comp ref="L5">
-      <value>1.18uH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2FA</tstamp>
-    </comp>
-    <comp ref="C21">
-      <value>330p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2FB</tstamp>
-    </comp>
-    <comp ref="C56">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2FD</tstamp>
-    </comp>
-    <comp ref="C63">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB2FE</tstamp>
-    </comp>
-    <comp ref="C51">
-      <value>150p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB305</tstamp>
-    </comp>
-    <comp ref="L16">
-      <value>311nH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB306</tstamp>
-    </comp>
-    <comp ref="C55">
-      <value>82p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB307</tstamp>
-    </comp>
-    <comp ref="C42">
-      <value>180p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB308</tstamp>
-    </comp>
-    <comp ref="C35">
-      <value>220p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB30B</tstamp>
-    </comp>
-    <comp ref="L9">
-      <value>311nH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB30C</tstamp>
-    </comp>
-    <comp ref="C31">
-      <value>220p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB30D</tstamp>
-    </comp>
-    <comp ref="C45">
-      <value>4.7p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB317</tstamp>
-    </comp>
-    <comp ref="L15">
-      <value>169nH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB318</tstamp>
-    </comp>
-    <comp ref="C38">
-      <value>56p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB319</tstamp>
-    </comp>
-    <comp ref="C30">
-      <value>12p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB31B</tstamp>
-    </comp>
-    <comp ref="L8">
-      <value>196nH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB31C</tstamp>
-    </comp>
-    <comp ref="C24">
-      <value>56p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB31D</tstamp>
-    </comp>
-    <comp ref="C57">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB31F</tstamp>
-    </comp>
-    <comp ref="C64">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB320</tstamp>
-    </comp>
-    <comp ref="C43">
-      <value>22p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB327</tstamp>
-    </comp>
-    <comp ref="L13">
-      <value>351nH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB328</tstamp>
-    </comp>
-    <comp ref="C49">
-      <value>100p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB329</tstamp>
-    </comp>
-    <comp ref="C36">
-      <value>220p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB32A</tstamp>
-    </comp>
-    <comp ref="C28">
-      <value>56p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB32D</tstamp>
-    </comp>
-    <comp ref="L6">
-      <value>311nH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB32E</tstamp>
-    </comp>
-    <comp ref="C22">
-      <value>82p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB32F</tstamp>
-    </comp>
-    <comp ref="C58">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB331</tstamp>
-    </comp>
-    <comp ref="C65">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB332</tstamp>
-    </comp>
-    <comp ref="C44">
-      <value>6.8p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB339</tstamp>
-    </comp>
-    <comp ref="L14">
-      <value>311nH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB33A</tstamp>
-    </comp>
-    <comp ref="C50">
-      <value>82p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB33B</tstamp>
-    </comp>
-    <comp ref="C37">
-      <value>180p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB33C</tstamp>
-    </comp>
-    <comp ref="C29">
-      <value>39p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB33F</tstamp>
-    </comp>
-    <comp ref="L7">
-      <value>235nH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB340</tstamp>
-    </comp>
-    <comp ref="C23">
-      <value>68p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB341</tstamp>
-    </comp>
-    <comp ref="C17">
-      <value>4.7p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB343</tstamp>
-    </comp>
-    <comp ref="L2">
-      <value>169nH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB344</tstamp>
-    </comp>
-    <comp ref="C16">
-      <value>39p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB345</tstamp>
-    </comp>
-    <comp ref="L1">
-      <value>562nH</value>
-      <footprint>T50:T50_V_THT</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB346</tstamp>
-    </comp>
-    <comp ref="C12">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB349</tstamp>
-    </comp>
-    <comp ref="C4">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB34C</tstamp>
-    </comp>
-    <comp ref="C10">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB35B</tstamp>
-    </comp>
-    <comp ref="C3">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB35E</tstamp>
-    </comp>
-    <comp ref="C9">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB364</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db2c3</tstamps>
     </comp>
     <comp ref="C2">
       <value>10n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB367</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db367</tstamps>
     </comp>
-    <comp ref="C13">
+    <comp ref="C3">
       <value>10n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB36D</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db35e</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db34c</tstamps>
     </comp>
     <comp ref="C5">
       <value>10n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB370</tstamp>
-    </comp>
-    <comp ref="C14">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB376</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db370</tstamps>
     </comp>
     <comp ref="C6">
       <value>10n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB379</tstamp>
-    </comp>
-    <comp ref="C11">
-      <value>120p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB37D</tstamp>
-    </comp>
-    <comp ref="C18">
-      <value>39p</value>
-      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB37F</tstamp>
-    </comp>
-    <comp ref="P1">
-      <value>SMA</value>
-      <footprint>SMA_PINS:SMA_PINS</footprint>
-      <libsource lib="LPF-rescue" part="BNC" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592DB382</tstamp>
-    </comp>
-    <comp ref="TP1">
-      <value>TEST</value>
-      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
-      <libsource lib="LPF-rescue" part="TEST" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592D8A57</tstamp>
-    </comp>
-    <comp ref="TP2">
-      <value>TEST</value>
-      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
-      <libsource lib="LPF-rescue" part="TEST" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>592D9062</tstamp>
-    </comp>
-    <comp ref="TP3">
-      <value>TEST</value>
-      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
-      <libsource lib="LPF-rescue" part="TEST" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>593C141A</tstamp>
-    </comp>
-    <comp ref="TP4">
-      <value>TEST</value>
-      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
-      <libsource lib="LPF-rescue" part="TEST" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>593C1420</tstamp>
-    </comp>
-    <comp ref="P4">
-      <value>SMA</value>
-      <footprint>SMA_PINS:SMA_PINS</footprint>
-      <libsource lib="LPF-rescue" part="BNC" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>593DBC26</tstamp>
-    </comp>
-    <comp ref="C68">
-      <value>100n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>593DDB52</tstamp>
-    </comp>
-    <comp ref="C67">
-      <value>10n</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="C" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>593DDBE3</tstamp>
-    </comp>
-    <comp ref="RL12">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F4CD62</tstamp>
-    </comp>
-    <comp ref="RL2">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F4E038</tstamp>
-    </comp>
-    <comp ref="RL3">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F4E18A</tstamp>
-    </comp>
-    <comp ref="RL4">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F4E24B</tstamp>
-    </comp>
-    <comp ref="RL5">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F4E319</tstamp>
-    </comp>
-    <comp ref="RL1">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F4E3D0</tstamp>
-    </comp>
-    <comp ref="RL6">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F4E6AC</tstamp>
-    </comp>
-    <comp ref="RL7">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F4E779</tstamp>
-    </comp>
-    <comp ref="RL10">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F51169</tstamp>
-    </comp>
-    <comp ref="RL11">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F5159A</tstamp>
-    </comp>
-    <comp ref="RL13">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F518D7</tstamp>
-    </comp>
-    <comp ref="RL14">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F5236E</tstamp>
-    </comp>
-    <comp ref="J1">
-      <value>Conn_02x05_Counter_Clockwise</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical</footprint>
-      <libsource lib="LPF-rescue" part="Conn_02x05_Counter_Clockwise" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FCA875</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db379</tstamps>
     </comp>
     <comp ref="C7">
       <value>10n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FDEF8B</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fdef8b</tstamps>
     </comp>
-    <comp ref="C59">
-      <value>C (nc)</value>
+    <comp ref="C8">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2c0</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db364</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db35b</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>120p</value>
       <footprint>ATC_B:ATC_500_HandSoldering</footprint>
       <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FE4103</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db37d</tstamps>
     </comp>
-    <comp ref="C70">
+    <comp ref="C12">
       <value>10n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FDAFA1</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db349</tstamps>
     </comp>
-    <comp ref="C66">
+    <comp ref="C13">
       <value>10n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FDB013</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db36d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db376</tstamps>
     </comp>
     <comp ref="C15">
       <value>10n</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FDB01F</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fdb01f</tstamps>
     </comp>
-    <comp ref="RL8">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+    <comp ref="C16">
+      <value>39p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FDB074</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db345</tstamps>
     </comp>
-    <comp ref="RL15">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+    <comp ref="C17">
+      <value>4.7p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FDB07A</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db343</tstamps>
     </comp>
-    <comp ref="D9">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
+    <comp ref="C18">
+      <value>39p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FED44F</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db37f</tstamps>
     </comp>
-    <comp ref="D8">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
+    <comp ref="C19">
+      <value>1000p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FED683</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db2d7</tstamps>
     </comp>
-    <comp ref="D14">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
+    <comp ref="C20">
+      <value>470p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FED940</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db2e9</tstamps>
     </comp>
-    <comp ref="D13">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
+    <comp ref="C21">
+      <value>330p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FEDD14</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db2fb</tstamps>
     </comp>
-    <comp ref="D7">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
+    <comp ref="C22">
+      <value>82p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FEE288</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db32f</tstamps>
     </comp>
-    <comp ref="D12">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
+    <comp ref="C23">
+      <value>68p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FEE71A</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db341</tstamps>
     </comp>
-    <comp ref="D6">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
+    <comp ref="C24">
+      <value>56p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FEE93E</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db31d</tstamps>
     </comp>
-    <comp ref="D11">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
+    <comp ref="C25">
+      <value>470p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FEEA4A</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db2d5</tstamps>
     </comp>
-    <comp ref="D5">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
+    <comp ref="C26">
+      <value>240p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FEEB35</tstamp>
+      <tstamps>00000000-0000-0000-0000-0000592db2e7</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>120p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2f9</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>56p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db32d</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>39p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db33f</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>12p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db31b</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>220p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db30d</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>2200p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2d2</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>1100p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2e4</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>680p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2f6</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>220p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db30b</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>220p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db32a</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>180p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db33c</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>56p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db319</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>150p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2cf</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>68p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2e1</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>39p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2f3</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>180p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db308</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>22p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db327</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>6.8p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db339</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>4.7p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db317</tstamps>
+    </comp>
+    <comp ref="C46">
+      <value>1100p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2d1</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>560p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2e3</tstamps>
+    </comp>
+    <comp ref="C48">
+      <value>390p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2f5</tstamps>
+    </comp>
+    <comp ref="C49">
+      <value>100p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db329</tstamps>
+    </comp>
+    <comp ref="C50">
+      <value>82p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db33b</tstamps>
+    </comp>
+    <comp ref="C51">
+      <value>150p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db305</tstamps>
+    </comp>
+    <comp ref="C52">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2c7</tstamps>
+    </comp>
+    <comp ref="C53">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2d9</tstamps>
+    </comp>
+    <comp ref="C54">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2eb</tstamps>
+    </comp>
+    <comp ref="C55">
+      <value>82p</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db307</tstamps>
+    </comp>
+    <comp ref="C56">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2fd</tstamps>
+    </comp>
+    <comp ref="C57">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db31f</tstamps>
+    </comp>
+    <comp ref="C58">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db331</tstamps>
+    </comp>
+    <comp ref="C59">
+      <value>C (nc)</value>
+      <footprint>ATC_B:ATC_500_HandSoldering</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059fe4103</tstamps>
+    </comp>
+    <comp ref="C60">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2c8</tstamps>
+    </comp>
+    <comp ref="C61">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2da</tstamps>
+    </comp>
+    <comp ref="C62">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2ec</tstamps>
+    </comp>
+    <comp ref="C63">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2fe</tstamps>
+    </comp>
+    <comp ref="C64">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db320</tstamps>
+    </comp>
+    <comp ref="C65">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db332</tstamps>
+    </comp>
+    <comp ref="C66">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059fdb013</tstamps>
+    </comp>
+    <comp ref="C67">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000593ddbe3</tstamps>
+    </comp>
+    <comp ref="C68">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000593ddb52</tstamps>
+    </comp>
+    <comp ref="C70">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059fdafa1</tstamps>
     </comp>
     <comp ref="D1">
       <value>D</value>
       <footprint>Diode_SMD:D_SMB</footprint>
       <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FEED75</tstamp>
-    </comp>
-    <comp ref="D4">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FEEF31</tstamp>
-    </comp>
-    <comp ref="D10">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FEF016</tstamp>
-    </comp>
-    <comp ref="D3">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FEF10C</tstamp>
-    </comp>
-    <comp ref="D15">
-      <value>D</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
-      <libsource lib="LPF-rescue" part="D" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FF068D</tstamp>
-    </comp>
-    <comp ref="RL9">
-      <value>D2n</value>
-      <footprint>2_Form_C_Relay:D2n</footprint>
-      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>59F50E3A</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059feed75</tstamps>
     </comp>
     <comp ref="D2">
       <value>D</value>
       <footprint>Diode_SMD:D_SMB</footprint>
       <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>59FFA941</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059ffa941</tstamps>
     </comp>
-    <comp ref="L37">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A057C8C</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fef10c</tstamps>
     </comp>
-    <comp ref="L30">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A059053</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059feef31</tstamps>
     </comp>
-    <comp ref="L31">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A05B440</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059feeb35</tstamps>
     </comp>
-    <comp ref="L24">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A05B446</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fee93e</tstamps>
     </comp>
-    <comp ref="L32">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A05F532</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fee288</tstamps>
     </comp>
-    <comp ref="L25">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A05F538</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fed683</tstamps>
     </comp>
-    <comp ref="L33">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A05FCEE</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fed44f</tstamps>
     </comp>
-    <comp ref="L26">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A05FCF4</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fef016</tstamps>
     </comp>
-    <comp ref="L34">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A060343</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059feea4a</tstamps>
     </comp>
-    <comp ref="L27">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A060349</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fee71a</tstamps>
     </comp>
-    <comp ref="L35">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A060F0A</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fedd14</tstamps>
     </comp>
-    <comp ref="L28">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A060F10</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fed940</tstamps>
     </comp>
-    <comp ref="L36">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="LPF-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A061501</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059ff068d</tstamps>
     </comp>
-    <comp ref="L29">
-      <value>Choke</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
-      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+    <comp ref="J1">
+      <value>Conn_02x05_Counter_Clockwise</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical</footprint>
+      <libsource lib="LPF-rescue" part="Conn_02x05_Counter_Clockwise" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A061507</tstamp>
+      <tstamps>00000000-0000-0000-0000-000059fca875</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>562nH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db346</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>169nH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db344</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>3.5uH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2d6</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>1,66uH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2e8</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>1.18uH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2fa</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>311nH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db32e</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>235nH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db340</tstamps>
+    </comp>
+    <comp ref="L8">
+      <value>196nH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db31c</tstamps>
+    </comp>
+    <comp ref="L9">
+      <value>311nH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db30c</tstamps>
+    </comp>
+    <comp ref="L10">
+      <value>4.4uH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2d0</tstamps>
+    </comp>
+    <comp ref="L11">
+      <value>2.02uH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2e2</tstamps>
+    </comp>
+    <comp ref="L12">
+      <value>1.36uH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2f4</tstamps>
+    </comp>
+    <comp ref="L13">
+      <value>351nH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db328</tstamps>
+    </comp>
+    <comp ref="L14">
+      <value>311nH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db33a</tstamps>
+    </comp>
+    <comp ref="L15">
+      <value>169nH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db318</tstamps>
+    </comp>
+    <comp ref="L16">
+      <value>311nH</value>
+      <footprint>T50:T50_V_THT</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db306</tstamps>
     </comp>
     <comp ref="L17">
       <value>Choke</value>
       <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5A05FD2E</tstamp>
+      <tstamps>00000000-0000-0000-0000-00005a05fd2e</tstamps>
+    </comp>
+    <comp ref="L24">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05b446</tstamps>
+    </comp>
+    <comp ref="L25">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05f538</tstamps>
+    </comp>
+    <comp ref="L26">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05fcf4</tstamps>
+    </comp>
+    <comp ref="L27">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a060349</tstamps>
+    </comp>
+    <comp ref="L28">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a060f10</tstamps>
+    </comp>
+    <comp ref="L29">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a061507</tstamps>
+    </comp>
+    <comp ref="L30">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a059053</tstamps>
+    </comp>
+    <comp ref="L31">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05b440</tstamps>
+    </comp>
+    <comp ref="L32">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05f532</tstamps>
+    </comp>
+    <comp ref="L33">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05fcee</tstamps>
+    </comp>
+    <comp ref="L34">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a060343</tstamps>
+    </comp>
+    <comp ref="L35">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a060f0a</tstamps>
+    </comp>
+    <comp ref="L36">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a061501</tstamps>
+    </comp>
+    <comp ref="L37">
+      <value>Choke</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="LPF-rescue" part="L_Core_Ferrite_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a057c8c</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>SMA</value>
+      <footprint>SMA_PINS:SMA_PINS</footprint>
+      <libsource lib="LPF-rescue" part="BNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db382</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>SMA</value>
+      <footprint>SMA_PINS:SMA_PINS</footprint>
+      <libsource lib="LPF-rescue" part="BNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592db2b5</tstamps>
+    </comp>
+    <comp ref="P4">
+      <value>SMA</value>
+      <footprint>SMA_PINS:SMA_PINS</footprint>
+      <libsource lib="LPF-rescue" part="BNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000593dbc26</tstamps>
+    </comp>
+    <comp ref="RL1">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f4e3d0</tstamps>
+    </comp>
+    <comp ref="RL2">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f4e038</tstamps>
+    </comp>
+    <comp ref="RL3">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f4e18a</tstamps>
+    </comp>
+    <comp ref="RL4">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f4e24b</tstamps>
+    </comp>
+    <comp ref="RL5">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f4e319</tstamps>
+    </comp>
+    <comp ref="RL6">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f4e6ac</tstamps>
+    </comp>
+    <comp ref="RL7">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f4e779</tstamps>
+    </comp>
+    <comp ref="RL8">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059fdb074</tstamps>
+    </comp>
+    <comp ref="RL9">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f50e3a</tstamps>
+    </comp>
+    <comp ref="RL10">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f51169</tstamps>
+    </comp>
+    <comp ref="RL11">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f5159a</tstamps>
+    </comp>
+    <comp ref="RL12">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f4cd62</tstamps>
+    </comp>
+    <comp ref="RL13">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f518d7</tstamps>
+    </comp>
+    <comp ref="RL14">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059f5236e</tstamps>
+    </comp>
+    <comp ref="RL15">
+      <value>D2n</value>
+      <footprint>2_Form_C_Relay:D2n</footprint>
+      <libsource lib="LPF-rescue" part="D2n-d2n" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059fdb07a</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TEST</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="LPF-rescue" part="TEST" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592d8a57</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TEST</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="LPF-rescue" part="TEST" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000592d9062</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TEST</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="LPF-rescue" part="TEST" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000593c141a</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TEST</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="LPF-rescue" part="TEST" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LPF.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000593c1420</tstamps>
     </comp>
   </components>
   <libparts>
@@ -1011,8 +1292,8 @@
         <field name="Value">C</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="LPF-rescue" part="Conn_02x05_Counter_Clockwise">
@@ -1059,14 +1340,14 @@
         <field name="Value">D2n-d2n</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="4" name="~" type="passive"/>
-        <pin num="6" name="~" type="passive"/>
-        <pin num="8" name="~" type="passive"/>
-        <pin num="9" name="~" type="passive"/>
-        <pin num="11" name="~" type="passive"/>
-        <pin num="13" name="~" type="passive"/>
-        <pin num="16" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="16" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="LPF-rescue" part="L_Core_Ferrite_Small">
@@ -1081,8 +1362,8 @@
         <field name="Value">L_Core_Ferrite_Small</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="LPF-rescue" part="TEST">
@@ -1091,7 +1372,7 @@
         <field name="Value">TEST</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
       </pins>
     </libpart>
   </libparts>
@@ -1101,479 +1382,491 @@
     </library>
   </libraries>
   <nets>
-    <net code="1" name="Net-(C2-Pad1)">
-      <node ref="D4" pin="2"/>
-      <node ref="L25" pin="1"/>
-      <node ref="C2" pin="1"/>
-      <node ref="RL3" pin="1"/>
+    <net code="1" name="+12V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C60" pin="1" pintype="passive"/>
+      <node ref="C61" pin="1" pintype="passive"/>
+      <node ref="C62" pin="1" pintype="passive"/>
+      <node ref="C63" pin="1" pintype="passive"/>
+      <node ref="C64" pin="1" pintype="passive"/>
+      <node ref="C65" pin="1" pintype="passive"/>
+      <node ref="C66" pin="1" pintype="passive"/>
+      <node ref="C67" pin="1" pintype="passive"/>
+      <node ref="C68" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="RL1" pin="1" pintype="passive"/>
+      <node ref="RL10" pin="1" pintype="passive"/>
+      <node ref="RL11" pin="1" pintype="passive"/>
+      <node ref="RL12" pin="1" pintype="passive"/>
+      <node ref="RL13" pin="1" pintype="passive"/>
+      <node ref="RL14" pin="1" pintype="passive"/>
+      <node ref="RL15" pin="1" pintype="passive"/>
+      <node ref="RL2" pin="16" pintype="passive"/>
+      <node ref="RL3" pin="16" pintype="passive"/>
+      <node ref="RL4" pin="16" pintype="passive"/>
+      <node ref="RL5" pin="16" pintype="passive"/>
+      <node ref="RL6" pin="16" pintype="passive"/>
+      <node ref="RL7" pin="16" pintype="passive"/>
+      <node ref="RL8" pin="16" pintype="passive"/>
+      <node ref="RL9" pin="1" pintype="passive"/>
     </net>
-    <net code="2" name="Net-(C20-Pad2)">
-      <node ref="RL3" pin="4"/>
-      <node ref="RL3" pin="13"/>
-      <node ref="L4" pin="1"/>
-      <node ref="C20" pin="2"/>
-      <node ref="C26" pin="1"/>
+    <net code="2" name="6m_Bypass">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="L30" pin="2" pintype="passive"/>
+      <node ref="L37" pin="1" pintype="passive"/>
     </net>
-    <net code="3" name="Net-(C21-Pad2)">
-      <node ref="RL4" pin="13"/>
-      <node ref="RL4" pin="4"/>
-      <node ref="C27" pin="1"/>
-      <node ref="C21" pin="2"/>
-      <node ref="L5" pin="1"/>
+    <net code="3" name="12{slash}10m">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="L29" pin="2" pintype="passive"/>
+      <node ref="L36" pin="1" pintype="passive"/>
     </net>
-    <net code="4" name="Net-(C5-Pad1)">
-      <node ref="C5" pin="1"/>
-      <node ref="RL6" pin="1"/>
-      <node ref="L28" pin="1"/>
-      <node ref="D7" pin="2"/>
+    <net code="4" name="17{slash}15m">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="L28" pin="2" pintype="passive"/>
+      <node ref="L35" pin="1" pintype="passive"/>
     </net>
-    <net code="5" name="Net-(C23-Pad2)">
-      <node ref="L7" pin="1"/>
-      <node ref="C23" pin="2"/>
-      <node ref="RL7" pin="4"/>
-      <node ref="C29" pin="1"/>
-      <node ref="RL7" pin="13"/>
+    <net code="5" name="30{slash}20m">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="L27" pin="2" pintype="passive"/>
+      <node ref="L34" pin="1" pintype="passive"/>
     </net>
-    <net code="6" name="Net-(C17-Pad2)">
-      <node ref="L8" pin="1"/>
-      <node ref="C24" pin="2"/>
-      <node ref="C30" pin="1"/>
-      <node ref="C17" pin="2"/>
-      <node ref="L2" pin="2"/>
+    <net code="6" name="40m">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L26" pin="2" pintype="passive"/>
+      <node ref="L33" pin="1" pintype="passive"/>
     </net>
-    <net code="7" name="Net-(C17-Pad1)">
-      <node ref="C17" pin="1"/>
-      <node ref="RL8" pin="13"/>
-      <node ref="RL8" pin="4"/>
-      <node ref="L2" pin="1"/>
+    <net code="7" name="80m">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="L25" pin="2" pintype="passive"/>
+      <node ref="L32" pin="1" pintype="passive"/>
     </net>
-    <net code="8" name="Net-(C29-Pad2)">
-      <node ref="C44" pin="1"/>
-      <node ref="L14" pin="1"/>
-      <node ref="C37" pin="2"/>
-      <node ref="C29" pin="2"/>
-      <node ref="L7" pin="2"/>
+    <net code="8" name="160m">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="L24" pin="2" pintype="passive"/>
+      <node ref="L31" pin="1" pintype="passive"/>
     </net>
-    <net code="9" name="Net-(P4-Pad1)">
-      <node ref="P4" pin="1"/>
-      <node ref="RL1" pin="11"/>
-      <node ref="RL1" pin="6"/>
+    <net code="9" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="C48" pin="1" pintype="passive"/>
+      <node ref="C49" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C50" pin="1" pintype="passive"/>
+      <node ref="C52" pin="1" pintype="passive"/>
+      <node ref="C53" pin="1" pintype="passive"/>
+      <node ref="C54" pin="1" pintype="passive"/>
+      <node ref="C55" pin="1" pintype="passive"/>
+      <node ref="C56" pin="1" pintype="passive"/>
+      <node ref="C57" pin="1" pintype="passive"/>
+      <node ref="C58" pin="1" pintype="passive"/>
+      <node ref="C59" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C60" pin="2" pintype="passive"/>
+      <node ref="C61" pin="2" pintype="passive"/>
+      <node ref="C62" pin="2" pintype="passive"/>
+      <node ref="C63" pin="2" pintype="passive"/>
+      <node ref="C64" pin="2" pintype="passive"/>
+      <node ref="C65" pin="2" pintype="passive"/>
+      <node ref="C66" pin="2" pintype="passive"/>
+      <node ref="C67" pin="2" pintype="passive"/>
+      <node ref="C68" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C70" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="P1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="P3" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="P3" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="P4" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="RL10" pin="11" pintype="passive"/>
+      <node ref="RL10" pin="6" pintype="passive"/>
+      <node ref="RL10" pin="9" pintype="passive"/>
+      <node ref="RL11" pin="11" pintype="passive"/>
+      <node ref="RL11" pin="6" pintype="passive"/>
+      <node ref="RL11" pin="9" pintype="passive"/>
+      <node ref="RL12" pin="11" pintype="passive"/>
+      <node ref="RL12" pin="6" pintype="passive"/>
+      <node ref="RL12" pin="9" pintype="passive"/>
+      <node ref="RL13" pin="11" pintype="passive"/>
+      <node ref="RL13" pin="6" pintype="passive"/>
+      <node ref="RL13" pin="9" pintype="passive"/>
+      <node ref="RL14" pin="11" pintype="passive"/>
+      <node ref="RL14" pin="6" pintype="passive"/>
+      <node ref="RL14" pin="9" pintype="passive"/>
+      <node ref="RL15" pin="11" pintype="passive"/>
+      <node ref="RL15" pin="6" pintype="passive"/>
+      <node ref="RL15" pin="9" pintype="passive"/>
+      <node ref="RL2" pin="11" pintype="passive"/>
+      <node ref="RL2" pin="6" pintype="passive"/>
+      <node ref="RL3" pin="11" pintype="passive"/>
+      <node ref="RL3" pin="6" pintype="passive"/>
+      <node ref="RL4" pin="11" pintype="passive"/>
+      <node ref="RL4" pin="6" pintype="passive"/>
+      <node ref="RL5" pin="11" pintype="passive"/>
+      <node ref="RL5" pin="6" pintype="passive"/>
+      <node ref="RL6" pin="11" pintype="passive"/>
+      <node ref="RL6" pin="6" pintype="passive"/>
+      <node ref="RL7" pin="11" pintype="passive"/>
+      <node ref="RL7" pin="6" pintype="passive"/>
+      <node ref="RL8" pin="11" pintype="passive"/>
+      <node ref="RL8" pin="6" pintype="passive"/>
+      <node ref="RL9" pin="11" pintype="passive"/>
+      <node ref="RL9" pin="6" pintype="passive"/>
+      <node ref="RL9" pin="9" pintype="passive"/>
+      <node ref="TP1" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pintype="passive"/>
     </net>
-    <net code="10" name="Net-(P1-Pad1)">
-      <node ref="RL1" pin="8"/>
-      <node ref="RL1" pin="9"/>
-      <node ref="P1" pin="1"/>
+    <net code="10" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L24" pin="1" pintype="passive"/>
+      <node ref="RL2" pin="1" pintype="passive"/>
     </net>
-    <net code="11" name="TX_RX_RLY">
-      <node ref="L17" pin="2"/>
-      <node ref="J1" pin="6"/>
+    <net code="11" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L25" pin="1" pintype="passive"/>
+      <node ref="RL3" pin="1" pintype="passive"/>
     </net>
-    <net code="12" name="Net-(C51-Pad2)">
-      <node ref="L16" pin="2"/>
-      <node ref="RL12" pin="4"/>
-      <node ref="RL12" pin="13"/>
-      <node ref="C51" pin="2"/>
-      <node ref="C55" pin="2"/>
+    <net code="12" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L26" pin="1" pintype="passive"/>
+      <node ref="RL4" pin="1" pintype="passive"/>
     </net>
-    <net code="13" name="Net-(C11-Pad2)">
-      <node ref="L1" pin="1"/>
-      <node ref="C16" pin="1"/>
-      <node ref="C11" pin="2"/>
-      <node ref="RL5" pin="4"/>
-      <node ref="RL5" pin="13"/>
+    <net code="13" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L27" pin="1" pintype="passive"/>
+      <node ref="RL5" pin="1" pintype="passive"/>
     </net>
-    <net code="14" name="Net-(C19-Pad2)">
-      <node ref="RL2" pin="13"/>
-      <node ref="C19" pin="2"/>
-      <node ref="L3" pin="1"/>
-      <node ref="RL2" pin="4"/>
-      <node ref="C25" pin="1"/>
+    <net code="14" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L28" pin="1" pintype="passive"/>
+      <node ref="RL6" pin="1" pintype="passive"/>
     </net>
-    <net code="15" name="Net-(C16-Pad2)">
-      <node ref="C18" pin="2"/>
-      <node ref="C31" pin="2"/>
-      <node ref="C16" pin="2"/>
-      <node ref="L1" pin="2"/>
-      <node ref="L9" pin="1"/>
-      <node ref="C35" pin="1"/>
+    <net code="15" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L29" pin="1" pintype="passive"/>
+      <node ref="RL7" pin="1" pintype="passive"/>
     </net>
-    <net code="16" name="Net-(C40-Pad2)">
-      <node ref="C40" pin="2"/>
-      <node ref="RL10" pin="13"/>
-      <node ref="C47" pin="2"/>
-      <node ref="L11" pin="2"/>
-      <node ref="RL10" pin="4"/>
+    <net code="16" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L17" pin="1" pintype="passive"/>
+      <node ref="RL1" pin="16" pintype="passive"/>
     </net>
-    <net code="17" name="Net-(C41-Pad2)">
-      <node ref="L12" pin="2"/>
-      <node ref="C41" pin="2"/>
-      <node ref="RL11" pin="13"/>
-      <node ref="C48" pin="2"/>
-      <node ref="RL11" pin="4"/>
+    <net code="17" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="RL5" pin="13" pintype="passive"/>
+      <node ref="RL5" pin="4" pintype="passive"/>
     </net>
-    <net code="18" name="Net-(C27-Pad2)">
-      <node ref="L5" pin="2"/>
-      <node ref="C27" pin="2"/>
-      <node ref="L12" pin="1"/>
-      <node ref="C41" pin="1"/>
-      <node ref="C34" pin="2"/>
+    <net code="18" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L30" pin="1" pintype="passive"/>
+      <node ref="RL8" pin="1" pintype="passive"/>
     </net>
-    <net code="19" name="Net-(C39-Pad2)">
-      <node ref="C46" pin="2"/>
-      <node ref="L10" pin="2"/>
-      <node ref="RL9" pin="13"/>
-      <node ref="RL9" pin="4"/>
-      <node ref="C39" pin="2"/>
+    <net code="19" name="Net-(C16-Pad2)">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="L9" pin="1" pintype="passive"/>
     </net>
-    <net code="20" name="Net-(C25-Pad2)">
-      <node ref="L10" pin="1"/>
-      <node ref="C32" pin="2"/>
-      <node ref="C39" pin="1"/>
-      <node ref="C25" pin="2"/>
-      <node ref="L3" pin="2"/>
+    <net code="20" name="Net-(C17-Pad1)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="L2" pin="1" pintype="passive"/>
+      <node ref="RL8" pin="13" pintype="passive"/>
+      <node ref="RL8" pin="4" pintype="passive"/>
     </net>
-    <net code="21" name="Net-(P3-Pad1)">
-      <node ref="RL12" pin="8"/>
-      <node ref="RL12" pin="9"/>
-      <node ref="RL14" pin="8"/>
-      <node ref="RL15" pin="8"/>
-      <node ref="RL14" pin="9"/>
-      <node ref="RL10" pin="8"/>
-      <node ref="RL11" pin="9"/>
-      <node ref="RL13" pin="9"/>
-      <node ref="RL13" pin="8"/>
-      <node ref="RL9" pin="9"/>
-      <node ref="RL9" pin="8"/>
-      <node ref="RL15" pin="9"/>
-      <node ref="P3" pin="1"/>
-      <node ref="RL11" pin="8"/>
-      <node ref="RL10" pin="9"/>
+    <net code="21" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="L2" pin="2" pintype="passive"/>
+      <node ref="L8" pin="1" pintype="passive"/>
     </net>
-    <net code="22" name="Net-(C52-Pad2)">
-      <node ref="D2" pin="2"/>
-      <node ref="RL9" pin="16"/>
-      <node ref="L31" pin="2"/>
-      <node ref="C52" pin="2"/>
+    <net code="22" name="Net-(C19-Pad2)">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="L3" pin="1" pintype="passive"/>
+      <node ref="RL2" pin="13" pintype="passive"/>
+      <node ref="RL2" pin="4" pintype="passive"/>
     </net>
-    <net code="23" name="Net-(C53-Pad2)">
-      <node ref="L32" pin="2"/>
-      <node ref="RL10" pin="16"/>
-      <node ref="D10" pin="2"/>
-      <node ref="C53" pin="2"/>
+    <net code="23" name="Net-(C20-Pad2)">
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="L4" pin="1" pintype="passive"/>
+      <node ref="RL3" pin="13" pintype="passive"/>
+      <node ref="RL3" pin="4" pintype="passive"/>
     </net>
-    <net code="24" name="Net-(C26-Pad2)">
-      <node ref="L4" pin="2"/>
-      <node ref="C33" pin="2"/>
-      <node ref="C26" pin="2"/>
-      <node ref="L11" pin="1"/>
-      <node ref="C40" pin="1"/>
+    <net code="24" name="Net-(C21-Pad2)">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="L5" pin="1" pintype="passive"/>
+      <node ref="RL4" pin="13" pintype="passive"/>
+      <node ref="RL4" pin="4" pintype="passive"/>
     </net>
-    <net code="25" name="Net-(C28-Pad2)">
-      <node ref="C36" pin="2"/>
-      <node ref="L6" pin="2"/>
-      <node ref="C28" pin="2"/>
-      <node ref="C43" pin="1"/>
-      <node ref="L13" pin="1"/>
+    <net code="25" name="Net-(C22-Pad2)">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="L6" pin="1" pintype="passive"/>
+      <node ref="RL6" pin="13" pintype="passive"/>
+      <node ref="RL6" pin="4" pintype="passive"/>
     </net>
-    <net code="26" name="Net-(C22-Pad2)">
-      <node ref="RL6" pin="13"/>
-      <node ref="C28" pin="1"/>
-      <node ref="RL6" pin="4"/>
-      <node ref="L6" pin="1"/>
-      <node ref="C22" pin="2"/>
+    <net code="26" name="Net-(C23-Pad2)">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="L7" pin="1" pintype="passive"/>
+      <node ref="RL7" pin="13" pintype="passive"/>
+      <node ref="RL7" pin="4" pintype="passive"/>
     </net>
-    <net code="27" name="Net-(C57-Pad2)">
-      <node ref="RL13" pin="16"/>
-      <node ref="C57" pin="2"/>
-      <node ref="L35" pin="2"/>
-      <node ref="D12" pin="2"/>
+    <net code="27" name="Net-(C25-Pad2)">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="L10" pin="1" pintype="passive"/>
+      <node ref="L3" pin="2" pintype="passive"/>
     </net>
-    <net code="28" name="Net-(C58-Pad2)">
-      <node ref="L36" pin="2"/>
-      <node ref="D13" pin="2"/>
-      <node ref="C58" pin="2"/>
-      <node ref="RL14" pin="16"/>
+    <net code="28" name="Net-(C26-Pad2)">
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="L11" pin="1" pintype="passive"/>
+      <node ref="L4" pin="2" pintype="passive"/>
     </net>
-    <net code="29" name="Net-(C44-Pad2)">
-      <node ref="L14" pin="2"/>
-      <node ref="RL14" pin="4"/>
-      <node ref="C50" pin="2"/>
-      <node ref="C44" pin="2"/>
-      <node ref="RL14" pin="13"/>
+    <net code="29" name="Net-(C27-Pad2)">
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="L12" pin="1" pintype="passive"/>
+      <node ref="L5" pin="2" pintype="passive"/>
     </net>
-    <net code="30" name="Net-(C43-Pad2)">
-      <node ref="L13" pin="2"/>
-      <node ref="C49" pin="2"/>
-      <node ref="RL13" pin="4"/>
-      <node ref="RL13" pin="13"/>
-      <node ref="C43" pin="2"/>
+    <net code="30" name="Net-(C28-Pad2)">
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="L13" pin="1" pintype="passive"/>
+      <node ref="L6" pin="2" pintype="passive"/>
     </net>
-    <net code="31" name="Net-(C35-Pad2)">
-      <node ref="C35" pin="2"/>
-      <node ref="C51" pin="1"/>
-      <node ref="L9" pin="2"/>
-      <node ref="C42" pin="2"/>
-      <node ref="L16" pin="1"/>
+    <net code="31" name="Net-(C29-Pad2)">
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="L14" pin="1" pintype="passive"/>
+      <node ref="L7" pin="2" pintype="passive"/>
     </net>
-    <net code="32" name="Net-(C56-Pad2)">
-      <node ref="RL12" pin="16"/>
-      <node ref="L34" pin="2"/>
-      <node ref="D11" pin="2"/>
-      <node ref="C56" pin="2"/>
+    <net code="32" name="Net-(C30-Pad2)">
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="L15" pin="1" pintype="passive"/>
+      <node ref="L8" pin="2" pintype="passive"/>
     </net>
-    <net code="33" name="Net-(C45-Pad2)">
-      <node ref="RL15" pin="13"/>
-      <node ref="RL15" pin="4"/>
-      <node ref="C45" pin="2"/>
-      <node ref="C59" pin="1"/>
-      <node ref="L15" pin="2"/>
+    <net code="33" name="Net-(C35-Pad2)">
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C51" pin="1" pintype="passive"/>
+      <node ref="L16" pin="1" pintype="passive"/>
+      <node ref="L9" pin="2" pintype="passive"/>
     </net>
-    <net code="34" name="Net-(C30-Pad2)">
-      <node ref="L15" pin="1"/>
-      <node ref="L8" pin="2"/>
-      <node ref="C30" pin="2"/>
-      <node ref="C38" pin="2"/>
-      <node ref="C45" pin="1"/>
+    <net code="34" name="Net-(C39-Pad2)">
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="L10" pin="2" pintype="passive"/>
+      <node ref="RL9" pin="13" pintype="passive"/>
+      <node ref="RL9" pin="4" pintype="passive"/>
     </net>
-    <net code="35" name="GND">
-      <node ref="C37" pin="1"/>
-      <node ref="C31" pin="1"/>
-      <node ref="C23" pin="1"/>
-      <node ref="C42" pin="1"/>
-      <node ref="C64" pin="2"/>
-      <node ref="C36" pin="1"/>
-      <node ref="C60" pin="2"/>
-      <node ref="C49" pin="1"/>
-      <node ref="C12" pin="2"/>
-      <node ref="C34" pin="1"/>
-      <node ref="C4" pin="2"/>
-      <node ref="C50" pin="1"/>
-      <node ref="C1" pin="2"/>
-      <node ref="C5" pin="2"/>
-      <node ref="C10" pin="2"/>
-      <node ref="C3" pin="2"/>
-      <node ref="C9" pin="2"/>
-      <node ref="C2" pin="2"/>
-      <node ref="C38" pin="1"/>
-      <node ref="C19" pin="1"/>
-      <node ref="C33" pin="1"/>
-      <node ref="C47" pin="1"/>
-      <node ref="C8" pin="2"/>
-      <node ref="C20" pin="1"/>
-      <node ref="C54" pin="1"/>
-      <node ref="C52" pin="1"/>
-      <node ref="C24" pin="1"/>
-      <node ref="C62" pin="2"/>
-      <node ref="P1" pin="2"/>
-      <node ref="C55" pin="1"/>
-      <node ref="C61" pin="2"/>
-      <node ref="C53" pin="1"/>
-      <node ref="C13" pin="2"/>
-      <node ref="C58" pin="1"/>
-      <node ref="P3" pin="2"/>
-      <node ref="C22" pin="1"/>
-      <node ref="C32" pin="1"/>
-      <node ref="C65" pin="2"/>
-      <node ref="C46" pin="1"/>
-      <node ref="C57" pin="1"/>
-      <node ref="C14" pin="2"/>
-      <node ref="C48" pin="1"/>
-      <node ref="C6" pin="2"/>
-      <node ref="C11" pin="1"/>
-      <node ref="C18" pin="1"/>
-      <node ref="RL10" pin="11"/>
-      <node ref="RL11" pin="11"/>
-      <node ref="TP4" pin="1"/>
-      <node ref="RL3" pin="6"/>
-      <node ref="TP2" pin="1"/>
-      <node ref="TP1" pin="1"/>
-      <node ref="RL5" pin="6"/>
-      <node ref="RL5" pin="11"/>
-      <node ref="RL4" pin="6"/>
-      <node ref="RL4" pin="11"/>
-      <node ref="RL6" pin="6"/>
-      <node ref="RL6" pin="11"/>
-      <node ref="RL13" pin="6"/>
-      <node ref="RL10" pin="6"/>
-      <node ref="RL7" pin="6"/>
-      <node ref="RL7" pin="11"/>
-      <node ref="RL14" pin="11"/>
-      <node ref="RL13" pin="11"/>
-      <node ref="RL11" pin="6"/>
-      <node ref="RL14" pin="6"/>
-      <node ref="RL9" pin="6"/>
-      <node ref="RL9" pin="11"/>
-      <node ref="J1" pin="10"/>
-      <node ref="C7" pin="2"/>
-      <node ref="C15" pin="2"/>
-      <node ref="C66" pin="2"/>
-      <node ref="C70" pin="1"/>
-      <node ref="P4" pin="2"/>
-      <node ref="C59" pin="2"/>
-      <node ref="RL2" pin="6"/>
-      <node ref="RL2" pin="11"/>
-      <node ref="RL12" pin="6"/>
-      <node ref="C63" pin="2"/>
-      <node ref="RL3" pin="11"/>
-      <node ref="TP3" pin="1"/>
-      <node ref="RL8" pin="11"/>
-      <node ref="RL8" pin="6"/>
-      <node ref="RL15" pin="11"/>
-      <node ref="RL12" pin="11"/>
-      <node ref="RL15" pin="6"/>
-      <node ref="C56" pin="1"/>
-      <node ref="C21" pin="1"/>
-      <node ref="C67" pin="2"/>
-      <node ref="C68" pin="2"/>
+    <net code="35" name="Net-(C40-Pad2)">
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="L11" pin="2" pintype="passive"/>
+      <node ref="RL10" pin="13" pintype="passive"/>
+      <node ref="RL10" pin="4" pintype="passive"/>
     </net>
-    <net code="36" name="Net-(C7-Pad1)">
-      <node ref="RL1" pin="16"/>
-      <node ref="C7" pin="1"/>
-      <node ref="L17" pin="1"/>
-      <node ref="D1" pin="2"/>
+    <net code="36" name="Net-(C41-Pad2)">
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C48" pin="2" pintype="passive"/>
+      <node ref="L12" pin="2" pintype="passive"/>
+      <node ref="RL11" pin="13" pintype="passive"/>
+      <node ref="RL11" pin="4" pintype="passive"/>
     </net>
-    <net code="37" name="+12V">
-      <node ref="RL8" pin="16"/>
-      <node ref="RL13" pin="1"/>
-      <node ref="RL15" pin="1"/>
-      <node ref="D2" pin="1"/>
-      <node ref="RL4" pin="16"/>
-      <node ref="RL12" pin="1"/>
-      <node ref="D6" pin="1"/>
-      <node ref="C67" pin="1"/>
-      <node ref="C68" pin="1"/>
-      <node ref="RL6" pin="16"/>
-      <node ref="RL3" pin="16"/>
-      <node ref="RL2" pin="16"/>
-      <node ref="C63" pin="1"/>
-      <node ref="RL14" pin="1"/>
-      <node ref="RL1" pin="1"/>
-      <node ref="RL7" pin="16"/>
-      <node ref="RL10" pin="1"/>
-      <node ref="C66" pin="1"/>
-      <node ref="RL9" pin="1"/>
-      <node ref="J1" pin="9"/>
-      <node ref="D15" pin="1"/>
-      <node ref="D3" pin="1"/>
-      <node ref="D10" pin="1"/>
-      <node ref="D4" pin="1"/>
-      <node ref="RL5" pin="16"/>
-      <node ref="D11" pin="1"/>
-      <node ref="D1" pin="1"/>
-      <node ref="RL11" pin="1"/>
-      <node ref="D9" pin="1"/>
-      <node ref="D8" pin="1"/>
-      <node ref="D14" pin="1"/>
-      <node ref="D13" pin="1"/>
-      <node ref="D5" pin="1"/>
-      <node ref="D7" pin="1"/>
-      <node ref="D12" pin="1"/>
-      <node ref="C8" pin="1"/>
-      <node ref="C62" pin="1"/>
-      <node ref="C61" pin="1"/>
-      <node ref="C13" pin="1"/>
-      <node ref="C14" pin="1"/>
-      <node ref="C10" pin="1"/>
-      <node ref="C9" pin="1"/>
-      <node ref="C65" pin="1"/>
-      <node ref="C12" pin="1"/>
-      <node ref="C64" pin="1"/>
-      <node ref="C60" pin="1"/>
+    <net code="37" name="Net-(C43-Pad2)">
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C49" pin="2" pintype="passive"/>
+      <node ref="L13" pin="2" pintype="passive"/>
+      <node ref="RL13" pin="13" pintype="passive"/>
+      <node ref="RL13" pin="4" pintype="passive"/>
     </net>
-    <net code="38" name="Net-(C4-Pad1)">
-      <node ref="D6" pin="2"/>
-      <node ref="RL5" pin="1"/>
-      <node ref="C4" pin="1"/>
-      <node ref="L27" pin="1"/>
+    <net code="38" name="Net-(C44-Pad2)">
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C50" pin="2" pintype="passive"/>
+      <node ref="L14" pin="2" pintype="passive"/>
+      <node ref="RL14" pin="13" pintype="passive"/>
+      <node ref="RL14" pin="4" pintype="passive"/>
     </net>
-    <net code="39" name="Net-(C15-Pad1)">
-      <node ref="L30" pin="1"/>
-      <node ref="C15" pin="1"/>
-      <node ref="D9" pin="2"/>
-      <node ref="RL8" pin="1"/>
+    <net code="39" name="Net-(C45-Pad2)">
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="C59" pin="1" pintype="passive"/>
+      <node ref="L15" pin="2" pintype="passive"/>
+      <node ref="RL15" pin="13" pintype="passive"/>
+      <node ref="RL15" pin="4" pintype="passive"/>
     </net>
-    <net code="40" name="Net-(C54-Pad2)">
-      <node ref="RL11" pin="16"/>
-      <node ref="D15" pin="2"/>
-      <node ref="C54" pin="2"/>
-      <node ref="L33" pin="2"/>
+    <net code="40" name="Net-(C51-Pad2)">
+      <node ref="C51" pin="2" pintype="passive"/>
+      <node ref="C55" pin="2" pintype="passive"/>
+      <node ref="L16" pin="2" pintype="passive"/>
+      <node ref="RL12" pin="13" pintype="passive"/>
+      <node ref="RL12" pin="4" pintype="passive"/>
     </net>
-    <net code="41" name="Net-(C70-Pad2)">
-      <node ref="D14" pin="2"/>
-      <node ref="L37" pin="2"/>
-      <node ref="RL15" pin="16"/>
-      <node ref="C70" pin="2"/>
+    <net code="41" name="Net-(C52-Pad2)">
+      <node ref="C52" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L31" pin="2" pintype="passive"/>
+      <node ref="RL9" pin="16" pintype="passive"/>
     </net>
-    <net code="42" name="Net-(C3-Pad1)">
-      <node ref="C3" pin="1"/>
-      <node ref="L26" pin="1"/>
-      <node ref="RL4" pin="1"/>
-      <node ref="D5" pin="2"/>
+    <net code="42" name="Net-(C53-Pad2)">
+      <node ref="C53" pin="2" pintype="passive"/>
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L32" pin="2" pintype="passive"/>
+      <node ref="RL10" pin="16" pintype="passive"/>
     </net>
-    <net code="43" name="Net-(C1-Pad1)">
-      <node ref="L24" pin="1"/>
-      <node ref="D3" pin="2"/>
-      <node ref="RL2" pin="1"/>
-      <node ref="C1" pin="1"/>
+    <net code="43" name="Net-(C54-Pad2)">
+      <node ref="C54" pin="2" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L33" pin="2" pintype="passive"/>
+      <node ref="RL11" pin="16" pintype="passive"/>
     </net>
-    <net code="44" name="Net-(C6-Pad1)">
-      <node ref="L29" pin="1"/>
-      <node ref="C6" pin="1"/>
-      <node ref="D8" pin="2"/>
-      <node ref="RL7" pin="1"/>
+    <net code="44" name="Net-(C56-Pad2)">
+      <node ref="C56" pin="2" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L34" pin="2" pintype="passive"/>
+      <node ref="RL12" pin="16" pintype="passive"/>
     </net>
-    <net code="45" name="30/20m">
-      <node ref="J1" pin="3"/>
-      <node ref="L27" pin="2"/>
-      <node ref="L34" pin="1"/>
+    <net code="45" name="Net-(C57-Pad2)">
+      <node ref="C57" pin="2" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L35" pin="2" pintype="passive"/>
+      <node ref="RL13" pin="16" pintype="passive"/>
     </net>
-    <net code="46" name="40m">
-      <node ref="L26" pin="2"/>
-      <node ref="L33" pin="1"/>
-      <node ref="J1" pin="1"/>
+    <net code="46" name="Net-(C58-Pad2)">
+      <node ref="C58" pin="2" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L36" pin="2" pintype="passive"/>
+      <node ref="RL14" pin="16" pintype="passive"/>
     </net>
-    <net code="47" name="80m">
-      <node ref="J1" pin="2"/>
-      <node ref="L25" pin="2"/>
-      <node ref="L32" pin="1"/>
+    <net code="47" name="Net-(C70-Pad2)">
+      <node ref="C70" pin="2" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L37" pin="2" pintype="passive"/>
+      <node ref="RL15" pin="16" pintype="passive"/>
     </net>
-    <net code="48" name="17/15m">
-      <node ref="L35" pin="1"/>
-      <node ref="L28" pin="2"/>
-      <node ref="J1" pin="5"/>
+    <net code="48" name="Net-(P1-Pad1)">
+      <node ref="P1" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="RL1" pin="8" pintype="passive"/>
+      <node ref="RL1" pin="9" pintype="passive"/>
     </net>
-    <net code="49" name="160m">
-      <node ref="L31" pin="1"/>
-      <node ref="J1" pin="4"/>
-      <node ref="L24" pin="2"/>
+    <net code="49" name="Net-(P4-Pad1)">
+      <node ref="P4" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="RL1" pin="11" pintype="passive"/>
+      <node ref="RL1" pin="6" pintype="passive"/>
     </net>
-    <net code="50" name="12/10m">
-      <node ref="J1" pin="7"/>
-      <node ref="L36" pin="1"/>
-      <node ref="L29" pin="2"/>
+    <net code="50" name="Net-(RL1-Pad13)">
+      <node ref="RL1" pin="13" pintype="passive"/>
+      <node ref="RL1" pin="4" pintype="passive"/>
+      <node ref="RL2" pin="8" pintype="passive"/>
+      <node ref="RL2" pin="9" pintype="passive"/>
+      <node ref="RL3" pin="8" pintype="passive"/>
+      <node ref="RL3" pin="9" pintype="passive"/>
+      <node ref="RL4" pin="8" pintype="passive"/>
+      <node ref="RL4" pin="9" pintype="passive"/>
+      <node ref="RL5" pin="8" pintype="passive"/>
+      <node ref="RL5" pin="9" pintype="passive"/>
+      <node ref="RL6" pin="8" pintype="passive"/>
+      <node ref="RL6" pin="9" pintype="passive"/>
+      <node ref="RL7" pin="8" pintype="passive"/>
+      <node ref="RL7" pin="9" pintype="passive"/>
+      <node ref="RL8" pin="8" pintype="passive"/>
+      <node ref="RL8" pin="9" pintype="passive"/>
     </net>
-    <net code="51" name="6m_Bypass">
-      <node ref="J1" pin="8"/>
-      <node ref="L30" pin="2"/>
-      <node ref="L37" pin="1"/>
+    <net code="51" name="TX_RX_RLY">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="L17" pin="2" pintype="passive"/>
     </net>
-    <net code="52" name="Net-(RL1-Pad13)">
-      <node ref="RL3" pin="9"/>
-      <node ref="RL3" pin="8"/>
-      <node ref="RL5" pin="9"/>
-      <node ref="RL4" pin="9"/>
-      <node ref="RL1" pin="13"/>
-      <node ref="RL1" pin="4"/>
-      <node ref="RL2" pin="8"/>
-      <node ref="RL4" pin="8"/>
-      <node ref="RL2" pin="9"/>
-      <node ref="RL6" pin="8"/>
-      <node ref="RL6" pin="9"/>
-      <node ref="RL7" pin="8"/>
-      <node ref="RL7" pin="9"/>
-      <node ref="RL8" pin="9"/>
-      <node ref="RL8" pin="8"/>
-      <node ref="RL5" pin="8"/>
+    <net code="52" name="unconnected-(RL9-Pad8)">
+      <node ref="RL9" pin="8" pintype="passive"/>
+    </net>
+    <net code="53" name="unconnected-(RL10-Pad8)">
+      <node ref="RL10" pin="8" pintype="passive"/>
+    </net>
+    <net code="54" name="unconnected-(RL11-Pad8)">
+      <node ref="RL11" pin="8" pintype="passive"/>
+    </net>
+    <net code="55" name="unconnected-(RL12-Pad8)">
+      <node ref="RL12" pin="8" pintype="passive"/>
+    </net>
+    <net code="56" name="unconnected-(RL13-Pad8)">
+      <node ref="RL13" pin="8" pintype="passive"/>
+    </net>
+    <net code="57" name="unconnected-(RL14-Pad8)">
+      <node ref="RL14" pin="8" pintype="passive"/>
+    </net>
+    <net code="58" name="unconnected-(RL15-Pad8)">
+      <node ref="RL15" pin="8" pintype="passive"/>
     </net>
   </nets>
 </export>
