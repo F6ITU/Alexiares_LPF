@@ -1,24 +1,26 @@
 # Alexiares_LPF
-This repository contains the up to date version of the OpenHPSDR Low Pass Filter project(Alexiares frontend). 
 
-**Important notice** : please check the "Branch" pull-down menu to see the different versions of the pcb
+[](https://github.com/F6ITU/Alexiares_LPF#alexiares_lpf)
 
+This repository contains the up to date version of the OpenHPSDR Low Pass Filter project (Alexiares frontend).
 
-This work is protected by the TAPR Open Hardware Licence https://www.tapr.org/ohl.html
+![lpf board](https://github.com/F6ITU/Alexiares_LPF/blob/master/images/IMG_8971.JPG)
 
-Original work by Graham Haddock, KE9H and Phil Harman, VK6APH.
+**Important notice**  : please check the "Branch" pull-down menu to see the different versions of the pcb
 
-3D image of the board are stored in the "images" folder (3D and pcb planes)
+This work is protected by the TAPR Open Hardware Licence  [https://www.tapr.org/ohl.html](https://www.tapr.org/ohl.html)
 
-This folder also include "real life" pictures of the board, Vector Analyzer capture of the filter's characteristics and a pdf file of the schematic
+Original work by Graham Haddock, KE9H and Phil Harman, VK6APH/VK6PH
 
 Board's dimensions 10x15cm , 4 layers
 
-So far, the Alex project under Kicad contains: 
+**More info and building instruction** on the  [dedicated Wiki page ](https://github.com/F6ITU/Alexiares_LPF/wiki) 
+
+So far, the Alex project under Kicad contains:
 
 AlexI2C
 
-Alexandrie 
+Alexandrie
 
 Alexiares_Coax_Out
 
@@ -27,3 +29,7 @@ Alexiares_HPF
 Alexiares_LPF (this one)
 
 Mentor
+
+Cerberus
+
+Aion
