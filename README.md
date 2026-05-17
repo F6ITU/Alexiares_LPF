@@ -6,6 +6,12 @@ This repository contains the up to date version of the OpenHPSDR Low Pass Filter
 
 ![lpf board](https://github.com/F6ITU/Alexiares_LPF/blob/master/images/IMG_8971.JPG)
 
+
+  **Pour plus d'informations, consultez le Wiki associé à cette page**
+  
+  **For more information, see the Wiki associated with this page**
+  
+
 **Important notice**  : please check the "Branch" pull-down menu to see the different versions of the pcb
 
 This work is protected by the TAPR Open Hardware Licence  [https://www.tapr.org/ohl.html](https://www.tapr.org/ohl.html)
